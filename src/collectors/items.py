@@ -80,7 +80,7 @@ class ItemsCollector(BaseCollector):
             if "items" in cont and target_item in cont["items"]:
                 containers.add(cont_index)
 
-        return list(containers)
+        return sorted(containers)
 
     def _check_paintable(self, item_data: dict[str, Any]) -> bool:
         """Check if item is paintable by looking for it in CDN data."""

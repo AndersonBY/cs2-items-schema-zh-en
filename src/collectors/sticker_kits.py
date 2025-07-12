@@ -96,4 +96,4 @@ class StickerKitsCollector(BaseCollector):
             if "kits" in cont_data and sticker_kit_index in cont_data["kits"]:
                 containers.add(cont_index)
 
-        return list(containers)
+        return sorted(containers)
