@@ -5,6 +5,6 @@ from multidict import CIMultiDict
 _DEF_DICT: TypeAlias = "dict[str, str]"
 
 ITEMS_GAME: TypeAlias = "dict[str, dict[str, Any]]"
-CSGO_ENGLISH: TypeAlias = "CIMultiDict[str, str]"
-CSGO_SCHINESE: TypeAlias = "CIMultiDict[str, str]"
+CSGO_ENGLISH: TypeAlias = "CIMultiDict[str]"
+CSGO_SCHINESE: TypeAlias = "CIMultiDict[str]"
 ITEMS_CDN: TypeAlias = _DEF_DICT

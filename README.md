@@ -8,6 +8,13 @@
 This is storage repo of `CS2` (ex. `CSGO`) items schema with attempt to create more understandable format
 of `CS2` items and their relations.
 
+## Improvements 🚀
+
+This project has been enhanced with the following improvements:
+
+- **Chinese name support**: Added Chinese name output for CS2 items, making it more accessible for Chinese users
+- **Format fixes**: Optimized data format and structure for better readability and consistency
+
 > Feel free to use it if you need 😊
 
 > [!IMPORTANT]

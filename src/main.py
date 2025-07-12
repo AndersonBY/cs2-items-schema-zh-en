@@ -2,11 +2,11 @@ import asyncio
 import json
 from dataclasses import dataclass, field
 from pathlib import Path
-from typing import Any
+from typing import Any, Optional, Union
 
 import aiohttp
 from multidict import CIMultiDict
-import vdf
+import vdf  # type: ignore
 
 from . import typings
 
@@ -28,11 +28,11 @@ class ResourceCollector:
     items_game_cdn_url: str = "https://raw.githubusercontent.com/AndersonBY/cs-files-zh-en/master/static/items_game_cdn.txt"
 
     # predefined schemas
-    phases: dict[str, str] = None
-    origins: dict[str, str] = None
-    wears: list[dict[str, Any]] = None
+    phases: Optional[dict[str, str]] = None
+    origins: Optional[dict[str, str]] = None
+    wears: Optional[list[dict[str, Any]]] = None
 
-    _phases_mapping: dict[str, str] = None
+    _phases_mapping: Optional[dict[str, str]] = None
 
     def __post_init__(self):
         with (self.resource_dir / "_phases_mapping.json").open("r") as p:
@@ -60,20 +60,20 @@ class ResourceCollector:
             items_game_raw, csgo_english_raw, csgo_schinese_raw, items_game_cdn_raw = [await resp.text() for resp in resps]
 
         items_game = vdf.loads(items_game_raw)["items_game"]
-        csgo_english = CIMultiDict(vdf.loads(csgo_english_raw)["lang"]["Tokens"])
-        csgo_schinese = CIMultiDict(vdf.loads(csgo_schinese_raw)["lang"]["Tokens"])
-        items_cdn = {k: v for k, v in (l.split("=") for l in items_game_cdn_raw.splitlines()[3:])}
+        csgo_english: typings.CSGO_ENGLISH = CIMultiDict(vdf.loads(csgo_english_raw)["lang"]["Tokens"])
+        csgo_schinese: typings.CSGO_SCHINESE = CIMultiDict(vdf.loads(csgo_schinese_raw)["lang"]["Tokens"])
+        items_cdn = {k: v for k, v in (line.split("=") for line in items_game_cdn_raw.splitlines()[3:])}
 
         return items_game, csgo_english, csgo_schinese, items_cdn
 
     @staticmethod
-    def dump_json_files(*files: tuple[str | Path, dict | list], dir: Path):
+    def dump_json_files(*files: tuple[Union[str, Path], Union[dict, list]], dir: Path):
         for file_name, file in files:
             with (dir / file_name).open("w") as f:
                 json.dump(file, f, sort_keys=True, indent=2, ensure_ascii=False)
 
     @staticmethod
-    def dump_files(*files: tuple[str | Path, str], dir: Path):
+    def dump_files(*files: tuple[Union[str, Path], str], dir: Path):
         for file_name, file in files:
             with (dir / file_name).open("w", encoding="utf8") as f:
                 f.write(file)
@@ -81,6 +81,8 @@ class ResourceCollector:
     async def collect(self):
         items_game, csgo_english, csgo_schinese, items_cdn = await self.fetch_data()
 
+        if self._phases_mapping is None:
+            raise ValueError("Phases mapping not loaded")
         fields_collector = FieldsCollector(items_game, csgo_english, csgo_schinese, self._phases_mapping)
         types, qualities, definitions, paints, rarities, musics, tints = fields_collector()
 
@@ -118,6 +120,8 @@ class ResourceCollector:
             ("tints.json", tints),
         ]
 
+        if self.phases is None or self.wears is None or self.origins is None:
+            raise ValueError("Required data not loaded")
         sql_creator = SQLCreator(**{k.split(".json")[0]: v for k, v in to_json_dump}, phases=self.phases, wears=self.wears, origins=self.origins)
         sql_dumps = sql_creator.create()
 

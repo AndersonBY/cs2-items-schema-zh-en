@@ -1,4 +1,5 @@
 from dataclasses import dataclass, field
+from typing import Any, Optional
 
 from . import typings
 from .utils import invert_dict
@@ -13,7 +14,7 @@ class FieldsCollector:
     csgo_schinese: typings.CSGO_SCHINESE
     phases_mapping: dict[str, str]
 
-    _types_mapping: dict[str, str] = None
+    _types_mapping: Optional[dict[str, str]] = None
     _qualities_mapping: dict[str, str] = field(default_factory=dict)
     _rarities_mapping: dict[str, str] = field(default_factory=dict)
 
@@ -31,11 +32,11 @@ class FieldsCollector:
 
         return qualities
 
-    def _find_item_name(self, item_data: dict[str, str]) -> str | None:
+    def _find_item_name(self, item_data: dict[str, str]) -> str:
         prefab = self._find_top_level_prefab(item_data, "item_name")
         return self.csgo_english[prefab["item_name"][1:]]
 
-    def _find_top_level_prefab(self, data: dict[str, str], attr: str):
+    def _find_top_level_prefab(self, data: dict[str, str], attr: str) -> dict[str, Any]:
         # KeyError excepted on upper level of the stack
         if data.get(attr):
             return data
@@ -53,9 +54,11 @@ class FieldsCollector:
     def _find_type(self, item_data: dict[str, str]) -> str:
         # find top level prefab with 'item_type_name'
         prefab = self._find_top_level_prefab(item_data, "item_type_name")
+        if self._types_mapping is None:
+            raise ValueError("Types mapping not initialized")
         return self._types_mapping[self.csgo_english[prefab["item_type_name"][1:]]]
 
-    def _parse_definitions(self) -> dict[str, dict[str, str]]:
+    def _parse_definitions(self) -> dict[str, dict[str, Any]]:
         definitions = {}
         for defindex, item_data in self.items_game["items"].items():
             try:
@@ -80,7 +83,7 @@ class FieldsCollector:
 
         return definitions
 
-    def _parse_paints(self):
+    def _parse_paints(self) -> dict[str, dict[str, Any]]:
         paints = {}
         for paintindex, paint_data in self.items_game["paint_kits"].items():
             try:
@@ -92,7 +95,8 @@ class FieldsCollector:
                     "wear_max": float(paint_data.get("wear_remap_max", 0.8)),
                 }
 
-                if "doppler" in paint["name"].lower() and (phase := self.phases_mapping.get(paintindex)):
+                paint_name = paint["name"]
+                if isinstance(paint_name, str) and "doppler" in paint_name.lower() and (phase := self.phases_mapping.get(paintindex)):
                     paint["phase"] = phase
 
                 # we have rarity on inspected item
@@ -168,7 +172,17 @@ class FieldsCollector:
 
         return music_defs
 
-    def __call__(self) -> tuple[dict, ...]:
+    def __call__(
+        self,
+    ) -> tuple[
+        dict[str, str],
+        dict[str, dict[str, str]],
+        dict[str, dict[str, Any]],
+        dict[str, dict[str, Any]],
+        dict[str, dict[str, Any]],
+        dict[str, dict[str, str]],
+        dict[str, dict[str, str]],
+    ]:
         """Parse all data to indexed format"""
 
         # separate fields

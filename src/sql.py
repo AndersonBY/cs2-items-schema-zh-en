@@ -1,4 +1,5 @@
 from dataclasses import dataclass, field
+from typing import Any, Mapping
 
 from sqlalchemy import create_mock_engine, MetaData, Table, Column, ForeignKey, UniqueConstraint, Index
 from sqlalchemy.types import SmallInteger, String, Float, TypeEngine
@@ -166,20 +167,20 @@ StickerKitsContainersJunction = Table(
 @dataclass(eq=False, repr=False)
 class SQLCreator:
     types: dict[str, str]
-    qualities: dict[str, str]
-    definitions: dict[str, dict]
-    paints: dict[str, dict]
-    musics: dict[str, str]
-    rarities: dict[str, dict]
-    containers: dict[str, dict]
-    sticker_kit_containers: dict[str, dict]
-    items: dict[str, dict]
-    sticker_kits: dict[str, dict]
-    music_kits: dict[str, dict]
+    qualities: dict[str, dict[str, str]]
+    definitions: dict[str, dict[str, Any]]
+    paints: dict[str, dict[str, Any]]
+    musics: dict[str, dict[str, str]]
+    rarities: dict[str, dict[str, Any]]
+    containers: dict[str, dict[str, Any]]
+    sticker_kit_containers: dict[str, dict[str, Any]]
+    items: dict[str, dict[str, Any]]
+    sticker_kits: dict[str, dict[str, Any]]
+    music_kits: dict[str, dict[str, Any]]
     tints: dict[str, str]
     phases: dict[str, str]
     origins: dict[str, str]
-    wears: list[dict[str, ...]]
+    wears: list[dict[str, Any]]
 
     dialect: Dialect = field(default_factory=sqlite.dialect)
 
@@ -212,28 +213,18 @@ class SQLCreator:
 
         return scripts
 
-    def _base_field(self, table: Table, source: dict[str, str | dict]):
+    def _base_field(self, table: Table, source: Mapping[str, str | dict[str, str]]):
         statements = []
         for type_id, type_data in source.items():
             if isinstance(type_data, dict):
                 # Handle new dict structure with Chinese support
-                values = {"id": int(type_id)}
+                values: dict[str, Any] = {"id": int(type_id)}
                 for key, value in type_data.items():
                     values[key] = value
-                statements.append(
-                    table.insert()
-                    .values(**values)
-                    .compile(dialect=self.dialect, compile_kwargs={"literal_binds": True})
-                    .string
-                )
+                statements.append(table.insert().values(**values).compile(dialect=self.dialect, compile_kwargs={"literal_binds": True}).string)
             else:
                 # Handle old string structure (backward compatibility)
-                statements.append(
-                    table.insert()
-                    .values(id=int(type_id), name=type_data)
-                    .compile(dialect=self.dialect, compile_kwargs={"literal_binds": True})
-                    .string
-                )
+                statements.append(table.insert().values(id=int(type_id), name=type_data).compile(dialect=self.dialect, compile_kwargs={"literal_binds": True}).string)
 
         return statements
 
@@ -250,24 +241,14 @@ class SQLCreator:
     def _populate_rarities(self):
         rarities = []
         for rarity_id, rarity_data in self.rarities.items():
-            rarities.append(
-                Rarities.insert()
-                .values(id=int(rarity_id), **rarity_data)
-                .compile(dialect=self.dialect, compile_kwargs={"literal_binds": True})
-                .string
-            )
+            rarities.append(Rarities.insert().values(id=int(rarity_id), **rarity_data).compile(dialect=self.dialect, compile_kwargs={"literal_binds": True}).string)
 
         return rarities
 
     def _populate_wears(self):
         wears = []
         for wear_data in self.wears:
-            wears.append(
-                Wears.insert()
-                .values(**wear_data)
-                .compile(dialect=self.dialect, compile_kwargs={"literal_binds": True})
-                .string
-            )
+            wears.append(Wears.insert().values(**wear_data).compile(dialect=self.dialect, compile_kwargs={"literal_binds": True}).string)
 
         return wears
 

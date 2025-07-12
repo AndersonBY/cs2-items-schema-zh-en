@@ -1,8 +1,8 @@
 import hashlib
-from typing import IO
+from typing import IO, Any, Optional
 
 
-def invert_dict(mapping: dict[str, ...], key: str = None) -> dict[str, ...]:
+def invert_dict(mapping: dict[str, Any], key: Optional[str] = None) -> dict[str, Any]:
     return {(v if key is None else v[key]): k for k, v in mapping.items()}
 
 
