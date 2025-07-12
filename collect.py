@@ -7,6 +7,7 @@ from pathlib import Path
 from src.config import Settings
 from src.core import ResourceCollector
 from src.services.auto_downloader import AutoDownloader
+from src.services.item_formatter import ItemFormatterService
 
 
 def setup_logging() -> None:
@@ -101,6 +102,13 @@ if __name__ == "__main__":
 
     try:
         asyncio.run(collector.collect())
+
+        # 数据收集完成后，自动格式化物品数据
+        logging.info("Starting item formatting...")
+        formatter = ItemFormatterService(schemas_dir="schemas")
+        formatted_items = formatter.save_formatted_items()
+        logging.info(f"Item formatting completed. {len(formatted_items)} items processed.")
+
     except KeyboardInterrupt:
         logging.info("Collection interrupted by user")
     except Exception as e:
