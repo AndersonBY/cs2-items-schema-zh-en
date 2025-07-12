@@ -20,6 +20,8 @@ class BaseCollector(ABC):
             raise DataValidationError("items_game data is missing or empty")
         if not self.game_data.csgo_english:
             raise DataValidationError("csgo_english data is missing or empty")
+        if not self.game_data.csgo_schinese:
+            raise DataValidationError("csgo_schinese data is missing or empty")
 
     def _get_localized_name(self, key: str, fallback: str = "") -> tuple[str, str]:
         """Get English and Chinese localized names for a key."""

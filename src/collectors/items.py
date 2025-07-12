@@ -36,6 +36,7 @@ class ItemsCollector(BaseCollector):
 
             if not self._check_paintable(item_data):  # Non-paintable items
                 item = {
+                    "name": item_data.get("name", ""),
                     "def": defindex,
                 }
                 items[defindex] = item
@@ -45,6 +46,7 @@ class ItemsCollector(BaseCollector):
                     item_name = self._create_painted_item_name(defindex, paint_index)
                     if item_name in self.game_data.items_cdn:
                         item = {
+                            "name": item_data.get("name", ""),
                             "def": defindex,
                             "image": self.game_data.items_cdn[item_name],
                             "paint": paint_index,

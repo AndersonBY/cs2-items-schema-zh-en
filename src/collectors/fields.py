@@ -17,7 +17,9 @@ class FieldsCollector(BaseCollector):
         self._qualities_mapping: dict[str, str] = {}
         self._rarities_mapping: dict[str, str] = {}
 
-    def collect(self) -> tuple[
+    def collect(
+        self,
+    ) -> tuple[
         dict[str, str],  # types
         dict[str, dict[str, str]],  # qualities
         dict[str, dict[str, Any]],  # definitions
@@ -75,8 +77,10 @@ class FieldsCollector(BaseCollector):
                 continue
 
             try:
+                item_name = self._find_item_name(item_data)
                 definition = {
-                    "name": self._find_item_name(item_data),
+                    "name": item_name["en"],
+                    "name_zh": item_name["zh"],
                     "type": self._find_item_type(item_data),
                 }
 
@@ -263,13 +267,16 @@ class FieldsCollector(BaseCollector):
 
         return music_defs
 
-    def _find_item_name(self, item_data: dict[str, Any]) -> str:
+    def _find_item_name(self, item_data: dict[str, Any]) -> dict[str, str]:
         """Find the display name for an item."""
         prefab = self._find_top_level_prefab(item_data, "item_name")
         item_name_key = prefab.get("item_name", "")
         if item_name_key.startswith("#"):
-            return self.game_data.csgo_english.get(item_name_key[1:], "")
-        return ""
+            return {
+                "en": self.game_data.csgo_english.get(item_name_key[1:], ""),
+                "zh": self.game_data.csgo_schinese.get(item_name_key[1:], ""),
+            }
+        return {"en": "", "zh": ""}
 
     def _find_item_type(self, item_data: dict[str, Any]) -> str:
         """Find the type ID for an item."""
