@@ -138,3 +138,7 @@ cython_debug/
 
 .pdm-python
 pdm.lock
+
+.ruff_cache/
+
+.claude/

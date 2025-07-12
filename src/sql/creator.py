@@ -1,10 +1,11 @@
+from collections.abc import Mapping
 from dataclasses import dataclass, field
-from typing import Any, Mapping
+from typing import Any
 
-from sqlalchemy import create_mock_engine, MetaData, Table, Column, ForeignKey, UniqueConstraint, Index
-from sqlalchemy.types import SmallInteger, String, Float, TypeEngine
-from sqlalchemy.dialects import postgresql, mysql, mssql, oracle, sqlite
+from sqlalchemy import Column, ForeignKey, Index, MetaData, Table, UniqueConstraint, create_mock_engine
+from sqlalchemy.dialects import mssql, mysql, oracle, postgresql, sqlite
 from sqlalchemy.engine.interfaces import Dialect
+from sqlalchemy.types import Float, SmallInteger, String, TypeEngine
 
 metadata = MetaData()
 
@@ -197,9 +198,15 @@ class SQLCreator:
         ]:
             file = f"create_{file_suffix}.sql"
 
-            script_arr = []
+            script_arr: list[str] = []
 
-            def dump(sql: TypeEngine, *multiparams, **params):
+            def dump(
+                sql: TypeEngine,
+                *multiparams: Any,
+                dialect: Dialect = dialect,
+                script_arr: list[str] = script_arr,
+                **params: Any,
+            ) -> None:
                 exp = sql.compile(dialect=dialect)
                 script_arr.append(str(exp))
 
@@ -213,7 +220,7 @@ class SQLCreator:
 
         return scripts
 
-    def _base_field(self, table: Table, source: Mapping[str, str | dict[str, str]]):
+    def _base_field(self, table: Table, source: Mapping[str, str | dict[str, str]]) -> list[str]:
         statements = []
         for type_id, type_data in source.items():
             if isinstance(type_data, dict):
@@ -221,14 +228,24 @@ class SQLCreator:
                 values: dict[str, Any] = {"id": int(type_id)}
                 for key, value in type_data.items():
                     values[key] = value
-                statements.append(table.insert().values(**values).compile(dialect=self.dialect, compile_kwargs={"literal_binds": True}).string)
+                statements.append(
+                    table.insert()
+                    .values(**values)
+                    .compile(dialect=self.dialect, compile_kwargs={"literal_binds": True})
+                    .string
+                )
             else:
                 # Handle old string structure (backward compatibility)
-                statements.append(table.insert().values(id=int(type_id), name=type_data).compile(dialect=self.dialect, compile_kwargs={"literal_binds": True}).string)
+                statements.append(
+                    table.insert()
+                    .values(id=int(type_id), name=type_data)
+                    .compile(dialect=self.dialect, compile_kwargs={"literal_binds": True})
+                    .string
+                )
 
         return statements
 
-    def _populate_base_fields(self):
+    def _populate_base_fields(self) -> tuple[list[str], list[str], list[str], list[str], list[str], list[str]]:
         types = self._base_field(Types, self.types)
         origins = self._base_field(Origins, self.origins)
         musics = self._base_field(Musics, self.musics)
@@ -238,21 +255,31 @@ class SQLCreator:
 
         return types, origins, musics, qualities, phases, tints
 
-    def _populate_rarities(self):
+    def _populate_rarities(self) -> list[str]:
         rarities = []
         for rarity_id, rarity_data in self.rarities.items():
-            rarities.append(Rarities.insert().values(id=int(rarity_id), **rarity_data).compile(dialect=self.dialect, compile_kwargs={"literal_binds": True}).string)
+            rarities.append(
+                Rarities.insert()
+                .values(id=int(rarity_id), **rarity_data)
+                .compile(dialect=self.dialect, compile_kwargs={"literal_binds": True})
+                .string
+            )
 
         return rarities
 
-    def _populate_wears(self):
+    def _populate_wears(self) -> list[str]:
         wears = []
         for wear_data in self.wears:
-            wears.append(Wears.insert().values(**wear_data).compile(dialect=self.dialect, compile_kwargs={"literal_binds": True}).string)
+            wears.append(
+                Wears.insert()
+                .values(**wear_data)
+                .compile(dialect=self.dialect, compile_kwargs={"literal_binds": True})
+                .string
+            )
 
         return wears
 
-    def _populate_defs(self):
+    def _populate_defs(self) -> list[str]:
         defs = []
         for defindex, def_data in self.definitions.items():
             defs.append(
@@ -270,7 +297,7 @@ class SQLCreator:
 
         return defs
 
-    def _populate_paints(self):
+    def _populate_paints(self) -> list[str]:
         paints = []
         for paintindex, paint_data in self.paints.items():
             paints.append(
@@ -290,7 +317,7 @@ class SQLCreator:
 
         return paints
 
-    def _populate_items(self):
+    def _populate_items(self) -> list[str]:
         items = []
         for item_id, item_data in self.items.items():
             items.append(
@@ -307,7 +334,7 @@ class SQLCreator:
 
         return items
 
-    def _populate_sticker_kits(self):
+    def _populate_sticker_kits(self) -> list[str]:
         sticker_kits = []
         for sticker_kits_id, sticker_kits_data in self.sticker_kits.items():
             sticker_kits.append(
@@ -324,7 +351,7 @@ class SQLCreator:
 
         return sticker_kits
 
-    def _populate_containers(self):
+    def _populate_containers(self) -> tuple[list[str], list[str]]:
         containers = []
         junctions = []
         for defindex, cont_data in self.containers.items():
@@ -352,7 +379,7 @@ class SQLCreator:
 
         return containers, junctions
 
-    def _populate_sticker_kit_containers(self):
+    def _populate_sticker_kit_containers(self) -> tuple[list[str], list[str]]:
         containers = []
         junctions = []
         for defindex, cont_data in self.sticker_kit_containers.items():
@@ -378,7 +405,7 @@ class SQLCreator:
 
         return containers, junctions
 
-    def _populate_music_kits(self):
+    def _populate_music_kits(self) -> tuple[list[str], list[str]]:
         containers = []
         junctions = []
         for defindex, cont_data in self.music_kits.items():
@@ -419,7 +446,7 @@ class SQLCreator:
 
         containers, items_junc = self._populate_containers()
         sticker_kit_container, stick_junc = self._populate_sticker_kit_containers()
-        music_kits, music_junc = self._populate_sticker_kit_containers()
+        music_kits, music_junc = self._populate_music_kits()
 
         populate = ";\n".join(
             [
