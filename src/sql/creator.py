@@ -178,7 +178,7 @@ class SQLCreator:
     items: dict[str, dict[str, Any]]
     sticker_kits: dict[str, dict[str, Any]]
     music_kits: dict[str, dict[str, Any]]
-    tints: dict[str, str]
+    tints: dict[str, dict[str, str]]
     phases: dict[str, str]
     origins: dict[str, str]
     wears: list[dict[str, Any]]

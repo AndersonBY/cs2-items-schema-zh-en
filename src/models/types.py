@@ -39,3 +39,7 @@ class ProcessedData:
     items: dict[str, dict[str, Any]]
     sticker_kits: dict[str, dict[str, Any]]
     music_kits: dict[str, dict[str, Any]]
+    # Separated sticker kit types (optional, for future use)
+    stickers: dict[str, dict[str, Any]] | None = None
+    patches: dict[str, dict[str, Any]] | None = None
+    graffities: dict[str, dict[str, Any]] | None = None

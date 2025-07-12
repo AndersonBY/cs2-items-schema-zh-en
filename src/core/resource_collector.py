@@ -3,7 +3,7 @@
 import logging
 from typing import Any
 
-from ..collectors import FieldsCollector
+from ..collectors import ContainersCollector, FieldsCollector, ItemsCollector, StickerKitsCollector
 from ..config import Settings
 from ..exceptions import CS2SchemaError
 from ..services import DataFetcher, FileManager
@@ -38,13 +38,31 @@ class ResourceCollector:
             fields_collector = FieldsCollector(game_data, schemas["phasesmapping"])
             types, qualities, definitions, paints, rarities, musics, tints = fields_collector.collect()
 
-            # TODO: Process containers, items, and sticker kits
-            # For now, create empty collections to maintain structure
-            containers = {}
-            sticker_kit_containers = {}
-            items = {}
-            sticker_kits = {}
-            music_kits = {}
+            # Process containers data
+            logger.info("Processing container data")
+            containers_collector = ContainersCollector(game_data)
+            weapon_cases, souvenir_cases, sticker_capsules, patch_capsules, music_kit_containers = (
+                containers_collector.collect()
+            )
+
+            # Combine all container types
+            containers = {**weapon_cases, **souvenir_cases}
+            sticker_kit_containers = {**sticker_capsules, **patch_capsules}
+
+            # Process items data
+            logger.info("Processing items data")
+            items_collector = ItemsCollector(game_data, paints, definitions, containers)
+            items = items_collector.collect()
+
+            # Process sticker kits data
+            logger.info("Processing sticker kits data")
+            sticker_kits_collector = StickerKitsCollector(game_data, sticker_kit_containers)
+            stickers, patches, graffities = sticker_kits_collector.collect()
+
+            # Combine all sticker-related data for now (can be separated later if needed)
+            sticker_kits = {**stickers, **patches, **graffities}
+
+            music_kits: dict[str, Any] = music_kit_containers
 
             logger.info("Preparing data for export")
             json_files = self._prepare_json_files(
@@ -69,17 +87,17 @@ class ResourceCollector:
                 qualities=qualities,
                 definitions=definitions,
                 paints=paints,
-                rarities=rarities,
                 musics=musics,
-                tints=tints,
+                rarities=rarities,
                 containers=containers,
                 sticker_kit_containers=sticker_kit_containers,
                 items=items,
                 sticker_kits=sticker_kits,
                 music_kits=music_kits,
+                tints=tints,
                 phases=schemas["phases"],
-                wears=schemas["wears"],
                 origins=schemas["origins"],
+                wears=schemas["wears"],
             )
             sql_files = sql_creator.create()
 

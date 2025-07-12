@@ -25,6 +25,8 @@ dependencies = [
     "aiohttp>=3.9.1,<4.0.0",
     "vdf>=3.4,<4.0",
     "multidict>=6.0.0",
+    "steam[client]>=1.4.4",
+    "vpk>=1.4.0",
 ]
 
 [project.urls]

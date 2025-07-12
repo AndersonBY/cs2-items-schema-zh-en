@@ -30,7 +30,7 @@ class Settings:
     # Required schema files
     REQUIRED_SCHEMA_FILES: ClassVar[list[str]] = ["_phases_mapping.json", "phases.json", "origins.json", "wears.json"]
 
-    def __post_init__(self):
+    def __post_init__(self) -> None:
         """Validate settings after initialization."""
         if not self.resource_dir.exists():
             self.resource_dir.mkdir(parents=True, exist_ok=True)
