@@ -1,21 +1,78 @@
 {
-  "1": "Brick Red",
-  "10": "Cash Green",
-  "11": "Wire Blue",
-  "12": "Monarch Blue",
-  "13": "SWAT Blue",
-  "14": "Violent Violet",
-  "15": "Monster Purple",
-  "16": "Bazooka Pink",
-  "17": "Princess Pink",
-  "18": "War Pig Pink",
-  "19": "Shark White",
-  "2": "Blood Red",
-  "3": "Tiger Orange",
-  "4": "Dust Brown",
-  "5": "Desert Amber",
-  "6": "Tracer Yellow",
-  "7": "Battle Green",
-  "8": "Jungle Green",
-  "9": "Frog Green"
+  "1": {
+    "name": "Brick Red",
+    "name_zh": "砖红"
+  },
+  "10": {
+    "name": "Cash Green",
+    "name_zh": "豆青"
+  },
+  "11": {
+    "name": "Wire Blue",
+    "name_zh": "群青"
+  },
+  "12": {
+    "name": "Monarch Blue",
+    "name_zh": "黛蓝"
+  },
+  "13": {
+    "name": "SWAT Blue",
+    "name_zh": "靛蓝"
+  },
+  "14": {
+    "name": "Violent Violet",
+    "name_zh": "纯紫"
+  },
+  "15": {
+    "name": "Monster Purple",
+    "name_zh": "暗紫"
+  },
+  "16": {
+    "name": "Bazooka Pink",
+    "name_zh": "丁香"
+  },
+  "17": {
+    "name": "Princess Pink",
+    "name_zh": "酱紫"
+  },
+  "18": {
+    "name": "War Pig Pink",
+    "name_zh": "藕色"
+  },
+  "19": {
+    "name": "Shark White",
+    "name_zh": "灰色"
+  },
+  "2": {
+    "name": "Blood Red",
+    "name_zh": "血红"
+  },
+  "3": {
+    "name": "Tiger Orange",
+    "name_zh": "黄褐"
+  },
+  "4": {
+    "name": "Dust Brown",
+    "name_zh": "灰褐"
+  },
+  "5": {
+    "name": "Desert Amber",
+    "name_zh": "棕褐"
+  },
+  "6": {
+    "name": "Tracer Yellow",
+    "name_zh": "草绿"
+  },
+  "7": {
+    "name": "Battle Green",
+    "name_zh": "军绿"
+  },
+  "8": {
+    "name": "Jungle Green",
+    "name_zh": "深绿"
+  },
+  "9": {
+    "name": "Frog Green",
+    "name_zh": "暗绿"
+  }
 }

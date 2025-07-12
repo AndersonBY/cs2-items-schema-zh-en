@@ -26,6 +26,7 @@ Qualities = Table(
     metadata,
     Column("id", SmallInteger, primary_key=True, autoincrement=False),
     Column("name", String(16)),
+    Column("name_zh", String(32)),
 )
 
 Phases = Table(
@@ -40,6 +41,7 @@ Tints = Table(
     metadata,
     Column("id", SmallInteger, primary_key=True, autoincrement=False),
     Column("name", String(16)),
+    Column("name_zh", String(32)),
 )
 
 Musics = Table(
@@ -47,6 +49,7 @@ Musics = Table(
     metadata,
     Column("id", SmallInteger, primary_key=True, autoincrement=False),
     Column("name", String(16)),
+    Column("name_zh", String(32)),
 )
 
 Rarities = Table(
@@ -54,9 +57,12 @@ Rarities = Table(
     metadata,
     Column("id", SmallInteger, primary_key=True, autoincrement=False),
     Column("character", String(16)),
+    Column("character_zh", String(32)),
     Column("color", String(16), nullable=False),
     Column("nonweapon", String(16), nullable=False),
+    Column("nonweapon_zh", String(32)),
     Column("weapon", String(16), nullable=False),
+    Column("weapon_zh", String(32)),
 )
 
 Wears = Table(
@@ -82,6 +88,7 @@ Paints = Table(
     metadata,
     Column("paintindex", SmallInteger, primary_key=True, autoincrement=False),
     Column("name", String(60), nullable=False),
+    Column("name_zh", String(120)),
     Column("wear_min", Float, nullable=False),
     Column("wear_max", Float, nullable=False),
     Column("rarity", SmallInteger, ForeignKey(Rarities.c.id), nullable=False),
@@ -104,6 +111,7 @@ StickerKits = Table(
     metadata,
     Column("id", SmallInteger, primary_key=True, autoincrement=False),
     Column("name", String(60), nullable=False),
+    Column("name_zh", String(120)),
     Column("rarity", SmallInteger, ForeignKey(Rarities.c.id)),
 )
 
@@ -204,15 +212,28 @@ class SQLCreator:
 
         return scripts
 
-    def _base_field(self, table: Table, source: dict[str, str]):
+    def _base_field(self, table: Table, source: dict[str, str | dict]):
         statements = []
-        for type_id, type_name in source.items():
-            statements.append(
-                table.insert()
-                .values(id=int(type_id), name=type_name)
-                .compile(dialect=self.dialect, compile_kwargs={"literal_binds": True})
-                .string
-            )
+        for type_id, type_data in source.items():
+            if isinstance(type_data, dict):
+                # Handle new dict structure with Chinese support
+                values = {"id": int(type_id)}
+                for key, value in type_data.items():
+                    values[key] = value
+                statements.append(
+                    table.insert()
+                    .values(**values)
+                    .compile(dialect=self.dialect, compile_kwargs={"literal_binds": True})
+                    .string
+                )
+            else:
+                # Handle old string structure (backward compatibility)
+                statements.append(
+                    table.insert()
+                    .values(id=int(type_id), name=type_data)
+                    .compile(dialect=self.dialect, compile_kwargs={"literal_binds": True})
+                    .string
+                )
 
         return statements
 
@@ -278,6 +299,7 @@ class SQLCreator:
                     phase=int(paint_data["phase"]) if "phase" in paint_data else None,
                     rarity=int(paint_data["rarity"]),
                     name=paint_data["name"],
+                    name_zh=paint_data.get("name_zh"),
                     wear_min=paint_data["wear_min"],
                     wear_max=paint_data["wear_max"],
                 )
@@ -313,6 +335,7 @@ class SQLCreator:
                     id=int(sticker_kits_id),
                     rarity=int(sticker_kits_data["rarity"]) if "rarity" in sticker_kits_data else None,
                     name=sticker_kits_data["name"],
+                    name_zh=sticker_kits_data.get("name_zh"),
                 )
                 .compile(dialect=self.dialect, compile_kwargs={"literal_binds": True})
                 .string

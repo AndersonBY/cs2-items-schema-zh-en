@@ -1,1188 +1,1386 @@
 {
   "10": {
     "name": "Copperhead",
+    "name_zh": "铜斑蛇",
     "rarity": "3",
     "wear_max": 0.38,
     "wear_min": 0.12
   },
   "100": {
     "name": "Storm",
+    "name_zh": "暴风呼啸",
     "rarity": "1",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "1000": {
     "name": "Run and Hide",
+    "name_zh": "豹走",
     "rarity": "5",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "10006": {
     "name": "Charred",
+    "name_zh": "焦炭",
     "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "10007": {
     "name": "Snakebite",
+    "name_zh": "蛇咬",
     "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "10008": {
     "name": "Bronzed",
+    "name_zh": "染铜",
     "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "10009": {
     "name": "Leather",
+    "name_zh": "皮革",
     "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "1001": {
     "name": "Welcome to the Jungle",
+    "name_zh": "冒险家乐园",
     "rarity": "5",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "10010": {
     "name": "Spruce DDPAT",
+    "name_zh": "云杉 DDPAT",
     "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "10013": {
     "name": "Lunar Weave",
+    "name_zh": "月色织物",
     "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "10015": {
     "name": "Convoy",
+    "name_zh": "护卫",
     "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "10016": {
     "name": "Crimson Weave",
+    "name_zh": "深红织物",
     "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "10018": {
     "name": "Superconductor",
+    "name_zh": "超导体",
     "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "10019": {
     "name": "Arid",
+    "name_zh": "干旱",
     "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "1002": {
     "name": "Berries And Cherries",
+    "name_zh": "蓝莓樱桃",
     "rarity": "4",
     "wear_max": 0.1,
     "wear_min": 0.0
   },
   "10021": {
     "name": "Slaughter",
+    "name_zh": "屠夫",
     "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "10024": {
     "name": "Eclipse",
+    "name_zh": "日蚀",
     "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "10026": {
     "name": "Spearmint",
+    "name_zh": "薄荷",
     "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "10027": {
     "name": "Boom!",
+    "name_zh": "*嘣！*",
     "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "10028": {
     "name": "Cool Mint",
+    "name_zh": "清凉薄荷",
     "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "1003": {
     "name": "Crime Scene",
+    "name_zh": "犯罪现场",
     "rarity": "4",
     "wear_max": 0.75,
     "wear_min": 0.0
   },
   "10030": {
     "name": "Forest DDPAT",
+    "name_zh": "森林 DDPAT",
     "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "10033": {
     "name": "Crimson Kimono",
+    "name_zh": "深红和服",
     "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "10034": {
     "name": "Emerald Web",
+    "name_zh": "翠绿之网",
     "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "10035": {
     "name": "Foundation",
+    "name_zh": "元勋",
     "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "10036": {
     "name": "Badlands",
+    "name_zh": "恶土",
     "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "10037": {
     "name": "Pandora's Box",
+    "name_zh": "潘多拉之盒",
     "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "10038": {
     "name": "Hedge Maze",
+    "name_zh": "树篱迷宫",
     "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "10039": {
     "name": "Guerrilla",
+    "name_zh": "游击队",
     "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "1004": {
     "name": "X-Ray",
+    "name_zh": "X 射线",
     "rarity": "5",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "10040": {
     "name": "Diamondback",
+    "name_zh": "菱背蛇纹",
     "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "10041": {
     "name": "King Snake",
+    "name_zh": "王蛇",
     "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "10042": {
     "name": "Imperial Plaid",
+    "name_zh": "蓝紫格子",
     "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "10043": {
     "name": "Overtake",
+    "name_zh": "超越",
     "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "10044": {
     "name": "Racing Green",
+    "name_zh": "墨绿色调",
     "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "10045": {
     "name": "Amphibious",
+    "name_zh": "双栖",
     "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "10046": {
     "name": "Bronze Morph",
+    "name_zh": "青铜形态",
     "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "10047": {
     "name": "Omega",
+    "name_zh": "欧米伽",
     "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "10048": {
     "name": "Vice",
+    "name_zh": "迈阿密风云",
     "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "10049": {
     "name": "POW!",
+    "name_zh": "嘭！",
     "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "1005": {
     "name": "Heist",
+    "name_zh": "街头抢匪",
     "rarity": "1",
     "wear_max": 0.7,
     "wear_min": 0.0
   },
   "10050": {
     "name": "Turtle",
+    "name_zh": "玳瑁",
     "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "10051": {
     "name": "Transport",
+    "name_zh": "交运",
     "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "10052": {
     "name": "Polygon",
+    "name_zh": "多边形",
     "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "10053": {
     "name": "Cobalt Skulls",
+    "name_zh": "钴蓝骷髅",
     "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "10054": {
     "name": "Overprint",
+    "name_zh": "套印",
     "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "10055": {
     "name": "Duct Tape",
+    "name_zh": "防水布胶带",
     "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "10056": {
     "name": "Arboreal",
+    "name_zh": "森林色调",
     "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "10057": {
     "name": "Emerald",
+    "name_zh": "翡翠色调",
     "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "10058": {
     "name": "Mangrove",
+    "name_zh": "红树林",
     "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "10059": {
     "name": "Rattler",
+    "name_zh": "响尾蛇",
     "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "1006": {
     "name": "Night Heist",
+    "name_zh": "午夜凶匪",
     "rarity": "2",
     "wear_max": 0.65,
     "wear_min": 0.0
   },
   "10060": {
     "name": "Case Hardened",
+    "name_zh": "表面淬火",
     "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "10061": {
     "name": "Crimson Web",
+    "name_zh": "深红之网",
     "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "10062": {
     "name": "Buckshot",
+    "name_zh": "狩鹿",
     "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "10063": {
     "name": "Fade",
+    "name_zh": "渐变之色",
     "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "10064": {
     "name": "Mogul",
+    "name_zh": "大腕",
     "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "10065": {
     "name": "Marble Fade",
+    "name_zh": "渐变大理石",
     "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "10066": {
     "name": "Lt. Commander",
+    "name_zh": "陆军少尉长官",
     "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "10067": {
     "name": "Tiger Strike",
+    "name_zh": "老虎精英",
     "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "10068": {
     "name": "Field Agent",
+    "name_zh": "一线特工",
     "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "10069": {
     "name": "Rezan the Red",
+    "name_zh": "绯红列赞",
     "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "1007": {
     "name": "Vault Heist",
+    "name_zh": "金库悍匪",
     "rarity": "2",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "10070": {
     "name": "Snow Leopard",
+    "name_zh": "雪豹",
     "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "10071": {
     "name": "Queen Jaguar",
+    "name_zh": "美洲豹女王",
     "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "10072": {
     "name": "Black Tie",
+    "name_zh": "西装革履",
     "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "10073": {
     "name": "Slingshot",
+    "name_zh": "弹弓",
     "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "10074": {
     "name": "Big Game",
+    "name_zh": "大型猎物",
     "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "10075": {
     "name": "Scarlet Shamagh",
+    "name_zh": "猩红头巾",
     "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "10076": {
     "name": "Nocts",
+    "name_zh": "夜行衣",
     "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "10077": {
     "name": "Finish Line",
+    "name_zh": "终点线",
     "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "10078": {
     "name": "Smoke Out",
+    "name_zh": "小心烟雾弹",
     "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "10079": {
     "name": "Blood Pressure",
+    "name_zh": "血压",
     "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "1008": {
     "name": "Houndstooth",
+    "name_zh": "犬牙",
     "rarity": "2",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "10080": {
     "name": "3rd Commando Company",
+    "name_zh": "第三特种兵连",
     "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "10081": {
     "name": "Desert Shamagh",
+    "name_zh": "沙漠头巾",
     "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "10082": {
     "name": "Giraffe",
+    "name_zh": "长颈鹿",
     "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "10083": {
     "name": "Constrictor",
+    "name_zh": "蟒蛇",
     "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "10084": {
     "name": "CAUTION!",
+    "name_zh": "警告！",
     "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "10085": {
     "name": "Jade",
+    "name_zh": "翡翠",
     "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "10086": {
     "name": "Yellow-banded",
+    "name_zh": "黄色斑纹",
     "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "10087": {
     "name": "Needle Point",
+    "name_zh": "针尖",
     "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "10088": {
     "name": "Unhinged",
+    "name_zh": "精神错乱",
     "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "1009": {
     "name": "Hot Snakes",
+    "name_zh": "狂蟒之灾",
     "rarity": "5",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "101": {
     "name": "Tornado",
+    "name_zh": "狂哮飓风",
     "rarity": "1",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "1010": {
     "name": "Phoenix Chalk",
+    "name_zh": "凤凰涂鸦",
     "rarity": "1",
     "wear_max": 0.8,
     "wear_min": 0.0
   },
   "1011": {
     "name": "Phoenix Marker",
+    "name_zh": "凤凰手迹",
     "rarity": "2",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "1012": {
     "name": "Phoenix Stencil",
+    "name_zh": "凤凰徽记",
     "rarity": "3",
     "wear_max": 0.65,
     "wear_min": 0.0
   },
   "1013": {
     "name": "Phoenix Blacklight",
+    "name_zh": "凤凰冥灯",
     "rarity": "4",
     "wear_max": 0.7,
     "wear_min": 0.0
   },
   "1014": {
     "name": "Clay Ambush",
+    "name_zh": "伏击者",
     "rarity": "1",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "1015": {
     "name": "Tiger Pit",
+    "name_zh": "困兽之斗",
     "rarity": "3",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "1016": {
     "name": "Franklin",
+    "name_zh": "富兰克林",
     "rarity": "3",
     "wear_max": 0.4,
     "wear_min": 0.0
   },
   "1017": {
     "name": "Blue Phosphor",
+    "name_zh": "澜磷",
     "rarity": "4",
     "wear_max": 0.08,
     "wear_min": 0.0
   },
   "1018": {
     "name": "Panthera onca",
+    "name_zh": "美洲豹",
     "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "1019": {
     "name": "Panther Camo",
+    "name_zh": "豹纹迷彩",
     "rarity": "1",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "102": {
     "name": "Whiteout",
+    "name_zh": "银装素裹",
     "rarity": "3",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "1020": {
     "name": "Ancient Earth",
+    "name_zh": "古老星球",
     "rarity": "1",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "1021": {
     "name": "Ancient Lore",
+    "name_zh": "太古传说",
     "rarity": "4",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "1022": {
     "name": "Lush Ruins",
+    "name_zh": "废墟丛生",
     "rarity": "1",
     "wear_max": 0.7,
     "wear_min": 0.0
   },
   "1023": {
     "name": "Tall Grass",
+    "name_zh": "绿野迷踪",
     "rarity": "2",
     "wear_max": 0.65,
     "wear_min": 0.0
   },
   "1024": {
     "name": "Blast From the Past",
+    "name_zh": "上古图腾",
     "rarity": "3",
     "wear_max": 0.65,
     "wear_min": 0.0
   },
   "1025": {
     "name": "Gold Brick",
+    "name_zh": "金砖",
     "rarity": "4",
     "wear_max": 0.7,
     "wear_min": 0.0
   },
   "1026": {
     "name": "Fade",
+    "name_zh": "渐变之色",
     "rarity": "5",
     "wear_max": 0.08,
     "wear_min": 0.0
   },
   "1027": {
     "name": "Target Acquired",
+    "name_zh": "锁定",
     "rarity": "4",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "1028": {
     "name": "Magna Carta",
+    "name_zh": "大宪章",
     "rarity": "3",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "1029": {
     "name": "Silk Tiger",
+    "name_zh": "锦虎",
     "rarity": "4",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "1030": {
     "name": "Bengal Tiger",
+    "name_zh": "孟加拉猛虎",
     "rarity": "3",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "1031": {
     "name": "Ancient Visions",
+    "name_zh": "远古幻想",
     "rarity": "3",
     "wear_max": 0.45,
     "wear_min": 0.0
   },
   "1032": {
     "name": "Dusk Ruins",
+    "name_zh": "废墟黄昏",
     "rarity": "3",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "1033": {
     "name": "Carved Jade",
+    "name_zh": "璞玉",
     "rarity": "3",
     "wear_max": 0.2,
     "wear_min": 0.0
   },
   "1034": {
     "name": "Ancient Ritual",
+    "name_zh": "远古仪式",
     "rarity": "2",
     "wear_max": 0.76,
     "wear_min": 0.0
   },
   "1035": {
     "name": "Slate",
+    "name_zh": "墨岩",
     "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "1036": {
     "name": "Circaetus",
+    "name_zh": "短趾雕",
     "rarity": "3",
     "wear_max": 0.9,
     "wear_min": 0.0
   },
   "1037": {
     "name": "Food Chain",
+    "name_zh": "爆裂食物链",
     "rarity": "5",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "1038": {
     "name": "Chromatic Aberration",
+    "name_zh": "迷人眼",
     "rarity": "5",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "1039": {
     "name": "Clear Polymer",
+    "name_zh": "一目了然",
     "rarity": "2",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "104": {
     "name": "Grassland Leaves",
+    "name_zh": "草原落叶",
     "rarity": "1",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "1040": {
     "name": "The Traitor",
+    "name_zh": "倒吊人",
     "rarity": "5",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "1041": {
     "name": "In Living Color",
+    "name_zh": "活色生香",
     "rarity": "5",
     "wear_max": 0.79,
     "wear_min": 0.0
   },
   "1042": {
     "name": "O.S.I.P.R.",
+    "name_zh": "O.S.I.P.R.",
     "rarity": "3",
     "wear_max": 0.7,
     "wear_min": 0.0
   },
   "1043": {
     "name": "dev_texture",
+    "name_zh": "橙灰之名",
     "rarity": "4",
     "wear_max": 0.65,
     "wear_min": 0.0
   },
   "1044": {
     "name": "Cyber Shell",
+    "name_zh": "赛博先锋",
     "rarity": "4",
     "wear_max": 0.85,
     "wear_min": 0.0
   },
   "1045": {
     "name": "Button Masher",
+    "name_zh": "战争手柄",
     "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "1046": {
     "name": "XOXO",
+    "name_zh": "要抱抱",
     "rarity": "5",
     "wear_max": 0.9,
     "wear_min": 0.0
   },
   "1047": {
     "name": "Junk Yard",
+    "name_zh": "废物王",
     "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "1048": {
     "name": "Heavy Metal",
+    "name_zh": "重金属摇滚",
     "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "1049": {
     "name": "Oscillator",
+    "name_zh": "动摇",
     "rarity": "3",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "1050": {
     "name": "Trigger Discipline",
+    "name_zh": "后发制人",
     "rarity": "3",
     "wear_max": 0.97,
     "wear_min": 0.0
   },
   "1051": {
     "name": "Windblown",
+    "name_zh": "随风",
     "rarity": "3",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "1052": {
     "name": "Death Strike",
+    "name_zh": "致命一击",
     "rarity": "5",
     "wear_max": 0.8,
     "wear_min": 0.0
   },
   "1053": {
     "name": "Meltdown",
+    "name_zh": "熔化",
     "rarity": "5",
     "wear_max": 0.4,
     "wear_min": 0.0
   },
   "1054": {
     "name": "Heat Treated",
+    "name_zh": "热处理",
     "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "1055": {
     "name": "Space Race",
+    "name_zh": "太空竞赛",
     "rarity": "3",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "1056": {
     "name": "Sputnik",
+    "name_zh": "人造卫星",
     "rarity": "2",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "1058": {
     "name": "POP AWP",
+    "name_zh": "复古流行",
     "rarity": "3",
     "wear_max": 0.44,
     "wear_min": 0.0
   },
   "1059": {
     "name": "Fizzy POP",
+    "name_zh": "气泡流行",
     "rarity": "2",
     "wear_max": 0.57,
     "wear_min": 0.0
   },
   "1060": {
     "name": "Spring Twilly",
+    "name_zh": "春季方巾",
     "rarity": "3",
     "wear_max": 0.55,
     "wear_min": 0.0
   },
   "1061": {
     "name": "Autumn Twilly",
+    "name_zh": "秋季方巾",
     "rarity": "4",
     "wear_max": 0.58,
     "wear_min": 0.0
   },
   "1062": {
     "name": "Midnight Paintover",
+    "name_zh": "午夜喷涂",
     "rarity": "2",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "1063": {
     "name": "The Coalition",
+    "name_zh": "合纵",
     "rarity": "5",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "1064": {
     "name": "Syndicate",
+    "name_zh": "辛迪加",
     "rarity": "4",
     "wear_max": 0.7,
     "wear_min": 0.0
   },
   "1065": {
     "name": "Whiteout",
+    "name_zh": "银装素裹",
     "rarity": "4",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "1066": {
     "name": "Faulty Wiring",
+    "name_zh": "线路故障",
     "rarity": "1",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "1067": {
     "name": "Propaganda",
+    "name_zh": "凝视之眼",
     "rarity": "5",
     "wear_max": 0.62,
     "wear_min": 0.0
   },
   "107": {
     "name": "Polar Mesh",
+    "name_zh": "极地网格",
     "rarity": "1",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "1070": {
     "name": "Green Laminate",
+    "name_zh": "绿色层压板",
     "rarity": "2",
     "wear_max": 0.4,
     "wear_min": 0.02
   },
   "1071": {
     "name": "CAUTION!",
+    "name_zh": "警告！",
     "rarity": "4",
     "wear_max": 0.55,
     "wear_min": 0.0
   },
   "1072": {
     "name": "Prism Terrace",
+    "name_zh": "棱彩阶梯",
     "rarity": "4",
     "wear_max": 0.37,
     "wear_min": 0.0
   },
   "1073": {
     "name": "Imminent Danger",
+    "name_zh": "紧迫危机",
     "rarity": "5",
     "wear_max": 0.8,
     "wear_min": 0.0
   },
   "1074": {
     "name": "Schematic",
+    "name_zh": "解视图",
     "rarity": "3",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "1075": {
     "name": "Strats",
+    "name_zh": "策略",
     "rarity": "1",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "1076": {
     "name": "Framework",
+    "name_zh": "幻光构架",
     "rarity": "1",
     "wear_max": 0.8,
     "wear_min": 0.0
   },
   "1077": {
     "name": "Interlock",
+    "name_zh": "致幻时刻",
     "rarity": "3",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "1078": {
     "name": "Blue Tire",
+    "name_zh": "蓝色轮胎",
     "rarity": "1",
     "wear_max": 0.55,
     "wear_min": 0.0
   },
   "1079": {
     "name": "Red Tire",
+    "name_zh": "红色轮胎",
     "rarity": "1",
     "wear_max": 0.55,
     "wear_min": 0.0
   },
   "1080": {
     "name": "Infrastructure",
+    "name_zh": "基础建设",
     "rarity": "3",
     "wear_max": 0.49,
     "wear_min": 0.0
   },
   "1081": {
     "name": "Digital Architect",
+    "name_zh": "数字架构师",
     "rarity": "4",
     "wear_max": 0.49,
     "wear_min": 0.0
   },
   "1082": {
     "name": "Fall Hazard",
+    "name_zh": "坠落危险",
     "rarity": "5",
     "wear_max": 0.52,
     "wear_min": 0.01
   },
   "1083": {
     "name": "Breaker Box",
+    "name_zh": "开关箱",
     "rarity": "2",
     "wear_max": 0.44,
     "wear_min": 0.0
   },
   "1084": {
     "name": "Hazard Pay",
+    "name_zh": "玩命职场",
     "rarity": "5",
     "wear_max": 0.48,
     "wear_min": 0.0
   },
   "1085": {
     "name": "Mechanism",
+    "name_zh": "机械装置",
     "rarity": "2",
     "wear_max": 0.49,
     "wear_min": 0.0
   },
   "1086": {
     "name": "Oil Change",
+    "name_zh": "更换机油",
     "rarity": "1",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "1087": {
     "name": "Leet Museo",
+    "name_zh": "抽象派 1337",
     "rarity": "5",
     "wear_max": 0.65,
     "wear_min": 0.0
   },
   "1088": {
     "name": "Plague",
+    "name_zh": "瘟疫",
     "rarity": "3",
     "wear_max": 0.76,
     "wear_min": 0.0
   },
   "1089": {
     "name": "BI83 Spectrum",
+    "name_zh": "铋晶体",
     "rarity": "4",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "1090": {
     "name": "Ocean Drive",
+    "name_zh": "纵横波涛",
     "rarity": "5",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "1091": {
     "name": "Tread",
+    "name_zh": "胶面花纹",
     "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "1092": {
     "name": "ZX Spectron",
+    "name_zh": "ZX81 彩色",
     "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "1093": {
     "name": "Boost Protocol",
+    "name_zh": "同步力场",
     "rarity": "4",
     "wear_max": 0.41,
     "wear_min": 0.0
   },
   "1094": {
     "name": "Mount Fuji",
+    "name_zh": "富士山",
     "rarity": "4",
     "wear_max": 0.55,
     "wear_min": 0.0
   },
   "1095": {
     "name": "Keeping Tabs",
+    "name_zh": "特训地图",
     "rarity": "3",
     "wear_max": 0.7,
     "wear_min": 0.0
   },
   "1096": {
     "name": "Guerrilla",
+    "name_zh": "游击队",
     "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "1097": {
     "name": "Spider Lily",
+    "name_zh": "彼岸花",
     "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "1098": {
     "name": "Toybox",
+    "name_zh": "玩具盒子",
     "rarity": "5",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "1099": {
     "name": "Lumen",
+    "name_zh": "战术手电",
     "rarity": "3",
     "wear_max": 0.77,
     "wear_min": 0.0
   },
   "11": {
     "name": "Skulls",
+    "name_zh": "死亡骷髅",
     "rarity": "3",
     "wear_max": 0.26,
     "wear_min": 0.1
   },
   "110": {
     "name": "Condemned",
+    "name_zh": "众枪之的",
     "rarity": "2",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "1100": {
     "name": "Snack Attack",
+    "name_zh": "零食派对",
     "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "1101": {
     "name": "Turbo Peek",
+    "name_zh": "速度激情",
     "rarity": "5",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "1102": {
     "name": "Black Lotus",
+    "name_zh": "黑莲花",
     "rarity": "2",
     "wear_max": 0.9,
     "wear_min": 0.0
   },
   "1103": {
     "name": "Watchdog",
+    "name_zh": "狻猊",
     "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "1104": {
     "name": "Lore",
+    "name_zh": "传说",
     "rarity": "5",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "1105": {
     "name": "Lore",
+    "name_zh": "传说",
     "rarity": "5",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "1106": {
     "name": "Lore",
+    "name_zh": "传说",
     "rarity": "5",
     "wear_max": 0.65,
     "wear_min": 0.0
   },
   "1107": {
     "name": "Lore",
+    "name_zh": "传说",
     "rarity": "5",
     "wear_max": 0.65,
     "wear_min": 0.0
   },
   "1108": {
     "name": "Lore",
+    "name_zh": "传说",
     "rarity": "5",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "1109": {
     "name": "Black Laminate",
+    "name_zh": "黑色层压板",
     "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "111": {
     "name": "Glacier Mesh",
+    "name_zh": "冰川网格",
     "rarity": "3",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "1110": {
     "name": "Black Laminate",
+    "name_zh": "黑色层压板",
     "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "1111": {
     "name": "Black Laminate",
+    "name_zh": "黑色层压板",
     "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "1112": {
     "name": "Black Laminate",
+    "name_zh": "黑色层压板",
     "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "1113": {
     "name": "Black Laminate",
+    "name_zh": "黑色层压板",
     "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "1114": {
     "name": "Autotronic",
+    "name_zh": "自动化",
     "rarity": "4",
     "wear_max": 0.85,
     "wear_min": 0.0
   },
   "1115": {
     "name": "Autotronic",
+    "name_zh": "自动化",
     "rarity": "4",
     "wear_max": 0.85,
     "wear_min": 0.0
   },
   "1116": {
     "name": "Autotronic",
+    "name_zh": "自动化",
     "rarity": "4",
     "wear_max": 0.85,
     "wear_min": 0.0
   },
   "1117": {
     "name": "Autotronic",
+    "name_zh": "自动化",
     "rarity": "4",
     "wear_max": 0.85,
     "wear_min": 0.0
   },
   "1118": {
     "name": "Autotronic",
+    "name_zh": "自动化",
     "rarity": "4",
     "wear_max": 0.85,
     "wear_min": 0.0
   },
   "1119": {
     "name": "Gamma Doppler",
+    "name_zh": "伽玛多普勒",
     "phase": "8",
     "rarity": "5",
     "wear_max": 0.5,
@@ -1190,6 +1388,7 @@
   },
   "1120": {
     "name": "Gamma Doppler",
+    "name_zh": "伽玛多普勒",
     "phase": "1",
     "rarity": "5",
     "wear_max": 0.5,
@@ -1197,6 +1396,7 @@
   },
   "1121": {
     "name": "Gamma Doppler",
+    "name_zh": "伽玛多普勒",
     "phase": "2",
     "rarity": "5",
     "wear_max": 0.5,
@@ -1204,6 +1404,7 @@
   },
   "1122": {
     "name": "Gamma Doppler",
+    "name_zh": "伽玛多普勒",
     "phase": "3",
     "rarity": "5",
     "wear_max": 0.5,
@@ -1211,6 +1412,7 @@
   },
   "1123": {
     "name": "Gamma Doppler",
+    "name_zh": "伽玛多普勒",
     "phase": "4",
     "rarity": "5",
     "wear_max": 0.5,
@@ -1218,3120 +1420,3640 @@
   },
   "1125": {
     "name": "Space Cat",
+    "name_zh": "太空猫",
     "rarity": "4",
     "wear_max": 0.67,
     "wear_min": 0.0
   },
   "1126": {
     "name": "Melondrama",
+    "name_zh": "瓜瓜",
     "rarity": "5",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "1127": {
     "name": "Rapid Eye Movement",
+    "name_zh": "目皆转睛",
     "rarity": "5",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "1128": {
     "name": "Scrawl",
+    "name_zh": "涂鸦潦草",
     "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "1129": {
     "name": "Dream Glade",
+    "name_zh": "梦之林地",
     "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "1130": {
     "name": "Night Terror",
+    "name_zh": "夜无眠",
     "rarity": "3",
     "wear_max": 0.7,
     "wear_min": 0.0
   },
   "1131": {
     "name": "Ensnared",
+    "name_zh": "坐牢",
     "rarity": "3",
     "wear_max": 0.9,
     "wear_min": 0.0
   },
   "1132": {
     "name": "Foresight",
+    "name_zh": "先见之明",
     "rarity": "3",
     "wear_max": 0.7,
     "wear_min": 0.0
   },
   "1133": {
     "name": "Abyssal Apparition",
+    "name_zh": "幽幻深渊",
     "rarity": "5",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "1134": {
     "name": "Starlight Protector",
+    "name_zh": "星使",
     "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.0
   },
   "1135": {
     "name": "Zombie Offensive",
+    "name_zh": "行尸攻势",
     "rarity": "4",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "1136": {
     "name": "Ticket to Hell",
+    "name_zh": "地狱门票",
     "rarity": "3",
     "wear_max": 0.76,
     "wear_min": 0.0
   },
   "1137": {
     "name": "Necro Jr.",
+    "name_zh": "小小噩梦",
     "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "1138": {
     "name": "Lifted Spirits",
+    "name_zh": "升天",
     "rarity": "2",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "1139": {
     "name": "Poultrygeist",
+    "name_zh": "暗夜活死鸡",
     "rarity": "3",
     "wear_max": 0.57,
     "wear_min": 0.0
   },
   "1140": {
     "name": "Spirit Board",
+    "name_zh": "灵应牌",
     "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "1141": {
     "name": "Nightwish",
+    "name_zh": "夜愿",
     "rarity": "5",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "1142": {
     "name": "Printstream",
+    "name_zh": "印花集",
     "rarity": "5",
     "wear_max": 0.85,
     "wear_min": 0.0
   },
   "1143": {
     "name": "Ice Coaled",
+    "name_zh": "可燃冰",
     "rarity": "4",
     "wear_max": 0.77,
     "wear_min": 0.0
   },
   "1144": {
     "name": "Chromatic Aberration",
+    "name_zh": "迷人眼",
     "rarity": "5",
     "wear_max": 0.7,
     "wear_min": 0.0
   },
   "1145": {
     "name": "Crazy 8",
+    "name_zh": "疯狂老八",
     "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "1146": {
     "name": "Meow 36",
+    "name_zh": "喵喵36",
     "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "1147": {
     "name": "Destroyer",
+    "name_zh": "毁灭者",
     "rarity": "3",
     "wear_max": 0.7,
     "wear_min": 0.0
   },
   "1148": {
     "name": "Downtown",
+    "name_zh": "闹市区",
     "rarity": "4",
     "wear_max": 0.65,
     "wear_min": 0.0
   },
   "1149": {
     "name": "Poly Mag",
+    "name_zh": "透明弹匣",
     "rarity": "2",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "1150": {
     "name": "Monkeyflage",
+    "name_zh": "萌猴迷彩",
     "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "1151": {
     "name": "Dragon Tech",
+    "name_zh": "青龙",
     "rarity": "4",
     "wear_max": 0.7,
     "wear_min": 0.0
   },
   "1152": {
     "name": "Drop Me",
+    "name_zh": "丢把枪",
     "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "1153": {
     "name": "Visions",
+    "name_zh": "迷人幻象",
     "rarity": "5",
     "wear_max": 0.7,
     "wear_min": 0.0
   },
   "1154": {
     "name": "Vent Rush",
+    "name_zh": "给爷冲",
     "rarity": "4",
     "wear_max": 0.7,
     "wear_min": 0.0
   },
   "1155": {
-    "name": "Kiss\u2665Love",
+    "name": "Kiss♥Love",
+    "name_zh": "么么",
     "rarity": "5",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "1156": {
     "name": "Flora Carnivora",
+    "name_zh": "食人花",
     "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "1157": {
     "name": "Roadblock",
+    "name_zh": "路障",
     "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "1158": {
     "name": "Winterized",
+    "name_zh": "冬季战术",
     "rarity": "2",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "1159": {
     "name": "Slag",
+    "name_zh": "渣渣",
     "rarity": "3",
     "wear_max": 0.9,
     "wear_min": 0.0
   },
   "116": {
     "name": "Sand Mesh",
+    "name_zh": "沙漠网格",
     "rarity": "1",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "1160": {
     "name": "Analog Input",
+    "name_zh": "模拟输入",
     "rarity": "4",
     "wear_max": 0.61886,
     "wear_min": 0.0
   },
   "1161": {
     "name": "Dezastre",
+    "name_zh": "灾难",
     "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "1162": {
     "name": "Dark Sigil",
+    "name_zh": "黑暗徽记",
     "rarity": "3",
     "wear_max": 0.698529,
     "wear_min": 0.0
   },
   "1163": {
     "name": "Just Smile",
+    "name_zh": "笑一个",
     "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "1164": {
     "name": "Light Box",
+    "name_zh": "灯箱",
     "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "1165": {
     "name": "Etch Lord",
+    "name_zh": "蚀刻领主",
     "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "1166": {
     "name": "Black Lotus",
+    "name_zh": "黑莲花",
     "rarity": "4",
     "wear_max": 0.7,
     "wear_min": 0.0
   },
   "1167": {
     "name": "Block-18",
+    "name_zh": "崩络克-18",
     "rarity": "3",
     "wear_max": 0.671875,
     "wear_min": 0.0
   },
   "1168": {
     "name": "Hybrid",
+    "name_zh": "混合体",
     "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "1169": {
     "name": "Hideout",
+    "name_zh": "藏身处",
     "rarity": "3",
     "wear_max": 0.698529,
     "wear_min": 0.0
   },
   "1170": {
     "name": "Chrome Cannon",
+    "name_zh": "镀铬大炮",
     "rarity": "5",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "1171": {
     "name": "Inheritance",
+    "name_zh": "传承",
     "rarity": "5",
     "wear_max": 0.797346,
     "wear_min": 0.0
   },
   "1172": {
     "name": "Olympus",
+    "name_zh": "奥林匹斯",
     "rarity": "5",
     "wear_max": 0.67,
     "wear_min": 0.0
   },
   "1173": {
     "name": "Jawbreaker",
+    "name_zh": "破颚者",
     "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "1174": {
     "name": "Irezumi",
+    "name_zh": "刺青",
     "rarity": "3",
     "wear_max": 0.799353,
     "wear_min": 0.0
   },
   "1175": {
     "name": "Motorized",
+    "name_zh": "机动化",
     "rarity": "3",
     "wear_max": 0.801418,
     "wear_min": 0.0
   },
   "1177": {
     "name": "Fade",
+    "name_zh": "渐变之色",
     "rarity": "5",
     "wear_max": 0.08,
     "wear_min": 0.0
   },
   "1178": {
     "name": "Rainbow Spoon",
+    "name_zh": "彩虹勺",
     "rarity": "5",
     "wear_max": 0.554422,
     "wear_min": 0.0
   },
   "1179": {
     "name": "Olive Polycam",
+    "name_zh": "橄榄迷彩",
     "rarity": "1",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "1180": {
     "name": "Statics",
+    "name_zh": "静态学",
     "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "1181": {
     "name": "Sure Grip",
+    "name_zh": "防滑握把",
     "rarity": "2",
     "wear_max": 0.9,
     "wear_min": 0.0
   },
   "1182": {
     "name": "Mockingbird",
+    "name_zh": "知更鸟",
     "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "1183": {
     "name": "Tosai",
+    "name_zh": "当岁鱼",
     "rarity": "4",
     "wear_max": 0.7,
     "wear_min": 0.0
   },
   "1184": {
     "name": "Bad Trip",
+    "name_zh": "幻灭之旅",
     "rarity": "6",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "1185": {
     "name": "Control",
+    "name_zh": "控制",
     "rarity": "4",
     "wear_max": 0.798995,
     "wear_min": 0.0
   },
   "1186": {
     "name": "PC-GRN",
+    "name_zh": "PC-GRN",
     "rarity": "2",
     "wear_max": 0.9,
     "wear_min": 0.0
   },
   "1187": {
     "name": "Memorial",
+    "name_zh": "纪念碑",
     "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "1188": {
     "name": "Resupply",
+    "name_zh": "重新补给",
     "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "1189": {
     "name": "Serpent Strike",
+    "name_zh": "巨蟒冲击",
     "rarity": "3",
     "wear_max": 0.57,
     "wear_min": 0.0
   },
   "119": {
     "name": "Sage Spray",
+    "name_zh": "贤者涂装",
     "rarity": "1",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "1190": {
     "name": "Wave Breaker",
+    "name_zh": "破浪者",
     "rarity": "4",
     "wear_max": 0.950549,
     "wear_min": 0.0
   },
   "1192": {
     "name": "Rising Sun",
+    "name_zh": "初升之樱",
     "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "1193": {
     "name": "Nexus",
+    "name_zh": "中枢",
     "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "1194": {
     "name": "K.O. Factory",
+    "name_zh": "K.O.工厂",
     "rarity": "5",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "1195": {
     "name": "Copper Fiber",
+    "name_zh": "铜芯纤维",
     "rarity": "2",
     "wear_max": 0.563291,
     "wear_min": 0.0
   },
   "1198": {
     "name": "Steel Sentinel",
+    "name_zh": "钢铁哨兵",
     "rarity": "2",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "1199": {
     "name": "Straight Dimes",
+    "name_zh": "满昏作品",
     "rarity": "2",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "12": {
     "name": "Crimson Web",
+    "name_zh": "深红之网",
     "rarity": "3",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "1200": {
     "name": "Green Line",
+    "name_zh": "格林线",
     "rarity": "2",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "1201": {
     "name": "Run Run Run",
+    "name_zh": "跑跑跑",
     "rarity": "3",
     "wear_max": 0.746575,
     "wear_min": 0.0
   },
   "1202": {
     "name": "2A2F",
+    "name_zh": "2A2F",
     "rarity": "3",
     "wear_max": 0.86,
     "wear_min": 0.0
   },
   "1203": {
     "name": "Late Night Transit",
+    "name_zh": "深夜通勤",
     "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "1204": {
     "name": "Derailment",
+    "name_zh": "脱轨",
     "rarity": "4",
     "wear_max": 0.7,
     "wear_min": 0.0
   },
   "1205": {
     "name": "Charged Up",
+    "name_zh": "充电宝",
     "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "1206": {
     "name": "Printstream",
+    "name_zh": "印花集",
     "rarity": "5",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "1207": {
     "name": "Searing Rage",
+    "name_zh": "灼心怒焰",
     "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "1208": {
     "name": "Shinobu",
+    "name_zh": "忍瞳",
     "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "1209": {
     "name": "Hellish",
+    "name_zh": "炼狱之火",
     "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "1210": {
     "name": "Choppa",
+    "name_zh": "战鹰",
     "rarity": "2",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "1211": {
     "name": "Latte Rush",
+    "name_zh": "首冲拿铁",
     "rarity": "5",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "1212": {
     "name": "Constructivist",
+    "name_zh": "建构主义者",
     "rarity": "2",
     "wear_max": 0.35,
     "wear_min": 0.0
   },
   "1213": {
     "name": "LongDog",
+    "name_zh": "灵缇",
     "rarity": "5",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "1214": {
     "name": "Whiteout",
+    "name_zh": "银装素裹",
     "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.06
   },
   "1215": {
     "name": "Solitude",
+    "name_zh": "幽独",
     "rarity": "4",
     "wear_max": 0.7,
     "wear_min": 0.0
   },
   "1216": {
     "name": "Stratosphere",
+    "name_zh": "平流层巡航",
     "rarity": "4",
     "wear_max": 0.8,
     "wear_min": 0.0
   },
   "1217": {
     "name": "Royal Guard",
+    "name_zh": "皇家卫队",
     "rarity": "3",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "1218": {
     "name": "Midnight Laminate",
+    "name_zh": "午夜层压板",
     "rarity": "3",
     "wear_max": 0.75,
     "wear_min": 0.0
   },
   "1219": {
     "name": "Yeti Camo",
+    "name_zh": "雪怪迷彩",
     "rarity": "3",
     "wear_max": 0.7,
     "wear_min": 0.0
   },
   "122": {
     "name": "Jungle Spray",
+    "name_zh": "丛林涂装",
     "rarity": "1",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "1220": {
     "name": "Insomnia",
+    "name_zh": "鱼长梦短",
     "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "1221": {
     "name": "Head Shot",
+    "name_zh": "一发入魂",
     "rarity": "5",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "1222": {
     "name": "Duality",
+    "name_zh": "金粉肆蛇",
     "rarity": "4",
     "wear_max": 0.8,
     "wear_min": 0.0
   },
   "1223": {
     "name": "Emphorosaur-S",
+    "name_zh": "隐伏帝王龙",
     "rarity": "3",
     "wear_max": 0.8,
     "wear_min": 0.0
   },
   "1224": {
     "name": "Wicked Sick",
+    "name_zh": "变态杀戮",
     "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "1225": {
     "name": "Featherweight",
+    "name_zh": "羽量级",
     "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "1226": {
     "name": "Fragments",
+    "name_zh": "碎片",
     "rarity": "3",
     "wear_max": 0.78,
     "wear_min": 0.0
   },
   "1227": {
     "name": "Umbral Rabbit",
+    "name_zh": "圆影玉兔",
     "rarity": "3",
     "wear_max": 0.75,
     "wear_min": 0.0
   },
   "1228": {
     "name": "Temukau",
+    "name_zh": "反冲精英",
     "rarity": "5",
     "wear_max": 0.8,
     "wear_min": 0.0
   },
   "1229": {
     "name": "Sakkaku",
+    "name_zh": "错觉",
     "rarity": "4",
     "wear_max": 0.79,
     "wear_min": 0.21
   },
   "1230": {
     "name": "Re.built",
+    "name_zh": "重构",
     "rarity": "3",
     "wear_max": 0.9,
     "wear_min": 0.0
   },
   "1231": {
     "name": "Liquidation",
+    "name_zh": "液化",
     "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "1232": {
     "name": "Banana Cannon",
+    "name_zh": "蕉农炮",
     "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "1233": {
     "name": "Neoqueen",
+    "name_zh": "元女王",
     "rarity": "4",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "1234": {
     "name": "Cyberforce",
+    "name_zh": "赛博之力",
     "rarity": "3",
     "wear_max": 0.9,
     "wear_min": 0.0
   },
   "1235": {
     "name": "Rebel",
+    "name_zh": "叛逆",
     "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "1236": {
     "name": "Wild Child",
+    "name_zh": "野孩子",
     "rarity": "5",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "1237": {
     "name": "Inlay",
+    "name_zh": "镶嵌装饰",
     "rarity": "1",
     "wear_max": 0.76,
     "wear_min": 0.0
   },
   "1238": {
     "name": "Steel Delta",
+    "name_zh": "钢铁三角洲",
     "rarity": "2",
     "wear_max": 0.73,
     "wear_min": 0.0
   },
   "1239": {
     "name": "Black Nile",
+    "name_zh": "尼罗河沃土",
     "rarity": "2",
     "wear_max": 0.75,
     "wear_min": 0.0
   },
   "124": {
     "name": "Sand Spray",
+    "name_zh": "沙漠涂装",
     "rarity": "1",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "1240": {
     "name": "Ramese's Reach",
+    "name_zh": "拉美西斯之触",
     "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "1241": {
     "name": "Waters of Nephthys",
+    "name_zh": "奈芙蒂斯之河",
     "rarity": "5",
     "wear_max": 0.7,
     "wear_min": 0.0
   },
   "1242": {
     "name": "Submerged",
+    "name_zh": "淹没",
     "rarity": "1",
     "wear_max": 0.8,
     "wear_min": 0.02
   },
   "1243": {
     "name": "Mud-Spec",
+    "name_zh": "泥斑迷彩",
     "rarity": "1",
     "wear_max": 0.73,
     "wear_min": 0.0
   },
   "1244": {
     "name": "Echoing Sands",
+    "name_zh": "鸣沙",
     "rarity": "2",
     "wear_max": 0.8,
     "wear_min": 0.02
   },
   "1245": {
     "name": "Copper Coated",
+    "name_zh": "鎏铜",
     "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "1246": {
     "name": "Sunbaked",
+    "name_zh": "赤地",
     "rarity": "1",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "1247": {
     "name": "Sobek's Bite",
+    "name_zh": "索贝克之噬",
     "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "1248": {
     "name": "Apep's Curse",
+    "name_zh": "阿佩普之咒",
     "rarity": "5",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "1249": {
     "name": "Snake Pit",
+    "name_zh": "蛇窟",
     "rarity": "1",
     "wear_max": 0.55,
     "wear_min": 0.0
   },
   "125": {
     "name": "X-Ray",
+    "name_zh": "X 射线",
     "rarity": "4",
     "wear_max": 0.3,
     "wear_min": 0.0
   },
   "1250": {
     "name": "ScaraB Rush",
+    "name_zh": "疾袭圣甲虫",
     "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "1251": {
     "name": "Azure Glyph",
+    "name_zh": "碧蓝雕文",
     "rarity": "2",
     "wear_max": 0.99,
     "wear_min": 0.01
   },
   "1252": {
     "name": "Mummy's Rot",
+    "name_zh": "腐朽木乃伊",
     "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "1253": {
     "name": "Desert Tactical",
+    "name_zh": "沙漠战术",
     "rarity": "1",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "1254": {
     "name": "Hieroglyph",
+    "name_zh": "象形文字",
     "rarity": "1",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "1255": {
     "name": "Eye of Horus",
+    "name_zh": "荷鲁斯之眼",
     "rarity": "5",
     "wear_max": 0.7,
     "wear_min": 0.0
   },
   "1256": {
     "name": "Reef Grief",
+    "name_zh": "珊瑚挽歌",
     "rarity": "3",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "1257": {
     "name": "Mint Fan",
+    "name_zh": "薄荷折扇",
     "rarity": "2",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "1258": {
     "name": "Cobalt Paisley",
+    "name_zh": "钴蓝佩斯利",
     "rarity": "3",
     "wear_max": 0.65,
     "wear_min": 0.0
   },
   "1259": {
     "name": "Royal Baroque",
+    "name_zh": "皇家巴洛克",
     "rarity": "2",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "1260": {
     "name": "Sour Grapes",
+    "name_zh": "酸葡萄",
     "rarity": "2",
     "wear_max": 0.8,
     "wear_min": 0.0
   },
   "1261": {
     "name": "Turquoise Pour",
+    "name_zh": "松石流彩",
     "rarity": "2",
     "wear_max": 0.678431,
     "wear_min": 0.0
   },
   "1262": {
     "name": "Sky Blue",
+    "name_zh": "青空",
     "rarity": "2",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "1263": {
     "name": "Rose Nacre",
+    "name_zh": "蔷薇珠母",
     "rarity": "2",
     "wear_max": 0.7,
     "wear_min": 0.0
   },
   "1264": {
     "name": "Robin's Egg",
+    "name_zh": "鸲珠",
     "rarity": "2",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "1265": {
     "name": "Ocean Topo",
+    "name_zh": "深海地貌",
     "rarity": "1",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "1266": {
     "name": "Naval Shred Camo",
+    "name_zh": "海军虎纹迷彩",
     "rarity": "1",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "1267": {
     "name": "Gum Wall Camo",
+    "name_zh": "口香糖迷彩",
     "rarity": "2",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "1268": {
     "name": "Electric Blue",
+    "name_zh": "电光幽蓝",
     "rarity": "2",
     "wear_max": 0.75,
     "wear_min": 0.0
   },
   "1269": {
     "name": "Storm Camo",
+    "name_zh": "风暴迷彩",
     "rarity": "1",
     "wear_max": 0.637288,
     "wear_min": 0.0
   },
   "1270": {
     "name": "Night Camo",
+    "name_zh": "暗夜迷彩",
     "rarity": "1",
     "wear_max": 0.795222,
     "wear_min": 0.0
   },
   "1271": {
     "name": "Grey Smoke",
+    "name_zh": "灰色烟幕",
     "rarity": "1",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "1272": {
     "name": "Runoff",
+    "name_zh": "径流",
     "rarity": "1",
     "wear_max": 0.780822,
     "wear_min": 0.0
   },
   "1273": {
     "name": "Plum Netting",
+    "name_zh": "绛络",
     "rarity": "1",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "1274": {
     "name": "Lime Hex",
+    "name_zh": "青柠蜂巢",
     "rarity": "1",
     "wear_max": 0.638225,
     "wear_min": 0.0
   },
   "1275": {
     "name": "Grey Smoke",
+    "name_zh": "灰色烟幕",
     "rarity": "1",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "1276": {
     "name": "Cobalt Grip",
+    "name_zh": "钴蓝握把",
     "rarity": "1",
     "wear_max": 0.80339,
     "wear_min": 0.0
   },
   "1277": {
     "name": "Blue Tac",
+    "name_zh": "海蓝战术",
     "rarity": "1",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "1278": {
     "name": "Buff Blue",
+    "name_zh": "褪色蓝痕",
     "rarity": "1",
     "wear_max": 0.7,
     "wear_min": 0.0
   },
   "1279": {
     "name": "Blue Blast",
+    "name_zh": "蓝爆",
     "rarity": "1",
     "wear_max": 0.8,
     "wear_min": 0.0
   },
   "1280": {
     "name": "Green Energy",
+    "name_zh": "一击碧命",
     "rarity": "4",
     "wear_max": 0.75,
     "wear_min": 0.0
   },
   "1281": {
     "name": "Sheet Lightning",
+    "name_zh": "轰天闪",
     "rarity": "3",
     "wear_max": 0.75,
     "wear_min": 0.0
   },
   "1282": {
     "name": "Glockingbird",
+    "name_zh": "格更鸟",
     "rarity": "3",
     "wear_max": 0.67,
     "wear_min": 0.0
   },
   "1283": {
     "name": "Wintergreen",
+    "name_zh": "寒翠",
     "rarity": "2",
     "wear_max": 0.75,
     "wear_min": 0.0
   },
   "1284": {
     "name": "Tropical Breeze",
+    "name_zh": "椰风花语",
     "rarity": "2",
     "wear_max": 0.55,
     "wear_min": 0.0
   },
   "1285": {
     "name": "Poplar Thicket",
+    "name_zh": "白杨丛",
     "rarity": "3",
     "wear_max": 0.68,
     "wear_min": 0.0
   },
   "1286": {
     "name": "Garter-9",
+    "name_zh": "束带-9",
     "rarity": "2",
     "wear_max": 0.7,
     "wear_min": 0.0
   },
   "1287": {
     "name": "Copperflage",
+    "name_zh": "铜斑迷彩",
     "rarity": "3",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "1288": {
     "name": "VariCamo Grey",
+    "name_zh": "灰变迷彩",
     "rarity": "1",
     "wear_max": 0.671875,
     "wear_min": 0.0
   },
   "1289": {
     "name": "Tiger Tear",
+    "name_zh": "虎噬",
     "rarity": "2",
     "wear_max": 0.55,
     "wear_min": 0.0
   },
   "1290": {
     "name": "Polished Malachite",
+    "name_zh": "精琢孔雀石",
     "rarity": "2",
     "wear_max": 0.8,
     "wear_min": 0.0
   },
   "1291": {
     "name": "Mustard Gas",
+    "name_zh": "芥子气",
     "rarity": "2",
     "wear_max": 0.63,
     "wear_min": 0.0
   },
   "1292": {
     "name": "Marsh",
+    "name_zh": "草泽",
     "rarity": "1",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "1293": {
     "name": "Leafhopper",
+    "name_zh": "叶蝉",
     "rarity": "2",
     "wear_max": 0.65098,
     "wear_min": 0.0
   },
   "1294": {
     "name": "Gold Leaf",
+    "name_zh": "黄金榕",
     "rarity": "3",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "1295": {
     "name": "Acid Hex",
+    "name_zh": "酸蚀蜂巢",
     "rarity": "2",
     "wear_max": 0.58,
     "wear_min": 0.0
   },
   "1296": {
     "name": "Acid Dart",
+    "name_zh": "酸蚀镖",
     "rarity": "2",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "1297": {
     "name": "Swamp DDPAT",
+    "name_zh": "沼泽DDPAT",
     "rarity": "1",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "1298": {
     "name": "Sage Camo",
+    "name_zh": "鼠尾草迷彩",
     "rarity": "1",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "1299": {
     "name": "Raw Ceramic",
+    "name_zh": "生瓷",
     "rarity": "1",
     "wear_max": 0.75,
     "wear_min": 0.0
   },
   "13": {
     "name": "Blue Streak",
+    "name_zh": "水蓝条纹",
     "rarity": "4",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "1300": {
     "name": "Raw Ceramic",
+    "name_zh": "生瓷",
     "rarity": "1",
     "wear_max": 0.75,
     "wear_min": 0.0
   },
   "1301": {
     "name": "Pine",
+    "name_zh": "松",
     "rarity": "1",
     "wear_max": 0.7,
     "wear_min": 0.0
   },
   "1302": {
     "name": "Palm",
+    "name_zh": "棕榈色",
     "rarity": "1",
     "wear_max": 0.75,
     "wear_min": 0.0
   },
   "1303": {
     "name": "Green Swirl",
+    "name_zh": "碧漩",
     "rarity": "1",
     "wear_max": 0.7,
     "wear_min": 0.0
   },
   "1304": {
     "name": "Green Ceramic",
+    "name_zh": "绿陶",
     "rarity": "1",
     "wear_max": 0.75,
     "wear_min": 0.0
   },
   "1305": {
     "name": "Green Cell",
+    "name_zh": "绿色细胞",
     "rarity": "1",
     "wear_max": 0.65,
     "wear_min": 0.0
   },
   "1306": {
     "name": "Copper Oxide",
+    "name_zh": "氧化铜",
     "rarity": "1",
     "wear_max": 0.65,
     "wear_min": 0.0
   },
   "1307": {
     "name": "Copper Oxide",
+    "name_zh": "氧化铜",
     "rarity": "1",
     "wear_max": 0.65,
     "wear_min": 0.0
   },
   "1308": {
     "name": "Commando Company",
+    "name_zh": "特种兵连",
     "rarity": "1",
     "wear_max": 0.65,
     "wear_min": 0.0
   },
   "1309": {
     "name": "Nouveau Rouge",
+    "name_zh": "新红浪潮",
     "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "1310": {
     "name": "Shredded",
+    "name_zh": "噬裂",
     "rarity": "3",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "1311": {
     "name": "Glitched Paint",
+    "name_zh": "故障艺术",
     "rarity": "3",
     "wear_max": 0.67,
     "wear_min": 0.0
   },
   "1312": {
     "name": "Coral Bloom",
+    "name_zh": "珊红花汛",
     "rarity": "2",
     "wear_max": 0.752941,
     "wear_min": 0.0
   },
   "1313": {
     "name": "Steel Work",
+    "name_zh": "钢铁红流",
     "rarity": "1",
     "wear_max": 0.7,
     "wear_min": 0.0
   },
   "1314": {
     "name": "O-Ranger",
+    "name_zh": "血橙游骑兵",
     "rarity": "2",
     "wear_max": 0.75,
     "wear_min": 0.0
   },
   "1315": {
     "name": "Red Tide",
+    "name_zh": "赤色潮汐",
     "rarity": "3",
     "wear_max": 0.75,
     "wear_min": 0.0
   },
   "1316": {
     "name": "Blush Pour",
+    "name_zh": "霞坠",
     "rarity": "3",
     "wear_max": 0.678431,
     "wear_min": 0.0
   },
   "1317": {
     "name": "Sedimentary",
+    "name_zh": "沉积",
     "rarity": "2",
     "wear_max": 0.68,
     "wear_min": 0.0
   },
   "1318": {
     "name": "Mulberry",
+    "name_zh": "玛珀丽",
     "rarity": "3",
     "wear_max": 0.75,
     "wear_min": 0.0
   },
   "1319": {
     "name": "Rose Hex",
+    "name_zh": "玫瑰蜂巢",
     "rarity": "2",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "1320": {
     "name": "Basket Halftone",
+    "name_zh": "篮纹半调",
     "rarity": "2",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "1321": {
     "name": "Grey Ghost",
+    "name_zh": "灰色幽灵",
     "rarity": "2",
     "wear_max": 0.637288,
     "wear_min": 0.0
   },
   "1322": {
     "name": "Citric Acid",
+    "name_zh": "柠檬酸",
     "rarity": "2",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "1323": {
     "name": "Bleeding Edge",
+    "name_zh": "血刃",
     "rarity": "3",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "1324": {
     "name": "Arsenic Spill",
+    "name_zh": "砷化污染",
     "rarity": "2",
     "wear_max": 0.501961,
     "wear_min": 0.0
   },
   "1325": {
     "name": "Wood Block Camo",
+    "name_zh": "木纹迷彩",
     "rarity": "1",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "1326": {
     "name": "Short Ochre",
+    "name_zh": "赭石短调",
     "rarity": "1",
     "wear_max": 0.746575,
     "wear_min": 0.0
   },
   "1327": {
     "name": "Short Ochre",
+    "name_zh": "赭石短调",
     "rarity": "1",
     "wear_max": 0.746575,
     "wear_min": 0.0
   },
   "1328": {
     "name": "Red Jasper",
+    "name_zh": "红碧玉",
     "rarity": "1",
     "wear_max": 0.637288,
     "wear_min": 0.0
   },
   "1329": {
     "name": "Pink Pearl",
+    "name_zh": "粉玑",
     "rarity": "1",
     "wear_max": 0.7,
     "wear_min": 0.0
   },
   "133": {
     "name": "Wash me",
+    "name_zh": "擦擦",
     "rarity": "2",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "1330": {
     "name": "Multi-Terrain",
+    "name_zh": "多地形迷彩",
     "rarity": "1",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "1331": {
     "name": "Marsh Grass",
+    "name_zh": "沼泽草",
     "rarity": "1",
     "wear_max": 0.55,
     "wear_min": 0.0
   },
   "1332": {
     "name": "Desert Halftone",
+    "name_zh": "沙漠半调",
     "rarity": "1",
     "wear_max": 0.65,
     "wear_min": 0.0
   },
   "1333": {
     "name": "Canvas Cloud",
+    "name_zh": "画布云斑",
     "rarity": "1",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "1334": {
     "name": "Bronzer",
+    "name_zh": "古铜",
     "rarity": "1",
     "wear_max": 0.8,
     "wear_min": 0.0
   },
   "1335": {
     "name": "BorDeux",
+    "name_zh": "第二边界",
     "rarity": "1",
     "wear_max": 0.8,
     "wear_min": 0.0
   },
   "1336": {
     "name": "Autumn Thicket",
+    "name_zh": "秋日灌木",
     "rarity": "1",
     "wear_max": 0.636986,
     "wear_min": 0.0
   },
   "1337": {
     "name": "Rain Station",
+    "name_zh": "夜雨月台",
     "rarity": "2",
     "wear_max": 0.35,
     "wear_min": 0.0
   },
   "134": {
     "name": "Eye of Zapems",
+    "name_zh": "扎佩姆斯之眼",
     "rarity": "4",
     "wear_max": 0.85,
     "wear_min": 0.0
   },
   "135": {
     "name": "Urban Perforated",
+    "name_zh": "都市穿孔",
     "rarity": "1",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "136": {
     "name": "Waves Perforated",
+    "name_zh": "浪花穿孔",
     "rarity": "1",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "137": {
     "name": "Crakow!",
+    "name_zh": "克拉考",
     "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "138": {
     "name": "Tilted",
+    "name_zh": "跷跷板",
     "rarity": "1",
     "wear_max": 0.75,
     "wear_min": 0.0
   },
   "139": {
     "name": "Sweet Little Angels",
+    "name_zh": "小甜使",
     "rarity": "4",
     "wear_max": 0.82,
     "wear_min": 0.0
   },
   "14": {
     "name": "Red Laminate",
+    "name_zh": "红色层压板",
     "rarity": "4",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "140": {
     "name": "Pipsqueak",
+    "name_zh": "鼠鼠我呀",
     "rarity": "3",
     "wear_max": 0.9,
     "wear_min": 0.0
   },
   "141": {
     "name": "Orange Peel",
+    "name_zh": "橘皮涂装",
     "rarity": "2",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "142": {
     "name": "B the Monster",
+    "name_zh": "怪兽在B",
     "rarity": "5",
     "wear_max": 0.8,
     "wear_min": 0.0
   },
   "143": {
     "name": "Urban Masked",
+    "name_zh": "都市伪装",
     "rarity": "1",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "144": {
     "name": "Wall Bang",
+    "name_zh": "墙临弹雨",
     "rarity": "2",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "145": {
-    "name": "Wurst H\u00f6lle",
+    "name": "Wurst Hölle",
+    "name_zh": "香肠地狱",
     "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "146": {
     "name": "Monster Melt",
+    "name_zh": "怪物汰换",
     "rarity": "4",
     "wear_max": 0.75,
     "wear_min": 0.0
   },
   "147": {
     "name": "Jungle Dashed",
+    "name_zh": "丛林虚线",
     "rarity": "1",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "148": {
     "name": "Sand Dashed",
+    "name_zh": "沙漠虚线",
     "rarity": "1",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "149": {
     "name": "Urban Dashed",
+    "name_zh": "都市虚线",
     "rarity": "1",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "15": {
     "name": "Gunsmoke",
+    "name_zh": "硝烟",
     "rarity": "2",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "151": {
     "name": "Jungle",
+    "name_zh": "狂野丛林",
     "rarity": "1",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "152": {
     "name": "Teal Graf",
+    "name_zh": "凫色涂鸦",
     "rarity": "2",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "153": {
     "name": "Demolition",
+    "name_zh": "爆破能手",
     "rarity": "4",
     "wear_max": 0.6,
     "wear_min": 0.26
   },
   "154": {
     "name": "Afterimage",
+    "name_zh": "残影",
     "rarity": "5",
     "wear_max": 0.4,
     "wear_min": 0.02
   },
   "155": {
     "name": "Bullet Rain",
+    "name_zh": "弹雨",
     "rarity": "6",
     "wear_max": 0.46,
     "wear_min": 0.02
   },
   "156": {
     "name": "Death by Kitty",
+    "name_zh": "喵之萌杀",
     "rarity": "6",
     "wear_max": 0.32,
     "wear_min": 0.08
   },
   "157": {
     "name": "Palm",
+    "name_zh": "棕榈色",
     "rarity": "2",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "158": {
     "name": "Walnut",
+    "name_zh": "胡桃木",
     "rarity": "1",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "159": {
     "name": "Brass",
+    "name_zh": "黄铜",
     "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "16": {
     "name": "Jungle Tiger",
+    "name_zh": "丛林虎",
     "rarity": "1",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "160": {
     "name": "Wash me plz",
+    "name_zh": "请擦擦",
     "rarity": "1",
     "wear_max": 0.58,
     "wear_min": 0.0
   },
   "161": {
     "name": "Neon Squeezer",
+    "name_zh": "霓虹榨汁机",
     "rarity": "2",
     "wear_max": 0.9,
     "wear_min": 0.2
   },
   "162": {
     "name": "Splash",
+    "name_zh": "狂野飞溅",
     "rarity": "4",
     "wear_max": 0.18,
     "wear_min": 0.06
   },
   "163": {
     "name": "CMYK",
+    "name_zh": "CMYK",
     "rarity": "5",
     "wear_max": 0.8,
     "wear_min": 0.0
   },
   "164": {
     "name": "Modern Hunter",
+    "name_zh": "现代猎手",
     "rarity": "3",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "165": {
     "name": "Splash Jam",
+    "name_zh": "溅射果酱",
     "rarity": "5",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "166": {
     "name": "Blaze Orange",
+    "name_zh": "火焰橙",
     "rarity": "3",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "167": {
     "name": "Radiation Hazard",
+    "name_zh": "辐射危机",
     "rarity": "2",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "168": {
     "name": "Nuclear Threat",
+    "name_zh": "核子威慑",
     "rarity": "4",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "169": {
     "name": "Fallout Warning",
+    "name_zh": "辐射警告",
     "rarity": "2",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "17": {
     "name": "Urban DDPAT",
+    "name_zh": "都市 DDPAT",
     "rarity": "1",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "170": {
     "name": "Predator",
+    "name_zh": "捕食者",
     "rarity": "1",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "171": {
     "name": "Irradiated Alert",
+    "name_zh": "辐照警报",
     "rarity": "1",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "172": {
     "name": "Black Laminate",
+    "name_zh": "黑色层压板",
     "rarity": "2",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "173": {
     "name": "Lil' Pig",
+    "name_zh": "小猪猪",
     "rarity": "5",
     "wear_max": 0.8,
     "wear_min": 0.0
   },
   "174": {
     "name": "BOOM",
+    "name_zh": "*嘣*",
     "rarity": "4",
     "wear_max": 0.28,
     "wear_min": 0.06
   },
   "175": {
     "name": "Scorched",
+    "name_zh": "枯焦之色",
     "rarity": "1",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "176": {
     "name": "Faded Zebra",
+    "name_zh": "渐变斑纹",
     "rarity": "2",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "177": {
     "name": "Memento",
+    "name_zh": "记忆碎片",
     "rarity": "3",
     "wear_max": 0.18,
     "wear_min": 0.02
   },
   "178": {
     "name": "Doomkitty",
+    "name_zh": "厄运之喵",
     "rarity": "3",
     "wear_max": 0.22,
     "wear_min": 0.08
   },
   "179": {
     "name": "Nuclear Threat",
+    "name_zh": "核子威慑",
     "rarity": "4",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "180": {
     "name": "Fire Serpent",
+    "name_zh": "火蛇",
     "rarity": "5",
     "wear_max": 0.76,
     "wear_min": 0.06
   },
   "181": {
     "name": "Corticera",
+    "name_zh": "珊瑚树",
     "rarity": "4",
     "wear_max": 0.3,
     "wear_min": 0.06
   },
   "182": {
     "name": "Emerald Dragon",
+    "name_zh": "翡翠之龙",
     "rarity": "5",
     "wear_max": 0.52,
     "wear_min": 0.06
   },
   "183": {
     "name": "Overgrowth",
+    "name_zh": "疯狂蔓延",
     "rarity": "3",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "184": {
     "name": "Corticera",
+    "name_zh": "珊瑚树",
     "rarity": "4",
     "wear_max": 0.3,
     "wear_min": 0.06
   },
   "185": {
     "name": "Golden Koi",
+    "name_zh": "黄金锦鲤",
     "rarity": "5",
     "wear_max": 0.12,
     "wear_min": 0.0
   },
   "186": {
     "name": "Wave Spray",
+    "name_zh": "浪花喷漆",
     "rarity": "3",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "187": {
     "name": "Zirka",
+    "name_zh": "星级",
     "rarity": "3",
     "wear_max": 0.42,
     "wear_min": 0.06
   },
   "188": {
     "name": "Graven",
+    "name_zh": "不可磨灭",
     "rarity": "4",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "189": {
     "name": "Bright Water",
+    "name_zh": "澄澈之水",
     "rarity": "3",
     "wear_max": 0.22,
     "wear_min": 0.1
   },
   "190": {
     "name": "Black Limba",
+    "name_zh": "黑榄仁木",
     "rarity": "3",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "191": {
     "name": "Tempest",
+    "name_zh": "兴风作浪",
     "rarity": "3",
     "wear_max": 0.22,
     "wear_min": 0.06
   },
   "192": {
     "name": "Shattered",
+    "name_zh": "支离破碎",
     "rarity": "3",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "193": {
     "name": "Bone Pile",
+    "name_zh": "白骨之堆",
     "rarity": "3",
     "wear_max": 0.34,
     "wear_min": 0.06
   },
   "194": {
     "name": "Spitfire",
+    "name_zh": "喷焰者",
     "rarity": "4",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "195": {
     "name": "Demeter",
+    "name_zh": "丰饶女神",
     "rarity": "3",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "196": {
     "name": "Emerald",
+    "name_zh": "翡翠色调",
     "rarity": "4",
     "wear_max": 0.08,
     "wear_min": 0.0
   },
   "197": {
     "name": "Anodized Navy",
+    "name_zh": "深蓝电镀处理",
     "rarity": "3",
     "wear_max": 0.08,
     "wear_min": 0.0
   },
   "198": {
     "name": "Hazard",
+    "name_zh": "危机色调",
     "rarity": "3",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "199": {
     "name": "Dry Season",
+    "name_zh": "干旱季节",
     "rarity": "1",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "2": {
     "name": "Groundwater",
+    "name_zh": "地下水",
     "rarity": "1",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "20": {
     "name": "Virus",
+    "name_zh": "病毒危机",
     "rarity": "4",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "200": {
     "name": "Mayan Dreams",
+    "name_zh": "玛雅之梦",
     "rarity": "2",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "201": {
     "name": "Palm",
+    "name_zh": "棕榈色",
     "rarity": "2",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "202": {
     "name": "Jungle DDPAT",
+    "name_zh": "丛林 DDPAT",
     "rarity": "1",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "203": {
     "name": "Rust Coat",
+    "name_zh": "外表生锈",
     "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "204": {
     "name": "Mosaico",
+    "name_zh": "马赛克",
     "rarity": "2",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "205": {
     "name": "Jungle",
+    "name_zh": "狂野丛林",
     "rarity": "1",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "206": {
     "name": "Tornado",
+    "name_zh": "狂哮飓风",
     "rarity": "1",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "207": {
     "name": "Facets",
+    "name_zh": "多面体",
     "rarity": "2",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "208": {
     "name": "Sand Dune",
+    "name_zh": "沙丘之黄",
     "rarity": "1",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "209": {
     "name": "Groundwater",
+    "name_zh": "地下水",
     "rarity": "1",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "21": {
     "name": "Granite Marbleized",
+    "name_zh": "坚毅大理石纹",
     "rarity": "1",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "210": {
     "name": "Anodized Gunmetal",
+    "name_zh": "电镀青铜",
     "rarity": "1",
     "wear_max": 0.08,
     "wear_min": 0.0
   },
   "211": {
     "name": "Ocean Foam",
+    "name_zh": "海之泡沫",
     "rarity": "4",
     "wear_max": 0.12,
     "wear_min": 0.0
   },
   "212": {
     "name": "Graphite",
+    "name_zh": "石墨黑",
     "rarity": "4",
     "wear_max": 0.12,
     "wear_min": 0.0
   },
   "213": {
     "name": "Ocean Foam",
+    "name_zh": "海之泡沫",
     "rarity": "4",
     "wear_max": 0.08,
     "wear_min": 0.0
   },
   "214": {
     "name": "Graphite",
+    "name_zh": "石墨黑",
     "rarity": "4",
     "wear_max": 0.12,
     "wear_min": 0.0
   },
   "215": {
     "name": "X-Ray",
+    "name_zh": "X 射线",
     "rarity": "6",
     "wear_max": 0.3,
     "wear_min": 0.0
   },
   "216": {
     "name": "Blue Titanium",
+    "name_zh": "蓝钛",
     "rarity": "3",
     "wear_max": 0.04,
     "wear_min": 0.0
   },
   "217": {
     "name": "Blood Tiger",
+    "name_zh": "血虎",
     "rarity": "2",
     "wear_max": 0.3,
     "wear_min": 0.0
   },
   "218": {
     "name": "Hexane",
+    "name_zh": "蓝巢",
     "rarity": "3",
     "wear_max": 0.4,
     "wear_min": 0.0
   },
   "219": {
     "name": "Hive",
+    "name_zh": "红巢",
     "rarity": "3",
     "wear_max": 0.3,
     "wear_min": 0.0
   },
   "22": {
     "name": "Contrast Spray",
+    "name_zh": "对比涂装",
     "rarity": "1",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "220": {
     "name": "Hemoglobin",
+    "name_zh": "血红蛋白",
     "rarity": "4",
     "wear_max": 0.2,
     "wear_min": 0.0
   },
   "221": {
     "name": "Serum",
+    "name_zh": "血清",
     "rarity": "4",
     "wear_max": 0.25,
     "wear_min": 0.0
   },
   "222": {
     "name": "Blood in the Water",
+    "name_zh": "水中之血",
     "rarity": "6",
     "wear_max": 0.2,
     "wear_min": 0.06
   },
   "223": {
     "name": "Nightshade",
+    "name_zh": "夜影",
     "rarity": "3",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "224": {
     "name": "Water Sigil",
+    "name_zh": "水纹之印",
     "rarity": "3",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "225": {
     "name": "Ghost Camo",
+    "name_zh": "幽灵迷彩",
     "rarity": "3",
     "wear_max": 0.4,
     "wear_min": 0.0
   },
   "226": {
     "name": "Blue Laminate",
+    "name_zh": "蓝色层压板",
     "rarity": "3",
     "wear_max": 0.4,
     "wear_min": 0.02
   },
   "227": {
     "name": "Electric Hive",
+    "name_zh": "电子蜂巢",
     "rarity": "4",
     "wear_max": 0.4,
     "wear_min": 0.0
   },
   "228": {
     "name": "Blind Spot",
+    "name_zh": "盲点",
     "rarity": "4",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "229": {
     "name": "Azure Zebra",
+    "name_zh": "碧蓝斑纹",
     "rarity": "3",
     "wear_max": 0.28,
     "wear_min": 0.0
   },
   "230": {
     "name": "Steel Disruption",
+    "name_zh": "钢铁禁锢",
     "rarity": "3",
     "wear_max": 0.2,
     "wear_min": 0.0
   },
   "231": {
     "name": "Cobalt Disruption",
+    "name_zh": "钴蓝禁锢",
     "rarity": "4",
     "wear_max": 0.2,
     "wear_min": 0.0
   },
   "232": {
     "name": "Crimson Web",
+    "name_zh": "深红之网",
     "rarity": "3",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "233": {
     "name": "Tropical Storm",
+    "name_zh": "热带风暴",
     "rarity": "2",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "234": {
     "name": "Ash Wood",
+    "name_zh": "白蜡木",
     "rarity": "2",
     "wear_max": 0.45,
     "wear_min": 0.0
   },
   "235": {
     "name": "VariCamo",
+    "name_zh": "多变迷彩",
     "rarity": "2",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "236": {
     "name": "Night Ops",
+    "name_zh": "午夜行动",
     "rarity": "2",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "237": {
     "name": "Urban Rubble",
+    "name_zh": "都市瓦砾",
     "rarity": "2",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "238": {
     "name": "VariCamo Blue",
+    "name_zh": "蔚蓝多变迷彩",
     "rarity": "3",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "239": {
     "name": "Metallic Squeezer",
+    "name_zh": "金属榨汁机",
     "rarity": "3",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "240": {
     "name": "CaliCamo",
+    "name_zh": "加州迷彩",
     "rarity": "2",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "241": {
     "name": "Hunting Blind",
+    "name_zh": "隐蔽猎手",
     "rarity": "1",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "242": {
     "name": "Army Mesh",
+    "name_zh": "陆军网格",
     "rarity": "1",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "243": {
     "name": "Gator Mesh",
+    "name_zh": "鳄鱼网格",
     "rarity": "2",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "244": {
     "name": "Teardown",
+    "name_zh": "摧枯拉朽",
     "rarity": "3",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "245": {
     "name": "Army Recon",
+    "name_zh": "陆军斥候",
     "rarity": "1",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "246": {
     "name": "Amber Fade",
+    "name_zh": "渐变琥珀",
     "rarity": "3",
     "wear_max": 0.4,
     "wear_min": 0.0
   },
   "247": {
     "name": "Damascus Steel",
+    "name_zh": "大马士革钢",
     "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "248": {
     "name": "Red Quartz",
+    "name_zh": "晶红石英",
     "rarity": "4",
     "wear_max": 0.4,
     "wear_min": 0.0
   },
   "249": {
     "name": "Cobalt Quartz",
+    "name_zh": "钴蓝石英",
     "rarity": "4",
     "wear_max": 0.4,
     "wear_min": 0.0
   },
   "25": {
     "name": "Forest Leaves",
+    "name_zh": "森林之叶",
     "rarity": "1",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "250": {
     "name": "Full Stop",
+    "name_zh": "逮捕者",
     "rarity": "3",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "251": {
     "name": "Pit Viper",
+    "name_zh": "响尾蛇",
     "rarity": "3",
     "wear_max": 0.5,
     "wear_min": 0.08
   },
   "252": {
     "name": "Silver Quartz",
+    "name_zh": "银白石英",
     "rarity": "3",
     "wear_max": 0.4,
     "wear_min": 0.0
   },
   "253": {
     "name": "Acid Fade",
+    "name_zh": "渐变强酸",
     "rarity": "3",
     "wear_max": 0.03,
     "wear_min": 0.0
   },
   "254": {
     "name": "Nitro",
+    "name_zh": "氮化处理",
     "rarity": "3",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "255": {
     "name": "Asiimov",
+    "name_zh": "二西莫夫",
     "rarity": "5",
     "wear_max": 1.0,
     "wear_min": 0.18
   },
   "256": {
     "name": "The Kraken",
+    "name_zh": "北海巨妖",
     "rarity": "6",
     "wear_max": 0.4,
     "wear_min": 0.0
   },
   "257": {
     "name": "Guardian",
+    "name_zh": "守护者",
     "rarity": "4",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "258": {
     "name": "Mehndi",
+    "name_zh": "曼海蒂",
     "rarity": "5",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "259": {
     "name": "Redline",
+    "name_zh": "红线",
     "rarity": "4",
     "wear_max": 0.4,
     "wear_min": 0.1
   },
   "26": {
     "name": "Lichen Dashed",
+    "name_zh": "青苔虚线",
     "rarity": "1",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "260": {
     "name": "Pulse",
+    "name_zh": "电子脉冲",
     "rarity": "4",
     "wear_max": 0.4,
     "wear_min": 0.0
   },
   "261": {
     "name": "Marina",
+    "name_zh": "海斗士",
     "rarity": "4",
     "wear_max": 0.5,
     "wear_min": 0.05
   },
   "262": {
     "name": "Rose Iron",
+    "name_zh": "铁血玫瑰",
     "rarity": "4",
     "wear_max": 0.3,
     "wear_min": 0.0
   },
   "263": {
     "name": "Rising Skull",
+    "name_zh": "惊惧骷髅",
     "rarity": "4",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "264": {
     "name": "Sandstorm",
+    "name_zh": "沙尘暴",
     "rarity": "3",
     "wear_max": 0.6,
     "wear_min": 0.1
   },
   "265": {
     "name": "Kami",
+    "name_zh": "神祇",
     "rarity": "3",
     "wear_max": 0.3,
     "wear_min": 0.0
   },
   "266": {
     "name": "Magma",
+    "name_zh": "岩浆",
     "rarity": "3",
     "wear_max": 0.7,
     "wear_min": 0.0
   },
   "267": {
     "name": "Cobalt Halftone",
+    "name_zh": "钴蓝半调",
     "rarity": "3",
     "wear_max": 0.45,
     "wear_min": 0.05
   },
   "268": {
     "name": "Tread Plate",
+    "name_zh": "花纹钢板",
     "rarity": "4",
     "wear_max": 0.2,
     "wear_min": 0.0
   },
   "269": {
     "name": "The Fuschia Is Now",
+    "name_zh": "梅红时刻",
     "rarity": "5",
     "wear_max": 0.4,
     "wear_min": 0.0
   },
   "27": {
     "name": "Bone Mask",
+    "name_zh": "骸骨外罩",
     "rarity": "1",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "270": {
     "name": "Victoria",
+    "name_zh": "维多利亚",
     "rarity": "6",
     "wear_max": 0.75,
     "wear_min": 0.0
   },
   "271": {
     "name": "Undertow",
+    "name_zh": "暗潮",
     "rarity": "5",
     "wear_max": 0.2,
     "wear_min": 0.0
   },
   "272": {
     "name": "Titanium Bit",
+    "name_zh": "钛片",
     "rarity": "4",
     "wear_max": 0.2,
     "wear_min": 0.0
   },
   "273": {
     "name": "Heirloom",
+    "name_zh": "遗产",
     "rarity": "3",
     "wear_max": 0.8,
     "wear_min": 0.0
   },
   "274": {
     "name": "Copper Galaxy",
+    "name_zh": "铜色星系",
     "rarity": "4",
     "wear_max": 0.2,
     "wear_min": 0.0
   },
   "275": {
     "name": "Red FragCam",
+    "name_zh": "红色碎片迷彩",
     "rarity": "2",
     "wear_max": 0.7,
     "wear_min": 0.0
   },
   "276": {
     "name": "Panther",
+    "name_zh": "黑豹",
     "rarity": "3",
     "wear_max": 0.58,
     "wear_min": 0.0
   },
   "277": {
     "name": "Stainless",
+    "name_zh": "不锈钢",
     "rarity": "2",
     "wear_max": 0.8,
     "wear_min": 0.0
   },
   "278": {
     "name": "Blue Fissure",
+    "name_zh": "蓝色裂纹",
     "rarity": "2",
     "wear_max": 0.58,
     "wear_min": 0.06
   },
   "279": {
     "name": "Asiimov",
+    "name_zh": "二西莫夫",
     "rarity": "5",
     "wear_max": 1.0,
     "wear_min": 0.18
   },
   "28": {
     "name": "Anodized Navy",
+    "name_zh": "深蓝电镀处理",
     "rarity": "3",
     "wear_max": 0.08,
     "wear_min": 0.0
   },
   "280": {
     "name": "Chameleon",
+    "name_zh": "变色龙",
     "rarity": "6",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "281": {
     "name": "Corporal",
+    "name_zh": "下士",
     "rarity": "3",
     "wear_max": 0.75,
     "wear_min": 0.05
   },
   "282": {
     "name": "Redline",
+    "name_zh": "红线",
     "rarity": "4",
     "wear_max": 0.7,
     "wear_min": 0.1
   },
   "283": {
     "name": "Trigon",
+    "name_zh": "三角",
     "rarity": "5",
     "wear_max": 0.75,
     "wear_min": 0.08
   },
   "284": {
     "name": "Heat",
+    "name_zh": "炽热",
     "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "285": {
     "name": "Terrain",
+    "name_zh": "青绿地形",
     "rarity": "3",
     "wear_max": 0.45,
     "wear_min": 0.0
   },
   "286": {
     "name": "Antique",
+    "name_zh": "古董枪",
     "rarity": "5",
     "wear_max": 0.3,
     "wear_min": 0.0
   },
   "287": {
     "name": "Pulse",
+    "name_zh": "电子脉冲",
     "rarity": "4",
     "wear_max": 0.6,
     "wear_min": 0.1
   },
   "288": {
     "name": "Sergeant",
+    "name_zh": "中士",
     "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.1
   },
   "289": {
     "name": "Sandstorm",
+    "name_zh": "沙尘暴",
     "rarity": "3",
     "wear_max": 0.7,
     "wear_min": 0.1
   },
   "290": {
     "name": "Guardian",
+    "name_zh": "守护者",
     "rarity": "3",
     "wear_max": 0.38,
     "wear_min": 0.0
   },
   "291": {
     "name": "Heaven Guard",
+    "name_zh": "天空守卫",
     "rarity": "3",
     "wear_max": 0.4,
     "wear_min": 0.0
   },
   "292": {
     "name": "Dragon Snore",
+    "name_zh": "鼾龙传说",
     "rarity": "5",
     "wear_max": 0.8,
     "wear_min": 0.0
   },
   "293": {
     "name": "Death Rattle",
+    "name_zh": "夺命撼响",
     "rarity": "1",
     "wear_max": 0.5,
     "wear_min": 0.08
   },
   "294": {
     "name": "Green Apple",
+    "name_zh": "绿苹果",
     "rarity": "2",
     "wear_max": 0.3,
     "wear_min": 0.0
   },
   "295": {
     "name": "Franklin",
+    "name_zh": "富兰克林",
     "rarity": "5",
     "wear_max": 0.4,
     "wear_min": 0.0
   },
   "296": {
     "name": "Meteorite",
+    "name_zh": "陨星",
     "rarity": "2",
     "wear_max": 0.18,
     "wear_min": 0.0
   },
   "297": {
     "name": "Tuxedo",
+    "name_zh": "燕尾",
     "rarity": "3",
     "wear_max": 0.8,
     "wear_min": 0.0
   },
   "298": {
     "name": "Army Sheen",
+    "name_zh": "军队之辉",
     "rarity": "1",
     "wear_max": 0.3,
     "wear_min": 0.0
   },
   "299": {
     "name": "Caged Steel",
+    "name_zh": "钢笼",
     "rarity": "2",
     "wear_max": 0.2,
     "wear_min": 0.0
   },
   "3": {
     "name": "Candy Apple",
+    "name_zh": "红苹果",
     "rarity": "2",
     "wear_max": 0.3,
     "wear_min": 0.0
   },
   "30": {
     "name": "Snake Camo",
+    "name_zh": "蝮蛇迷彩",
     "rarity": "2",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "300": {
     "name": "Emerald Pinstripe",
+    "name_zh": "翡翠细条纹",
     "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "301": {
     "name": "Atomic Alloy",
+    "name_zh": "原子合金",
     "rarity": "4",
     "wear_max": 0.9,
     "wear_min": 0.0
   },
   "302": {
     "name": "Vulcan",
+    "name_zh": "火神",
     "rarity": "5",
     "wear_max": 0.9,
     "wear_min": 0.0
   },
   "303": {
     "name": "Isaac",
+    "name_zh": "艾萨克",
     "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "304": {
     "name": "Slashed",
+    "name_zh": "裂痕",
     "rarity": "3",
     "wear_max": 0.8,
     "wear_min": 0.15
   },
   "305": {
     "name": "Torque",
+    "name_zh": "力矩",
     "rarity": "4",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "306": {
     "name": "Antique",
+    "name_zh": "古董枪",
     "rarity": "4",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "307": {
     "name": "Retribution",
+    "name_zh": "报应",
     "rarity": "3",
     "wear_max": 0.45,
     "wear_min": 0.0
   },
   "308": {
     "name": "Kami",
+    "name_zh": "神祇",
     "rarity": "3",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "309": {
     "name": "Howl",
+    "name_zh": "咆哮",
     "rarity": "7",
     "wear_max": 0.4,
     "wear_min": 0.0
   },
   "310": {
     "name": "Curse",
+    "name_zh": "诅咒",
     "rarity": "4",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "311": {
     "name": "Desert Warfare",
+    "name_zh": "沙漠战争",
     "rarity": "3",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "312": {
     "name": "Cyrex",
+    "name_zh": "次时代",
     "rarity": "5",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "313": {
     "name": "Orion",
+    "name_zh": "猎户",
     "rarity": "4",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "314": {
     "name": "Heaven Guard",
+    "name_zh": "天空守卫",
     "rarity": "4",
     "wear_max": 0.5,
     "wear_min": 0.03
   },
   "315": {
     "name": "Poison Dart",
+    "name_zh": "毒镖",
     "rarity": "3",
     "wear_max": 0.7,
     "wear_min": 0.0
   },
   "316": {
     "name": "Jaguar",
+    "name_zh": "美洲猛虎",
     "rarity": "5",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "317": {
     "name": "Bratatat",
+    "name_zh": "*哒哒哒*",
     "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "318": {
     "name": "Road Rash",
+    "name_zh": "公路杀手",
     "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "319": {
     "name": "Detour",
+    "name_zh": "迂回路线",
     "rarity": "3",
     "wear_max": 0.43,
     "wear_min": 0.0
   },
   "32": {
     "name": "Silver",
+    "name_zh": "银质",
     "rarity": "2",
     "wear_max": 0.08,
     "wear_min": 0.0
   },
   "320": {
     "name": "Red Python",
+    "name_zh": "血红巨蟒",
     "rarity": "3",
     "wear_max": 0.5,
     "wear_min": 0.08
   },
   "321": {
     "name": "Master Piece",
+    "name_zh": "神来之作",
     "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "322": {
     "name": "Nitro",
+    "name_zh": "氮化处理",
     "rarity": "3",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "323": {
     "name": "Rust Coat",
+    "name_zh": "外表生锈",
     "rarity": "2",
     "wear_max": 0.8,
     "wear_min": 0.0
   },
   "324": {
     "name": "Yorkshire",
+    "name_zh": "约克夏",
     "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "325": {
     "name": "Chalice",
+    "name_zh": "复古圣杯",
     "rarity": "4",
     "wear_max": 0.1,
     "wear_min": 0.0
   },
   "326": {
     "name": "Knight",
+    "name_zh": "骑士",
     "rarity": "4",
     "wear_max": 0.1,
     "wear_min": 0.0
   },
   "327": {
     "name": "Chainmail",
+    "name_zh": "坚固链甲",
     "rarity": "2",
     "wear_max": 0.22,
     "wear_min": 0.0
   },
   "328": {
     "name": "Hand Cannon",
+    "name_zh": "手上加农炮",
     "rarity": "3",
     "wear_max": 0.7,
     "wear_min": 0.01
   },
   "329": {
     "name": "Dark Age",
+    "name_zh": "黑暗时代",
     "rarity": "3",
     "wear_max": 0.22,
     "wear_min": 0.0
   },
   "33": {
     "name": "Hot Rod",
+    "name_zh": "赤红新星",
     "rarity": "3",
     "wear_max": 0.08,
     "wear_min": 0.0
   },
   "330": {
     "name": "Briar",
+    "name_zh": "蔷薇",
     "rarity": "1",
     "wear_max": 0.22,
     "wear_min": 0.0
   },
   "331": {
     "name": "Arctic Tri-Tone",
+    "name_zh": "极寒三色",
     "rarity": "4",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "332": {
     "name": "Royal Blue",
+    "name_zh": "宝蓝之色",
     "rarity": "1",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "333": {
     "name": "Indigo",
+    "name_zh": "紫青之色",
     "rarity": "1",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "334": {
     "name": "Twist",
+    "name_zh": "螺形扭转",
     "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "335": {
     "name": "Module",
+    "name_zh": "深蓝组件",
     "rarity": "3",
     "wear_max": 0.35,
     "wear_min": 0.0
   },
   "336": {
     "name": "Desert-Strike",
+    "name_zh": "沙漠精英",
     "rarity": "5",
     "wear_max": 0.7,
     "wear_min": 0.0
   },
   "337": {
     "name": "Tatter",
+    "name_zh": "烧尽",
     "rarity": "4",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "338": {
     "name": "Pulse",
+    "name_zh": "电子脉冲",
     "rarity": "2",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "339": {
     "name": "Caiman",
+    "name_zh": "凯门鳄",
     "rarity": "4",
     "wear_max": 0.4,
     "wear_min": 0.0
   },
   "34": {
     "name": "Metallic DDPAT",
+    "name_zh": "金属 DDPAT",
     "rarity": "2",
     "wear_max": 0.08,
     "wear_min": 0.0
   },
   "340": {
     "name": "Jet Set",
+    "name_zh": "酷炫涂鸦皮革",
     "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "341": {
     "name": "First Class",
+    "name_zh": "至高皮革",
     "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "342": {
     "name": "Leather",
+    "name_zh": "棕色皮革",
     "rarity": "2",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "343": {
     "name": "Commuter",
+    "name_zh": "通勤者皮革",
     "rarity": "2",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "344": {
     "name": "Dragon Lore",
+    "name_zh": "巨龙传说",
     "rarity": "5",
     "wear_max": 0.7,
     "wear_min": 0.0
   },
   "345": {
     "name": "First Class",
+    "name_zh": "至高皮革",
     "rarity": "3",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "346": {
     "name": "Coach Class",
+    "name_zh": "廉价皮革",
     "rarity": "1",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "347": {
     "name": "Pilot",
+    "name_zh": "飞行员",
     "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "348": {
     "name": "Red Leather",
+    "name_zh": "红色皮革",
     "rarity": "3",
     "wear_max": 0.56,
     "wear_min": 0.0
   },
   "349": {
     "name": "Osiris",
+    "name_zh": "死亡主宰者",
     "rarity": "4",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "350": {
     "name": "Tigris",
+    "name_zh": "猛虎",
     "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "351": {
     "name": "Conspiracy",
+    "name_zh": "阴谋者",
     "rarity": "4",
     "wear_max": 0.3,
     "wear_min": 0.0
   },
   "352": {
     "name": "Fowl Play",
+    "name_zh": "狩猎利器",
     "rarity": "5",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "353": {
     "name": "Water Elemental",
+    "name_zh": "水灵",
     "rarity": "4",
     "wear_max": 0.7,
     "wear_min": 0.0
   },
   "354": {
     "name": "Urban Hazard",
+    "name_zh": "都市危机",
     "rarity": "3",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "355": {
     "name": "Desert-Strike",
+    "name_zh": "沙漠精英",
     "rarity": "3",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "356": {
     "name": "Koi",
+    "name_zh": "锦鲤",
     "rarity": "4",
     "wear_max": 0.3,
     "wear_min": 0.0
   },
   "357": {
     "name": "Ivory",
+    "name_zh": "乳白象牙",
     "rarity": "2",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "358": {
     "name": "Supernova",
+    "name_zh": "超新星",
     "rarity": "4",
     "wear_max": 0.4,
     "wear_min": 0.0
   },
   "359": {
     "name": "Asiimov",
+    "name_zh": "二西莫夫",
     "rarity": "6",
     "wear_max": 0.92,
     "wear_min": 0.0
   },
   "36": {
     "name": "Ossified",
+    "name_zh": "骨化之色",
     "rarity": "3",
     "wear_max": 0.08,
     "wear_min": 0.0
   },
   "360": {
     "name": "Cyrex",
+    "name_zh": "次时代",
     "rarity": "5",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "361": {
     "name": "Abyss",
+    "name_zh": "无尽深海",
     "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "362": {
     "name": "Labyrinth",
+    "name_zh": "迷之宫",
     "rarity": "3",
     "wear_max": 0.4,
     "wear_min": 0.0
   },
   "363": {
     "name": "Traveler",
+    "name_zh": "旅行者皮革",
     "rarity": "2",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "364": {
     "name": "Business Class",
+    "name_zh": "商业皮革",
     "rarity": "2",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "365": {
     "name": "Olive Plaid",
+    "name_zh": "橄榄格纹",
     "rarity": "1",
     "wear_max": 0.58,
     "wear_min": 0.0
   },
   "366": {
     "name": "Green Plaid",
+    "name_zh": "绿色格纹",
     "rarity": "1",
     "wear_max": 0.58,
     "wear_min": 0.0
   },
   "367": {
     "name": "Reactor",
+    "name_zh": "核子反应",
     "rarity": "2",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "368": {
     "name": "Setting Sun",
+    "name_zh": "落日",
     "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "369": {
     "name": "Nuclear Waste",
+    "name_zh": "核子废渣",
     "rarity": "2",
     "wear_max": 0.4,
     "wear_min": 0.0
   },
   "37": {
     "name": "Blaze",
+    "name_zh": "炽烈之炎",
     "rarity": "3",
     "wear_max": 0.08,
     "wear_min": 0.0
   },
   "370": {
     "name": "Bone Machine",
+    "name_zh": "碾骨机",
     "rarity": "3",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "371": {
     "name": "Styx",
+    "name_zh": "冥界之憎",
     "rarity": "4",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "372": {
     "name": "Nuclear Garden",
+    "name_zh": "核子花园",
     "rarity": "3",
     "wear_max": 0.7,
     "wear_min": 0.0
   },
   "373": {
     "name": "Contamination",
+    "name_zh": "核子污染",
     "rarity": "2",
     "wear_max": 0.83,
     "wear_min": 0.0
   },
   "374": {
     "name": "Toxic",
+    "name_zh": "核子剧毒",
     "rarity": "3",
     "wear_max": 0.7,
     "wear_min": 0.0
   },
   "375": {
     "name": "Radiation Hazard",
+    "name_zh": "辐射危机",
     "rarity": "2",
     "wear_max": 0.55,
     "wear_min": 0.0
   },
   "376": {
     "name": "Chemical Green",
+    "name_zh": "化工之绿",
     "rarity": "2",
     "wear_max": 0.9,
     "wear_min": 0.0
   },
   "377": {
     "name": "Hot Shot",
+    "name_zh": "热火朝天",
     "rarity": "2",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "378": {
     "name": "Fallout Warning",
+    "name_zh": "辐射警告",
     "rarity": "2",
     "wear_max": 0.8,
     "wear_min": 0.0
   },
   "379": {
     "name": "Cerberus",
+    "name_zh": "地狱看门犬",
     "rarity": "4",
     "wear_max": 0.9,
     "wear_min": 0.0
   },
   "38": {
     "name": "Fade",
+    "name_zh": "渐变之色",
     "rarity": "3",
     "wear_max": 0.08,
     "wear_min": 0.0
   },
   "380": {
     "name": "Wasteland Rebel",
+    "name_zh": "荒野反叛",
     "rarity": "5",
     "wear_max": 0.7,
     "wear_min": 0.05
   },
   "381": {
     "name": "Grinder",
+    "name_zh": "粉碎者",
     "rarity": "3",
     "wear_max": 0.25,
     "wear_min": 0.02
   },
   "382": {
     "name": "Murky",
+    "name_zh": "黑暗豹纹",
     "rarity": "3",
     "wear_max": 0.25,
     "wear_min": 0.0
   },
   "383": {
     "name": "Basilisk",
+    "name_zh": "翼蜥",
     "rarity": "3",
     "wear_max": 0.68,
     "wear_min": 0.0
   },
   "384": {
     "name": "Griffin",
+    "name_zh": "狮鹫",
     "rarity": "3",
     "wear_max": 0.8,
     "wear_min": 0.0
   },
   "385": {
     "name": "Firestarter",
+    "name_zh": "灼烧之痕",
     "rarity": "3",
     "wear_max": 0.49,
     "wear_min": 0.06
   },
   "386": {
     "name": "Dart",
+    "name_zh": "飞驰",
     "rarity": "3",
     "wear_max": 0.46,
     "wear_min": 0.0
   },
   "387": {
     "name": "Urban Hazard",
+    "name_zh": "都市危机",
     "rarity": "3",
     "wear_max": 0.25,
     "wear_min": 0.0
   },
   "388": {
     "name": "Cartel",
+    "name_zh": "卡特尔",
     "rarity": "5",
     "wear_max": 0.75,
     "wear_min": 0.0
   },
   "389": {
     "name": "Fire Elemental",
+    "name_zh": "火灵",
     "rarity": "5",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "39": {
     "name": "Bulldozer",
+    "name_zh": "威吓者",
     "rarity": "4",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "390": {
     "name": "Highwayman",
+    "name_zh": "路霸",
     "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "391": {
     "name": "Cardiac",
+    "name_zh": "心脏打击",
     "rarity": "5",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "392": {
     "name": "Delusion",
+    "name_zh": "迷幻",
     "rarity": "3",
     "wear_max": 0.35,
     "wear_min": 0.06
   },
   "393": {
     "name": "Tranquility",
+    "name_zh": "宁静",
     "rarity": "5",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "394": {
     "name": "Cartel",
+    "name_zh": "卡特尔",
     "rarity": "4",
     "wear_max": 0.75,
     "wear_min": 0.0
   },
   "395": {
     "name": "Man-o'-war",
+    "name_zh": "无畏战神",
     "rarity": "5",
     "wear_max": 0.2,
     "wear_min": 0.1
   },
   "396": {
     "name": "Urban Shock",
+    "name_zh": "都市冲击",
     "rarity": "4",
     "wear_max": 0.47,
     "wear_min": 0.0
   },
   "397": {
     "name": "Naga",
+    "name_zh": "纳迦蛇神",
     "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "398": {
     "name": "Chatterbox",
+    "name_zh": "喧闹骷髅",
     "rarity": "6",
     "wear_max": 0.85,
     "wear_min": 0.35
   },
   "399": {
     "name": "Catacombs",
+    "name_zh": "亡者之寝",
     "rarity": "2",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "40": {
     "name": "Night",
+    "name_zh": "噩梦之夜",
     "rarity": "1",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "400": {
-    "name": "\u9f8d\u738b (Dragon King)",
+    "name": "龍王 (Dragon King)",
+    "name_zh": "龙王",
     "rarity": "4",
     "wear_max": 0.75,
     "wear_min": 0.0
   },
   "401": {
     "name": "System Lock",
+    "name_zh": "系统锁定",
     "rarity": "3",
     "wear_max": 0.8,
     "wear_min": 0.0
   },
   "402": {
     "name": "Malachite",
+    "name_zh": "孔雀石",
     "rarity": "4",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "403": {
     "name": "Deadly Poison",
+    "name_zh": "致命毒药",
     "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "404": {
     "name": "Muertos",
+    "name_zh": "死亡轮回",
     "rarity": "5",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "405": {
     "name": "Serenity",
+    "name_zh": "祥和之翼",
     "rarity": "4",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "406": {
     "name": "Grotto",
+    "name_zh": "蓝洞",
     "rarity": "3",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "407": {
     "name": "Quicksilver",
+    "name_zh": "剧毒水银",
     "rarity": "3",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "409": {
     "name": "Tiger Tooth",
+    "name_zh": "虎牙",
     "rarity": "5",
     "wear_max": 0.08,
     "wear_min": 0.0
   },
   "41": {
     "name": "Copper",
+    "name_zh": "镀铜",
     "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "410": {
     "name": "Damascus Steel",
+    "name_zh": "大马士革钢",
     "rarity": "4",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "411": {
     "name": "Damascus Steel",
+    "name_zh": "大马士革钢",
     "rarity": "4",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "412": {
     "name": "Crimson Foil",
+    "name_zh": "深红箔",
     "rarity": "4",
     "wear_max": 0.68,
     "wear_min": 0.0
   },
   "413": {
     "name": "Marble Fade",
+    "name_zh": "渐变大理石",
     "rarity": "5",
     "wear_max": 0.08,
     "wear_min": 0.0
   },
   "414": {
     "name": "Rust Coat",
+    "name_zh": "外表生锈",
     "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.4
   },
   "415": {
     "name": "Doppler",
+    "name_zh": "多普勒",
     "phase": "5",
     "rarity": "5",
     "wear_max": 0.08,
@@ -4339,6 +5061,7 @@
   },
   "416": {
     "name": "Doppler",
+    "name_zh": "多普勒",
     "phase": "6",
     "rarity": "5",
     "wear_max": 0.08,
@@ -4346,6 +5069,7 @@
   },
   "417": {
     "name": "Doppler",
+    "name_zh": "多普勒",
     "phase": "7",
     "rarity": "6",
     "wear_max": 0.08,
@@ -4353,6 +5077,7 @@
   },
   "418": {
     "name": "Doppler",
+    "name_zh": "多普勒",
     "phase": "1",
     "rarity": "4",
     "wear_max": 0.08,
@@ -4360,6 +5085,7 @@
   },
   "419": {
     "name": "Doppler",
+    "name_zh": "多普勒",
     "phase": "2",
     "rarity": "4",
     "wear_max": 0.08,
@@ -4367,12 +5093,14 @@
   },
   "42": {
     "name": "Blue Steel",
+    "name_zh": "蓝钢",
     "rarity": "2",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "420": {
     "name": "Doppler",
+    "name_zh": "多普勒",
     "phase": "3",
     "rarity": "4",
     "wear_max": 0.08,
@@ -4380,6 +5108,7 @@
   },
   "421": {
     "name": "Doppler",
+    "name_zh": "多普勒",
     "phase": "4",
     "rarity": "4",
     "wear_max": 0.08,
@@ -4387,918 +5116,1071 @@
   },
   "422": {
     "name": "Elite Build",
+    "name_zh": "精英之作",
     "rarity": "2",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "423": {
     "name": "Armor Core",
+    "name_zh": "装甲核心",
     "rarity": "3",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "424": {
     "name": "Worm God",
+    "name_zh": "蠕虫之神",
     "rarity": "3",
     "wear_max": 0.45,
     "wear_min": 0.0
   },
   "425": {
     "name": "Bronze Deco",
+    "name_zh": "青铜装饰",
     "rarity": "2",
     "wear_max": 0.46,
     "wear_min": 0.0
   },
   "426": {
     "name": "Valence",
+    "name_zh": "元素轮廓",
     "rarity": "3",
     "wear_max": 0.8,
     "wear_min": 0.0
   },
   "427": {
     "name": "Monkey Business",
+    "name_zh": "耍猴把戏",
     "rarity": "5",
     "wear_max": 0.9,
     "wear_min": 0.1
   },
   "428": {
     "name": "Eco",
+    "name_zh": "经济",
     "rarity": "5",
     "wear_max": 0.85,
     "wear_min": 0.1
   },
   "429": {
     "name": "Djinn",
+    "name_zh": "灯神",
     "rarity": "5",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "43": {
     "name": "Stained",
+    "name_zh": "人工染色",
     "rarity": "2",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "430": {
     "name": "Hyper Beast",
+    "name_zh": "暴怒野兽",
     "rarity": "5",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "431": {
     "name": "Heat",
+    "name_zh": "炽热",
     "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "432": {
     "name": "Man-o'-war",
+    "name_zh": "无畏战神",
     "rarity": "3",
     "wear_max": 0.2,
     "wear_min": 0.1
   },
   "433": {
     "name": "Neon Rider",
+    "name_zh": "霓虹骑士",
     "rarity": "6",
     "wear_max": 0.45,
     "wear_min": 0.0
   },
   "434": {
     "name": "Origami",
+    "name_zh": "千纸鹤",
     "rarity": "3",
     "wear_max": 0.55,
     "wear_min": 0.0
   },
   "435": {
     "name": "Pole Position",
+    "name_zh": "先驱",
     "rarity": "4",
     "wear_max": 0.7,
     "wear_min": 0.0
   },
   "436": {
     "name": "Grand Prix",
+    "name_zh": "车王",
     "rarity": "4",
     "wear_max": 0.35,
     "wear_min": 0.25
   },
   "437": {
     "name": "Twilight Galaxy",
+    "name_zh": "暮光星系",
     "rarity": "4",
     "wear_max": 0.2,
     "wear_min": 0.0
   },
   "438": {
     "name": "Chronos",
+    "name_zh": "柯罗诺斯",
     "rarity": "4",
     "wear_max": 0.4,
     "wear_min": 0.0
   },
   "439": {
     "name": "Hades",
+    "name_zh": "哈迪斯",
     "rarity": "2",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "44": {
     "name": "Case Hardened",
+    "name_zh": "表面淬火",
     "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "440": {
     "name": "Icarus Fell",
+    "name_zh": "伊卡洛斯殒落",
     "rarity": "3",
     "wear_max": 0.1,
     "wear_min": 0.0
   },
   "441": {
     "name": "Minotaur's Labyrinth",
+    "name_zh": "弥诺陶洛斯迷宫",
     "rarity": "3",
     "wear_max": 0.39,
     "wear_min": 0.0
   },
   "442": {
     "name": "Asterion",
+    "name_zh": "星点",
     "rarity": "1",
     "wear_max": 0.55,
     "wear_min": 0.0
   },
   "443": {
     "name": "Pathfinder",
+    "name_zh": "寻路者",
     "rarity": "1",
     "wear_max": 0.35,
     "wear_min": 0.0
   },
   "444": {
     "name": "Daedalus",
+    "name_zh": "代达罗斯之殇",
     "rarity": "1",
     "wear_max": 0.55,
     "wear_min": 0.0
   },
   "445": {
     "name": "Hot Rod",
+    "name_zh": "赤红新星",
     "rarity": "4",
     "wear_max": 0.08,
     "wear_min": 0.0
   },
   "446": {
     "name": "Medusa",
+    "name_zh": "美杜莎",
     "rarity": "5",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "447": {
     "name": "Duelist",
+    "name_zh": "决斗家",
     "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "448": {
     "name": "Pandora's Box",
+    "name_zh": "潘多拉魔盒",
     "rarity": "3",
     "wear_max": 0.3,
     "wear_min": 0.0
   },
   "449": {
     "name": "Poseidon",
+    "name_zh": "波塞冬",
     "rarity": "4",
     "wear_max": 0.33,
     "wear_min": 0.0
   },
   "450": {
     "name": "Moon in Libra",
+    "name_zh": "天秤之月",
     "rarity": "1",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "451": {
     "name": "Sun in Leo",
+    "name_zh": "狮子之日",
     "rarity": "1",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "452": {
     "name": "Shipping Forecast",
+    "name_zh": "海滨预测者",
     "rarity": "2",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "453": {
     "name": "Emerald",
+    "name_zh": "翡翠色调",
     "rarity": "3",
     "wear_max": 0.08,
     "wear_min": 0.0
   },
   "454": {
     "name": "Para Green",
+    "name_zh": "绿色伞兵",
     "rarity": "1",
     "wear_max": 0.8,
     "wear_min": 0.0
   },
   "455": {
     "name": "Akihabara Accept",
+    "name_zh": "秋叶原之选",
     "rarity": "6",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "456": {
     "name": "Hydroponic",
+    "name_zh": "水栽竹",
     "rarity": "4",
     "wear_max": 0.8,
     "wear_min": 0.0
   },
   "457": {
     "name": "Bamboo Print",
+    "name_zh": "墨竹",
     "rarity": "1",
     "wear_max": 0.8,
     "wear_min": 0.0
   },
   "458": {
     "name": "Bamboo Shadow",
+    "name_zh": "竹影",
     "rarity": "1",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "459": {
     "name": "Bamboo Forest",
+    "name_zh": "竹林",
     "rarity": "1",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "46": {
     "name": "Contractor",
+    "name_zh": "雇佣兵",
     "rarity": "1",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "460": {
     "name": "Aqua Terrace",
+    "name_zh": "水蓝阶地",
     "rarity": "3",
     "wear_max": 0.7,
     "wear_min": 0.0
   },
   "461": {
     "name": "Half Sleeve",
+    "name_zh": "半袖式",
     "rarity": "2",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "462": {
     "name": "Counter Terrace",
+    "name_zh": "反梗精英",
     "rarity": "3",
     "wear_max": 0.65,
     "wear_min": 0.0
   },
   "463": {
     "name": "Terrace",
+    "name_zh": "梗怖分子",
     "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "464": {
     "name": "Neon Kimono",
+    "name_zh": "日式荧光涂装",
     "rarity": "4",
     "wear_max": 0.8,
     "wear_min": 0.0
   },
   "465": {
     "name": "Orange Kimono",
+    "name_zh": "日式橙色涂装",
     "rarity": "1",
     "wear_max": 0.8,
     "wear_min": 0.0
   },
   "466": {
     "name": "Crimson Kimono",
+    "name_zh": "日式深红涂装",
     "rarity": "2",
     "wear_max": 0.8,
     "wear_min": 0.0
   },
   "467": {
     "name": "Mint Kimono",
+    "name_zh": "日式薄荷涂装",
     "rarity": "1",
     "wear_max": 0.8,
     "wear_min": 0.0
   },
   "468": {
     "name": "Midnight Storm",
+    "name_zh": "午夜风暴",
     "rarity": "1",
     "wear_max": 0.75,
     "wear_min": 0.0
   },
   "469": {
-    "name": "Sunset Storm \u58f1",
+    "name": "Sunset Storm 壱",
+    "name_zh": "日落风暴 壱",
     "rarity": "3",
     "wear_max": 0.75,
     "wear_min": 0.0
   },
   "47": {
     "name": "Colony",
+    "name_zh": "殖民侵略者",
     "rarity": "1",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "470": {
-    "name": "Sunset Storm \u5f10",
+    "name": "Sunset Storm 弐",
+    "name_zh": "日落风暴 弐",
     "rarity": "3",
     "wear_max": 0.75,
     "wear_min": 0.0
   },
   "471": {
     "name": "Daybreak",
+    "name_zh": "破晓",
     "rarity": "3",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "472": {
     "name": "Impact Drill",
+    "name_zh": "冲击钻",
     "rarity": "1",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "473": {
     "name": "Seabird",
+    "name_zh": "海鸟",
     "rarity": "1",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "474": {
     "name": "Aquamarine Revenge",
+    "name_zh": "深海复仇",
     "rarity": "5",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "475": {
     "name": "Hyper Beast",
+    "name_zh": "暴怒野兽",
     "rarity": "5",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "476": {
     "name": "Yellow Jacket",
+    "name_zh": "黄夹克",
     "rarity": "5",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "477": {
     "name": "Neural Net",
+    "name_zh": "神经网",
     "rarity": "4",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "478": {
     "name": "Rocket Pop",
+    "name_zh": "火箭冰棒",
     "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "479": {
     "name": "Bunsen Burner",
+    "name_zh": "本生灯",
     "rarity": "2",
     "wear_max": 0.8,
     "wear_min": 0.0
   },
   "48": {
     "name": "Dragon Tattoo",
+    "name_zh": "黑龙纹身",
     "rarity": "3",
     "wear_max": 0.08,
     "wear_min": 0.0
   },
   "480": {
     "name": "Evil Daimyo",
+    "name_zh": "杀意大名",
     "rarity": "3",
     "wear_max": 0.52,
     "wear_min": 0.0
   },
   "481": {
     "name": "Nemesis",
+    "name_zh": "复仇者",
     "rarity": "5",
     "wear_max": 0.32,
     "wear_min": 0.0
   },
   "482": {
     "name": "Ruby Poison Dart",
+    "name_zh": "红宝石毒镖",
     "rarity": "4",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "483": {
     "name": "Loudmouth",
+    "name_zh": "大嘴巴",
     "rarity": "4",
     "wear_max": 0.65,
     "wear_min": 0.14
   },
   "484": {
     "name": "Ranger",
+    "name_zh": "游侠",
     "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "485": {
     "name": "Handgun",
+    "name_zh": "手炮",
     "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "486": {
     "name": "Elite Build",
+    "name_zh": "精英之作",
     "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "487": {
     "name": "Cyrex",
+    "name_zh": "次时代",
     "rarity": "5",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "488": {
     "name": "Riot",
+    "name_zh": "暴乱",
     "rarity": "3",
     "wear_max": 0.7,
     "wear_min": 0.0
   },
   "489": {
     "name": "Torque",
+    "name_zh": "力矩",
     "rarity": "2",
     "wear_max": 0.46,
     "wear_min": 0.0
   },
   "490": {
     "name": "Frontside Misty",
+    "name_zh": "前线迷雾",
     "rarity": "4",
     "wear_max": 0.87,
     "wear_min": 0.02
   },
   "491": {
     "name": "Dualing Dragons",
+    "name_zh": "龙之双子",
     "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "492": {
     "name": "Survivor Z",
+    "name_zh": "幸存者 Z",
     "rarity": "3",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "493": {
     "name": "Flux",
+    "name_zh": "弗卢克斯",
     "rarity": "5",
     "wear_max": 0.9,
     "wear_min": 0.0
   },
   "494": {
     "name": "Stone Cold",
+    "name_zh": "冷石",
     "rarity": "4",
     "wear_max": 0.9,
     "wear_min": 0.0
   },
   "495": {
     "name": "Wraiths",
+    "name_zh": "幻影冥魂",
     "rarity": "2",
     "wear_max": 0.8,
     "wear_min": 0.0
   },
   "496": {
     "name": "Nebula Crusader",
+    "name_zh": "星云十字军",
     "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "497": {
     "name": "Golden Coil",
+    "name_zh": "金蛇缠绕",
     "rarity": "5",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "498": {
     "name": "Rangeen",
+    "name_zh": "冉吉",
     "rarity": "3",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "499": {
     "name": "Cobalt Core",
+    "name_zh": "钴核",
     "rarity": "3",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "5": {
     "name": "Forest DDPAT",
+    "name_zh": "森林 DDPAT",
     "rarity": "1",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "500": {
     "name": "Special Delivery",
+    "name_zh": "速递",
     "rarity": "4",
     "wear_max": 0.62,
     "wear_min": 0.0
   },
   "501": {
     "name": "Wingshot",
+    "name_zh": "翼击",
     "rarity": "4",
     "wear_max": 0.9,
     "wear_min": 0.0
   },
   "502": {
     "name": "Green Marine",
+    "name_zh": "绿色陆战队",
     "rarity": "3",
     "wear_max": 0.8,
     "wear_min": 0.0
   },
   "503": {
     "name": "Big Iron",
+    "name_zh": "巨铁",
     "rarity": "5",
     "wear_max": 0.64,
     "wear_min": 0.0
   },
   "504": {
     "name": "Kill Confirmed",
+    "name_zh": "枪响人亡",
     "rarity": "5",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "505": {
     "name": "Scumbria",
+    "name_zh": "斯康里娅",
     "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "506": {
     "name": "Point Disarray",
+    "name_zh": "混沌点阵",
     "rarity": "4",
     "wear_max": 0.67,
     "wear_min": 0.0
   },
   "507": {
     "name": "Ricochet",
+    "name_zh": "弹跳线条",
     "rarity": "3",
     "wear_max": 0.8,
     "wear_min": 0.0
   },
   "508": {
     "name": "Fuel Rod",
+    "name_zh": "核燃料棒",
     "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "509": {
     "name": "Corinthian",
+    "name_zh": "科林斯遗产",
     "rarity": "2",
     "wear_max": 0.44,
     "wear_min": 0.0
   },
   "51": {
     "name": "Lightning Strike",
+    "name_zh": "雷击",
     "rarity": "5",
     "wear_max": 0.08,
     "wear_min": 0.0
   },
   "510": {
     "name": "Retrobution",
+    "name_zh": "朝枪夕拾",
     "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "511": {
     "name": "The Executioner",
+    "name_zh": "行刑者",
     "rarity": "5",
     "wear_max": 0.85,
     "wear_min": 0.14
   },
   "512": {
     "name": "Royal Paladin",
+    "name_zh": "皇家圣骑士",
     "rarity": "5",
     "wear_max": 0.8,
     "wear_min": 0.0
   },
   "513": {
     "name": "Zeno",
+    "name_zh": "芝诺悖论",
     "rarity": "3",
     "wear_max": 0.7,
     "wear_min": 0.0
   },
   "514": {
     "name": "Power Loader",
+    "name_zh": "动力装载机",
     "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "515": {
     "name": "Imperial",
+    "name_zh": "至高帝皇",
     "rarity": "2",
     "wear_max": 0.2,
     "wear_min": 0.0
   },
   "516": {
     "name": "Shapewood",
+    "name_zh": "精雕木刻",
     "rarity": "5",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "517": {
     "name": "Yorick",
+    "name_zh": "弄臣之颅",
     "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "518": {
     "name": "Outbreak",
+    "name_zh": "丛林爆发",
     "rarity": "3",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "519": {
     "name": "Tiger Moth",
+    "name_zh": "豹灯蛾",
     "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "520": {
     "name": "Avalanche",
+    "name_zh": "坍雪寒裘",
     "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "521": {
     "name": "Teclu Burner",
+    "name_zh": "特克卢喷射者",
     "rarity": "4",
     "wear_max": 0.65,
     "wear_min": 0.0
   },
   "522": {
     "name": "Fade",
+    "name_zh": "渐变之色",
     "rarity": "6",
     "wear_max": 0.4,
     "wear_min": 0.0
   },
   "523": {
     "name": "Amber Fade",
+    "name_zh": "渐变琥珀",
     "rarity": "5",
     "wear_max": 0.4,
     "wear_min": 0.0
   },
   "524": {
     "name": "Fuel Injector",
+    "name_zh": "燃料喷射器",
     "rarity": "5",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "525": {
     "name": "Elite Build",
+    "name_zh": "精英之作",
     "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "526": {
     "name": "Photic Zone",
+    "name_zh": "透光区",
     "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "527": {
     "name": "Kumicho Dragon",
+    "name_zh": "大佬龙",
     "rarity": "4",
     "wear_max": 0.76,
     "wear_min": 0.0
   },
   "528": {
     "name": "Cartel",
+    "name_zh": "卡特尔",
     "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "529": {
     "name": "Valence",
+    "name_zh": "元素轮廓",
     "rarity": "4",
     "wear_max": 0.8,
     "wear_min": 0.0
   },
   "530": {
     "name": "Triumvirate",
+    "name_zh": "三位一体",
     "rarity": "4",
     "wear_max": 0.61,
     "wear_min": 0.0
   },
   "532": {
     "name": "Royal Legion",
+    "name_zh": "皇家军团",
     "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "533": {
     "name": "The Battlestar",
+    "name_zh": "战场之星",
     "rarity": "5",
     "wear_max": 0.64,
     "wear_min": 0.0
   },
   "534": {
     "name": "Lapis Gator",
+    "name_zh": "青金鳄皮",
     "rarity": "3",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "535": {
     "name": "Praetorian",
+    "name_zh": "禁卫军",
     "rarity": "4",
     "wear_max": 0.45,
     "wear_min": 0.0
   },
   "536": {
     "name": "Impire",
+    "name_zh": "帝国",
     "rarity": "4",
     "wear_max": 0.4,
     "wear_min": 0.0
   },
   "537": {
     "name": "Hyper Beast",
+    "name_zh": "暴怒野兽",
     "rarity": "5",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "538": {
     "name": "Necropos",
+    "name_zh": "通灵者",
     "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "539": {
     "name": "Jambiya",
+    "name_zh": "贾姆比亚",
     "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "540": {
     "name": "Lead Conduit",
+    "name_zh": "铅管",
     "rarity": "2",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "541": {
     "name": "Fleet Flock",
+    "name_zh": "燕群",
     "rarity": "5",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "542": {
     "name": "Judgement of Anubis",
+    "name_zh": "阿努比斯之审判",
     "rarity": "6",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "543": {
     "name": "Red Astor",
+    "name_zh": "红鹰",
     "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "544": {
     "name": "Ventilators",
+    "name_zh": "通风机",
     "rarity": "3",
     "wear_max": 0.45,
     "wear_min": 0.0
   },
   "545": {
     "name": "Orange Crash",
+    "name_zh": "橙光冲击",
     "rarity": "3",
     "wear_max": 0.52,
     "wear_min": 0.0
   },
   "546": {
     "name": "Firefight",
+    "name_zh": "火线冲锋",
     "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "547": {
     "name": "Spectre",
+    "name_zh": "鬼影",
     "rarity": "3",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "548": {
     "name": "Chantico's Fire",
+    "name_zh": "女火神之炽焰",
     "rarity": "5",
     "wear_max": 0.99,
     "wear_min": 0.0
   },
   "549": {
     "name": "Bioleak",
+    "name_zh": "生化泄漏",
     "rarity": "3",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "550": {
     "name": "Oceanic",
+    "name_zh": "海洋",
     "rarity": "2",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "551": {
     "name": "Asiimov",
+    "name_zh": "二西莫夫",
     "rarity": "5",
     "wear_max": 1.0,
     "wear_min": 0.1
   },
   "552": {
     "name": "Fubar",
+    "name_zh": "破铜烂铁",
     "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.4
   },
   "553": {
     "name": "Atlas",
+    "name_zh": "擎天神",
     "rarity": "3",
     "wear_max": 0.81,
     "wear_min": 0.0
   },
   "554": {
     "name": "Ghost Crusader",
+    "name_zh": "幽灵战士",
     "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "555": {
     "name": "Re-Entry",
+    "name_zh": "战火重燃",
     "rarity": "4",
     "wear_max": 0.43,
     "wear_min": 0.0
   },
   "556": {
     "name": "Primal Saber",
+    "name_zh": "野蛮剑齿虎",
     "rarity": "5",
     "wear_max": 0.77,
     "wear_min": 0.0
   },
   "557": {
     "name": "Black Tie",
+    "name_zh": "西装革履",
     "rarity": "4",
     "wear_max": 0.75,
     "wear_min": 0.0
   },
   "558": {
     "name": "Lore",
+    "name_zh": "传说",
     "rarity": "5",
     "wear_max": 0.65,
     "wear_min": 0.0
   },
   "559": {
     "name": "Lore",
+    "name_zh": "传说",
     "rarity": "5",
     "wear_max": 0.65,
     "wear_min": 0.0
   },
   "560": {
     "name": "Lore",
+    "name_zh": "传说",
     "rarity": "5",
     "wear_max": 0.65,
     "wear_min": 0.0
   },
   "561": {
     "name": "Lore",
+    "name_zh": "传说",
     "rarity": "5",
     "wear_max": 0.65,
     "wear_min": 0.0
   },
   "562": {
     "name": "Lore",
+    "name_zh": "传说",
     "rarity": "5",
     "wear_max": 0.65,
     "wear_min": 0.0
   },
   "563": {
     "name": "Black Laminate",
+    "name_zh": "黑色层压板",
     "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "564": {
     "name": "Black Laminate",
+    "name_zh": "黑色层压板",
     "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "565": {
     "name": "Black Laminate",
+    "name_zh": "黑色层压板",
     "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "566": {
     "name": "Black Laminate",
+    "name_zh": "黑色层压板",
     "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "567": {
     "name": "Black Laminate",
+    "name_zh": "黑色层压板",
     "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "568": {
     "name": "Gamma Doppler",
+    "name_zh": "伽玛多普勒",
     "phase": "8",
     "rarity": "5",
     "wear_max": 0.08,
@@ -5306,6 +6188,7 @@
   },
   "569": {
     "name": "Gamma Doppler",
+    "name_zh": "伽玛多普勒",
     "phase": "1",
     "rarity": "4",
     "wear_max": 0.08,
@@ -5313,6 +6196,7 @@
   },
   "570": {
     "name": "Gamma Doppler",
+    "name_zh": "伽玛多普勒",
     "phase": "2",
     "rarity": "4",
     "wear_max": 0.08,
@@ -5320,6 +6204,7 @@
   },
   "571": {
     "name": "Gamma Doppler",
+    "name_zh": "伽玛多普勒",
     "phase": "3",
     "rarity": "4",
     "wear_max": 0.08,
@@ -5327,6 +6212,7 @@
   },
   "572": {
     "name": "Gamma Doppler",
+    "name_zh": "伽玛多普勒",
     "phase": "4",
     "rarity": "4",
     "wear_max": 0.08,
@@ -5334,294 +6220,343 @@
   },
   "573": {
     "name": "Autotronic",
+    "name_zh": "自动化",
     "rarity": "4",
     "wear_max": 0.85,
     "wear_min": 0.0
   },
   "574": {
     "name": "Autotronic",
+    "name_zh": "自动化",
     "rarity": "4",
     "wear_max": 0.85,
     "wear_min": 0.0
   },
   "575": {
     "name": "Autotronic",
+    "name_zh": "自动化",
     "rarity": "4",
     "wear_max": 0.85,
     "wear_min": 0.0
   },
   "576": {
     "name": "Autotronic",
+    "name_zh": "自动化",
     "rarity": "4",
     "wear_max": 0.85,
     "wear_min": 0.0
   },
   "577": {
     "name": "Autotronic",
+    "name_zh": "自动化",
     "rarity": "4",
     "wear_max": 0.85,
     "wear_min": 0.0
   },
   "578": {
     "name": "Bright Water",
+    "name_zh": "澄澈之水",
     "rarity": "3",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "579": {
     "name": "Bright Water",
+    "name_zh": "澄澈之水",
     "rarity": "3",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "580": {
     "name": "Freehand",
+    "name_zh": "自由之手",
     "rarity": "3",
     "wear_max": 0.48,
     "wear_min": 0.0
   },
   "581": {
     "name": "Freehand",
+    "name_zh": "自由之手",
     "rarity": "3",
     "wear_max": 0.48,
     "wear_min": 0.0
   },
   "582": {
     "name": "Freehand",
+    "name_zh": "自由之手",
     "rarity": "3",
     "wear_max": 0.48,
     "wear_min": 0.0
   },
   "583": {
     "name": "Aristocrat",
+    "name_zh": "贵族",
     "rarity": "4",
     "wear_max": 0.66,
     "wear_min": 0.0
   },
   "584": {
     "name": "Phobos",
+    "name_zh": "火卫一",
     "rarity": "3",
     "wear_max": 0.4,
     "wear_min": 0.0
   },
   "585": {
     "name": "Violent Daimyo",
+    "name_zh": "霸意大名",
     "rarity": "3",
     "wear_max": 0.7,
     "wear_min": 0.0
   },
   "586": {
     "name": "Wasteland Rebel",
+    "name_zh": "荒野反叛",
     "rarity": "5",
     "wear_max": 0.54,
     "wear_min": 0.0
   },
   "587": {
     "name": "Mecha Industries",
+    "name_zh": "机械工业",
     "rarity": "5",
     "wear_max": 0.8,
     "wear_min": 0.0
   },
   "588": {
     "name": "Desolate Space",
+    "name_zh": "死寂空间",
     "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "589": {
     "name": "Carnivore",
+    "name_zh": "捕猎者",
     "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "59": {
     "name": "Slaughter",
+    "name_zh": "屠夫",
     "rarity": "3",
     "wear_max": 0.26,
     "wear_min": 0.01
   },
   "590": {
     "name": "Exo",
+    "name_zh": "Exo",
     "rarity": "3",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "591": {
     "name": "Imperial Dragon",
+    "name_zh": "至尊威龙",
     "rarity": "4",
     "wear_max": 0.63,
     "wear_min": 0.0
   },
   "592": {
     "name": "Iron Clad",
+    "name_zh": "铠甲",
     "rarity": "3",
     "wear_max": 0.8,
     "wear_min": 0.05
   },
   "593": {
     "name": "Chopper",
+    "name_zh": "夺命器",
     "rarity": "4",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "594": {
     "name": "Harvester",
+    "name_zh": "收割机",
     "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "595": {
     "name": "Reboot",
+    "name_zh": "重新启动",
     "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "596": {
     "name": "Limelight",
+    "name_zh": "聚光灯",
     "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "597": {
     "name": "Bloodsport",
+    "name_zh": "血腥运动",
     "rarity": "5",
     "wear_max": 0.45,
     "wear_min": 0.0
   },
   "598": {
     "name": "Aerial",
+    "name_zh": "轻空",
     "rarity": "3",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "599": {
     "name": "Ice Cap",
+    "name_zh": "冰冠",
     "rarity": "3",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "6": {
     "name": "Arctic Camo",
+    "name_zh": "极寒迷彩",
     "rarity": "2",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "60": {
     "name": "Dark Water",
+    "name_zh": "黑水",
     "rarity": "3",
     "wear_max": 0.26,
     "wear_min": 0.1
   },
   "600": {
     "name": "Neon Revolution",
+    "name_zh": "霓虹革命",
     "rarity": "5",
     "wear_max": 0.8,
     "wear_min": 0.0
   },
   "601": {
     "name": "Syd Mead",
+    "name_zh": "席德.米德",
     "rarity": "5",
     "wear_max": 0.8,
     "wear_min": 0.0
   },
   "602": {
     "name": "Imprint",
+    "name_zh": "印花板",
     "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "603": {
     "name": "Directive",
+    "name_zh": "指挥",
     "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.06
   },
   "604": {
     "name": "Roll Cage",
+    "name_zh": "防滚架",
     "rarity": "6",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "605": {
     "name": "Scumbria",
+    "name_zh": "斯康里娅",
     "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "606": {
     "name": "Ventilator",
+    "name_zh": "通风机",
     "rarity": "3",
     "wear_max": 0.45,
     "wear_min": 0.0
   },
   "607": {
     "name": "Weasel",
+    "name_zh": "鼬鼠",
     "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "608": {
     "name": "Petroglyph",
+    "name_zh": "石雕",
     "rarity": "4",
     "wear_max": 0.44,
     "wear_min": 0.0
   },
   "609": {
     "name": "Airlock",
+    "name_zh": "气密",
     "rarity": "5",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "61": {
     "name": "Hypnotic",
+    "name_zh": "蛊惑之色",
     "rarity": "4",
     "wear_max": 0.08,
     "wear_min": 0.0
   },
   "610": {
     "name": "Dazzle",
+    "name_zh": "眩目",
     "rarity": "3",
     "wear_max": 0.65,
     "wear_min": 0.1
   },
   "611": {
     "name": "Grim",
+    "name_zh": "冷血无情",
     "rarity": "3",
     "wear_max": 0.8,
     "wear_min": 0.0
   },
   "612": {
     "name": "Powercore",
+    "name_zh": "权力之心",
     "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "613": {
     "name": "Triarch",
+    "name_zh": "三巨头",
     "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "614": {
     "name": "Fuel Injector",
+    "name_zh": "燃料喷射器",
     "rarity": "5",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "615": {
     "name": "Briefing",
+    "name_zh": "简报",
     "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "616": {
     "name": "Slipstream",
+    "name_zh": "滑流",
     "rarity": "3",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "617": {
     "name": "Doppler",
+    "name_zh": "多普勒",
     "phase": "7",
     "rarity": "6",
     "wear_max": 0.08,
@@ -5629,6 +6564,7 @@
   },
   "618": {
     "name": "Doppler",
+    "name_zh": "多普勒",
     "phase": "2",
     "rarity": "4",
     "wear_max": 0.08,
@@ -5636,6 +6572,7 @@
   },
   "619": {
     "name": "Doppler",
+    "name_zh": "多普勒",
     "phase": "6",
     "rarity": "5",
     "wear_max": 0.08,
@@ -5643,1452 +6580,1694 @@
   },
   "62": {
     "name": "Bloomstick",
+    "name_zh": "樱花之绚烂",
     "rarity": "5",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "620": {
     "name": "Ultraviolet",
+    "name_zh": "致命紫罗兰",
     "rarity": "3",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "621": {
     "name": "Ultraviolet",
+    "name_zh": "致命紫罗兰",
     "rarity": "3",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "622": {
     "name": "Polymer",
+    "name_zh": "聚合物",
     "rarity": "3",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "623": {
     "name": "Ironwork",
+    "name_zh": "铁之作",
     "rarity": "2",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "624": {
     "name": "Dragonfire",
+    "name_zh": "炎龙之焰",
     "rarity": "6",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "625": {
     "name": "Royal Consorts",
+    "name_zh": "皇室伴侣",
     "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "626": {
     "name": "Mecha Industries",
+    "name_zh": "机械工业",
     "rarity": "5",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "627": {
     "name": "Cirrus",
+    "name_zh": "卷云",
     "rarity": "3",
     "wear_max": 0.75,
     "wear_min": 0.0
   },
   "628": {
     "name": "Stinger",
+    "name_zh": "毒刺",
     "rarity": "4",
     "wear_max": 0.7,
     "wear_min": 0.0
   },
   "629": {
     "name": "Black Sand",
+    "name_zh": "黑砂",
     "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "630": {
     "name": "Sand Scale",
+    "name_zh": "砂垢",
     "rarity": "3",
     "wear_max": 0.45,
     "wear_min": 0.0
   },
   "631": {
     "name": "Flashback",
+    "name_zh": "闪回",
     "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "632": {
     "name": "Buzz Kill",
+    "name_zh": "喧嚣杀戮",
     "rarity": "5",
     "wear_max": 0.7,
     "wear_min": 0.0
   },
   "633": {
     "name": "Sonar",
+    "name_zh": "声纳",
     "rarity": "3",
     "wear_max": 0.45,
     "wear_min": 0.0
   },
   "634": {
     "name": "Gila",
+    "name_zh": "毒蜥",
     "rarity": "4",
     "wear_max": 0.3,
     "wear_min": 0.0
   },
   "635": {
     "name": "Turf",
+    "name_zh": "草皮",
     "rarity": "2",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "636": {
     "name": "Shallow Grave",
+    "name_zh": "浅坟",
     "rarity": "5",
     "wear_max": 0.75,
     "wear_min": 0.0
   },
   "637": {
     "name": "Cyrex",
+    "name_zh": "次时代",
     "rarity": "3",
     "wear_max": 0.55,
     "wear_min": 0.0
   },
   "638": {
     "name": "Wasteland Princess",
+    "name_zh": "荒野公主",
     "rarity": "5",
     "wear_max": 0.7,
     "wear_min": 0.0
   },
   "639": {
     "name": "Bloodsport",
+    "name_zh": "血腥运动",
     "rarity": "5",
     "wear_max": 0.45,
     "wear_min": 0.0
   },
   "640": {
     "name": "Fever Dream",
+    "name_zh": "浮生如梦",
     "rarity": "4",
     "wear_max": 0.55,
     "wear_min": 0.0
   },
   "641": {
     "name": "Jungle Slipstream",
+    "name_zh": "丛林滑流",
     "rarity": "3",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "642": {
     "name": "Blueprint",
+    "name_zh": "蓝图",
     "rarity": "3",
     "wear_max": 0.75,
     "wear_min": 0.0
   },
   "643": {
     "name": "Xiangliu",
+    "name_zh": "相柳",
     "rarity": "5",
     "wear_max": 0.56,
     "wear_min": 0.0
   },
   "644": {
     "name": "Decimator",
+    "name_zh": "毁灭者 2000",
     "rarity": "4",
     "wear_max": 0.85,
     "wear_min": 0.0
   },
   "645": {
     "name": "Oxide Blaze",
+    "name_zh": "锈蚀烈焰",
     "rarity": "2",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "646": {
     "name": "Capillary",
+    "name_zh": "毛细血管",
     "rarity": "3",
     "wear_max": 0.7,
     "wear_min": 0.0
   },
   "647": {
     "name": "Crimson Tsunami",
+    "name_zh": "深红海啸",
     "rarity": "4",
     "wear_max": 0.55,
     "wear_min": 0.0
   },
   "648": {
     "name": "Emerald Poison Dart",
+    "name_zh": "翠绿箭毒蛙",
     "rarity": "4",
     "wear_max": 0.45,
     "wear_min": 0.0
   },
   "649": {
     "name": "Akoben",
+    "name_zh": "非洲部落",
     "rarity": "3",
     "wear_max": 0.7,
     "wear_min": 0.0
   },
   "650": {
     "name": "Ripple",
+    "name_zh": "涟漪",
     "rarity": "3",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "651": {
     "name": "Last Dive",
+    "name_zh": "绝界之行",
     "rarity": "4",
     "wear_max": 0.52,
     "wear_min": 0.0
   },
   "652": {
     "name": "Scaffold",
+    "name_zh": "支架",
     "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "653": {
     "name": "Neo-Noir",
+    "name_zh": "黑色魅影",
     "rarity": "5",
     "wear_max": 0.7,
     "wear_min": 0.0
   },
   "654": {
     "name": "Seasons",
+    "name_zh": "四季",
     "rarity": "4",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "655": {
     "name": "Zander",
+    "name_zh": "梭鲈",
     "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.05
   },
   "656": {
     "name": "Orbit Mk01",
+    "name_zh": "轨道 Mk01",
     "rarity": "3",
     "wear_max": 0.55,
     "wear_min": 0.0
   },
   "657": {
     "name": "Blueprint",
+    "name_zh": "蓝图",
     "rarity": "2",
     "wear_max": 0.86,
     "wear_min": 0.0
   },
   "658": {
     "name": "Cobra Strike",
+    "name_zh": "毒蛇袭击",
     "rarity": "5",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "659": {
     "name": "Macabre",
+    "name_zh": "死亡之舞",
     "rarity": "3",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "660": {
     "name": "Hyper Beast",
+    "name_zh": "暴怒野兽",
     "rarity": "6",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "661": {
     "name": "Sugar Rush",
+    "name_zh": "~甜甜的~",
     "rarity": "5",
     "wear_max": 0.55,
     "wear_min": 0.0
   },
   "662": {
     "name": "Oni Taiji",
+    "name_zh": "鬼退治",
     "rarity": "5",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "663": {
     "name": "Briefing",
+    "name_zh": "简报",
     "rarity": "2",
     "wear_max": 0.8,
     "wear_min": 0.0
   },
   "664": {
     "name": "Hellfire",
+    "name_zh": "地狱烈焰",
     "rarity": "4",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "665": {
     "name": "Aloha",
+    "name_zh": "阿罗哈",
     "rarity": "3",
     "wear_max": 0.65,
     "wear_min": 0.0
   },
   "666": {
     "name": "Hard Water",
+    "name_zh": "硬水",
     "rarity": "3",
     "wear_max": 0.45,
     "wear_min": 0.0
   },
   "667": {
     "name": "Woodsman",
+    "name_zh": "林间猎者",
     "rarity": "3",
     "wear_max": 0.8,
     "wear_min": 0.0
   },
   "668": {
     "name": "Red Rock",
+    "name_zh": "红岩",
     "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "669": {
     "name": "Death Grip",
+    "name_zh": "死亡之握",
     "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "67": {
     "name": "Cold Blooded",
+    "name_zh": "冷血杀手",
     "rarity": "5",
     "wear_max": 0.08,
     "wear_min": 0.0
   },
   "670": {
     "name": "Death's Head",
+    "name_zh": "鬼脸天蛾",
     "rarity": "4",
     "wear_max": 0.51,
     "wear_min": 0.0
   },
   "671": {
     "name": "Cut Out",
+    "name_zh": "剪纸",
     "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "672": {
     "name": "Metal Flowers",
+    "name_zh": "合金绽放",
     "rarity": "3",
     "wear_max": 0.7,
     "wear_min": 0.0
   },
   "673": {
     "name": "Morris",
+    "name_zh": "夜百合",
     "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "674": {
     "name": "Triqua",
+    "name_zh": "三角战术",
     "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "675": {
     "name": "The Empress",
+    "name_zh": "皇后",
     "rarity": "5",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "676": {
     "name": "High Roller",
+    "name_zh": "买定离手",
     "rarity": "5",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "677": {
     "name": "Hunter",
+    "name_zh": "猎人",
     "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "678": {
     "name": "See Ya Later",
+    "name_zh": "生化短吻鳄",
     "rarity": "6",
     "wear_max": 0.7,
     "wear_min": 0.0
   },
   "679": {
     "name": "Goo",
+    "name_zh": "焦油缠绕",
     "rarity": "4",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "680": {
     "name": "Off World",
+    "name_zh": "异星世界",
     "rarity": "2",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "681": {
     "name": "Leaded Glass",
+    "name_zh": "破碎铅秋",
     "rarity": "4",
     "wear_max": 0.7,
     "wear_min": 0.0
   },
   "682": {
     "name": "Oceanic",
+    "name_zh": "海洋",
     "rarity": "3",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "683": {
     "name": "Llama Cannon",
+    "name_zh": "美洲驼炮",
     "rarity": "5",
     "wear_max": 0.7,
     "wear_min": 0.03
   },
   "684": {
     "name": "Cracked Opal",
+    "name_zh": "碎蛋白石",
     "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "685": {
     "name": "Jungle Slipstream",
+    "name_zh": "丛林滑流",
     "rarity": "3",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "686": {
     "name": "Phantom",
+    "name_zh": "幻影",
     "rarity": "4",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "687": {
     "name": "Tacticat",
+    "name_zh": "战术高手",
     "rarity": "4",
     "wear_max": 0.7,
     "wear_min": 0.0
   },
   "688": {
     "name": "Exposure",
+    "name_zh": "曝光",
     "rarity": "4",
     "wear_max": 0.55,
     "wear_min": 0.0
   },
   "689": {
     "name": "Ziggy",
+    "name_zh": "五彩斑驳",
     "rarity": "4",
     "wear_max": 0.72,
     "wear_min": 0.0
   },
   "690": {
     "name": "Stymphalian",
+    "name_zh": "湖怪鸟",
     "rarity": "5",
     "wear_max": 0.63,
     "wear_min": 0.0
   },
   "691": {
     "name": "Mortis",
+    "name_zh": "死神",
     "rarity": "4",
     "wear_max": 0.64,
     "wear_min": 0.0
   },
   "692": {
     "name": "Night Riot",
+    "name_zh": "黑夜暴乱",
     "rarity": "3",
     "wear_max": 0.8,
     "wear_min": 0.0
   },
   "693": {
     "name": "Flame Test",
+    "name_zh": "焰色反应",
     "rarity": "3",
     "wear_max": 0.65,
     "wear_min": 0.0
   },
   "694": {
     "name": "Moonrise",
+    "name_zh": "城里的月光",
     "rarity": "3",
     "wear_max": 0.65,
     "wear_min": 0.0
   },
   "695": {
     "name": "Neo-Noir",
+    "name_zh": "黑色魅影",
     "rarity": "5",
     "wear_max": 0.9,
     "wear_min": 0.0
   },
   "696": {
     "name": "Bloodsport",
+    "name_zh": "血腥运动",
     "rarity": "6",
     "wear_max": 0.65,
     "wear_min": 0.0
   },
   "697": {
     "name": "Black Sand",
+    "name_zh": "黑砂",
     "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "698": {
     "name": "Lionfish",
+    "name_zh": "狮子鱼",
     "rarity": "4",
     "wear_max": 0.55,
     "wear_min": 0.0
   },
   "699": {
     "name": "Wild Six",
+    "name_zh": "狂野六号",
     "rarity": "4",
     "wear_max": 0.8,
     "wear_min": 0.0
   },
   "70": {
     "name": "Carbon Fiber",
+    "name_zh": "碳素纤维",
     "rarity": "2",
     "wear_max": 0.12,
     "wear_min": 0.0
   },
   "700": {
     "name": "Urban Hazard",
+    "name_zh": "都市危机",
     "rarity": "2",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "701": {
     "name": "Grip",
+    "name_zh": "稳",
     "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "702": {
     "name": "Aloha",
+    "name_zh": "阿罗哈",
     "rarity": "3",
     "wear_max": 0.55,
     "wear_min": 0.0
   },
   "703": {
     "name": "SWAG-7",
+    "name_zh": "SWAG-7",
     "rarity": "4",
     "wear_max": 0.92,
     "wear_min": 0.0
   },
   "704": {
     "name": "Arctic Wolf",
+    "name_zh": "白狼",
     "rarity": "4",
     "wear_max": 0.8,
     "wear_min": 0.0
   },
   "705": {
     "name": "Cortex",
+    "name_zh": "脑洞大开",
     "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "706": {
     "name": "Oxide Blaze",
+    "name_zh": "锈蚀烈焰",
     "rarity": "3",
     "wear_max": 0.7,
     "wear_min": 0.0
   },
   "707": {
     "name": "Neon Rider",
+    "name_zh": "霓虹骑士",
     "rarity": "5",
     "wear_max": 0.8,
     "wear_min": 0.0
   },
   "708": {
     "name": "Amber Slipstream",
+    "name_zh": "琥珀冲流",
     "rarity": "3",
     "wear_max": 0.55,
     "wear_min": 0.0
   },
   "709": {
     "name": "Eco",
+    "name_zh": "经济",
     "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "71": {
     "name": "Scorpion",
+    "name_zh": "致命红蝎",
     "rarity": "3",
     "wear_max": 0.08,
     "wear_min": 0.0
   },
   "710": {
     "name": "Shred",
+    "name_zh": "碎片",
     "rarity": "3",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "711": {
     "name": "Code Red",
+    "name_zh": "红色代号",
     "rarity": "5",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "712": {
     "name": "High Seas",
+    "name_zh": "公海",
     "rarity": "4",
     "wear_max": 0.7,
     "wear_min": 0.0
   },
   "713": {
     "name": "Warhawk",
+    "name_zh": "战鹰",
     "rarity": "2",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "714": {
     "name": "Nightmare",
+    "name_zh": "梦魇",
     "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "715": {
     "name": "Capillary",
+    "name_zh": "毛细血管",
     "rarity": "3",
     "wear_max": 0.7,
     "wear_min": 0.0
   },
   "716": {
     "name": "Toy Soldier",
+    "name_zh": "玩具士兵",
     "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "717": {
     "name": "Traction",
+    "name_zh": "牵引力",
     "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "718": {
     "name": "PAW",
+    "name_zh": "猫猫狗狗",
     "rarity": "3",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "719": {
     "name": "Powercore",
+    "name_zh": "权力之心",
     "rarity": "4",
     "wear_max": 0.8,
     "wear_min": 0.0
   },
   "72": {
     "name": "Safari Mesh",
+    "name_zh": "狩猎网格",
     "rarity": "1",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "720": {
     "name": "Devourer",
+    "name_zh": "吞噬",
     "rarity": "5",
     "wear_max": 0.8,
     "wear_min": 0.0
   },
   "721": {
     "name": "Survivalist",
+    "name_zh": "生存主义者",
     "rarity": "3",
     "wear_max": 0.7,
     "wear_min": 0.0
   },
   "722": {
     "name": "Snek-9",
+    "name_zh": "蛇-9",
     "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "723": {
     "name": "Eye of Athena",
+    "name_zh": "雅典娜之眼",
     "rarity": "5",
     "wear_max": 0.7,
     "wear_min": 0.0
   },
   "724": {
     "name": "Wild Lotus",
+    "name_zh": "野荷",
     "rarity": "5",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "725": {
     "name": "Day Lily",
+    "name_zh": "忘忧草",
     "rarity": "3",
     "wear_max": 0.55,
     "wear_min": 0.0
   },
   "726": {
     "name": "Sunset Lily",
+    "name_zh": "日落百合",
     "rarity": "2",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "727": {
     "name": "Midnight Lily",
+    "name_zh": "午夜百合",
     "rarity": "4",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "728": {
     "name": "Teal Blossom",
+    "name_zh": "青之绽放",
     "rarity": "3",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "729": {
     "name": "Crimson Blossom",
+    "name_zh": "绛之绽放",
     "rarity": "3",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "73": {
     "name": "Wings",
+    "name_zh": "鹰翼",
     "rarity": "3",
     "wear_max": 0.14,
     "wear_min": 0.0
   },
   "730": {
     "name": "Dark Blossom",
+    "name_zh": "暗之绽放",
     "rarity": "1",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "731": {
     "name": "Banana Leaf",
+    "name_zh": "芭蕉叶",
     "rarity": "2",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "732": {
     "name": "Synth Leaf",
+    "name_zh": "合成叶",
     "rarity": "3",
     "wear_max": 0.7,
     "wear_min": 0.0
   },
   "733": {
     "name": "Rust Leaf",
+    "name_zh": "锈叶",
     "rarity": "2",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "734": {
     "name": "Wild Lily",
+    "name_zh": "野百合",
     "rarity": "5",
     "wear_max": 0.7,
     "wear_min": 0.0
   },
   "735": {
     "name": "Night Stripe",
+    "name_zh": "夜色",
     "rarity": "1",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "736": {
     "name": "The Prince",
+    "name_zh": "王子",
     "rarity": "5",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "737": {
     "name": "Cinquedea",
+    "name_zh": "五指短剑",
     "rarity": "5",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "738": {
     "name": "Orange Murano",
+    "name_zh": "穆拉诺之橙",
     "rarity": "2",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "739": {
     "name": "Violet Murano",
+    "name_zh": "穆拉诺之紫",
     "rarity": "3",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "74": {
     "name": "Polar Camo",
+    "name_zh": "极地迷彩",
     "rarity": "1",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "740": {
     "name": "Navy Murano",
+    "name_zh": "穆拉诺之蓝",
     "rarity": "1",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "741": {
     "name": "Dark Filigree",
+    "name_zh": "暗之镂刻",
     "rarity": "2",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "742": {
     "name": "Red Filigree",
+    "name_zh": "绯红镂刻",
     "rarity": "4",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "743": {
     "name": "Orange Filigree",
+    "name_zh": "橙黄镂刻",
     "rarity": "3",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "744": {
     "name": "Baroque Red",
+    "name_zh": "巴洛克之红",
     "rarity": "3",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "745": {
     "name": "Baroque Purple",
+    "name_zh": "巴洛克之紫",
     "rarity": "1",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "746": {
     "name": "Baroque Orange",
+    "name_zh": "巴洛克之橙",
     "rarity": "4",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "747": {
     "name": "Twin Turbo",
+    "name_zh": "双涡轮",
     "rarity": "5",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "748": {
     "name": "Calf Skin",
+    "name_zh": "小牛皮",
     "rarity": "2",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "749": {
     "name": "Vino Primo",
+    "name_zh": "葡萄酒",
     "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "75": {
     "name": "Blizzard Marbleized",
+    "name_zh": "暴雪大理石纹",
     "rarity": "2",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "750": {
     "name": "Integrale",
+    "name_zh": "意式拉力",
     "rarity": "5",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "751": {
     "name": "Hand Brake",
+    "name_zh": "手刹",
     "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "752": {
     "name": "Fade",
+    "name_zh": "渐变之色",
     "rarity": "4",
     "wear_max": 0.25,
     "wear_min": 0.0
   },
   "753": {
     "name": "Dirt Drop",
+    "name_zh": "越野",
     "rarity": "1",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "754": {
     "name": "Rust Coat",
+    "name_zh": "外表生锈",
     "rarity": "1",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "755": {
     "name": "Slide",
+    "name_zh": "滑移",
     "rarity": "1",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "756": {
     "name": "Gungnir",
+    "name_zh": "永恒之枪",
     "rarity": "5",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "757": {
-    "name": "Emerald J\u00f6rmungandr",
+    "name": "Emerald Jörmungandr",
+    "name_zh": "翡翠巨蟒",
     "rarity": "3",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "758": {
-    "name": "Flame J\u00f6rmungandr",
+    "name": "Flame Jörmungandr",
+    "name_zh": "烈焰巨蟒",
     "rarity": "4",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "759": {
-    "name": "Astral J\u00f6rmungandr",
+    "name": "Astral Jörmungandr",
+    "name_zh": "星辰巨蟒",
     "rarity": "4",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "76": {
     "name": "Winter Forest",
+    "name_zh": "冬之森林",
     "rarity": "2",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "760": {
     "name": "Frost Borre",
+    "name_zh": "寒霜锁链",
     "rarity": "3",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "761": {
     "name": "Copper Borre",
+    "name_zh": "赤金锁链",
     "rarity": "3",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "762": {
     "name": "Red Stone",
+    "name_zh": "血染风采",
     "rarity": "1",
     "wear_max": 0.5,
     "wear_min": 0.06
   },
   "763": {
-    "name": "Mj\u00f6lnir",
+    "name": "Mjölnir",
+    "name_zh": "雷神之锤",
     "rarity": "5",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "764": {
     "name": "Fennec Fox",
+    "name_zh": "沙漠之狐",
     "rarity": "4",
     "wear_max": 0.8,
     "wear_min": 0.0
   },
   "765": {
     "name": "Desert Blossom",
+    "name_zh": "沙漠之花",
     "rarity": "3",
     "wear_max": 0.49,
     "wear_min": 0.0
   },
   "766": {
     "name": "Tiger Stencil",
+    "name_zh": "虎纹模板",
     "rarity": "2",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "768": {
     "name": "Savannah Halftone",
+    "name_zh": "萨凡纳半调",
     "rarity": "2",
     "wear_max": 0.75,
     "wear_min": 0.25
   },
   "77": {
     "name": "Boreal Forest",
+    "name_zh": "北方森林",
     "rarity": "1",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "770": {
     "name": "Cold Cell",
+    "name_zh": "冷室",
     "rarity": "2",
     "wear_max": 0.4,
     "wear_min": 0.0
   },
   "773": {
     "name": "Wildwood",
+    "name_zh": "野树林",
     "rarity": "2",
     "wear_max": 0.7,
     "wear_min": 0.0
   },
   "774": {
     "name": "Small Game",
+    "name_zh": "随便玩玩",
     "rarity": "3",
     "wear_max": 0.7,
     "wear_min": 0.0
   },
   "775": {
     "name": "Facility Sketch",
+    "name_zh": "设施系列·速写图",
     "rarity": "1",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "776": {
     "name": "Facility Negative",
+    "name_zh": "设施系列·底片图",
     "rarity": "3",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "777": {
     "name": "Facility Draft",
+    "name_zh": "设施系列·草图",
     "rarity": "1",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "778": {
     "name": "Facility Dark",
+    "name_zh": "设施系列·深色图",
     "rarity": "1",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "779": {
     "name": "Random Access",
+    "name_zh": "随机存取",
     "rarity": "4",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "78": {
     "name": "Forest Night",
+    "name_zh": "暮色森林",
     "rarity": "1",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "780": {
     "name": "Mainframe",
+    "name_zh": "主机",
     "rarity": "1",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "781": {
     "name": "Co-Processor",
+    "name_zh": "协处理器",
     "rarity": "3",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "782": {
     "name": "Motherboard",
+    "name_zh": "主板",
     "rarity": "2",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "783": {
     "name": "Bulkhead",
+    "name_zh": "舱壁",
     "rarity": "2",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "784": {
     "name": "Coolant",
+    "name_zh": "冷却剂",
     "rarity": "1",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "785": {
     "name": "Mandrel",
+    "name_zh": "芯轴",
     "rarity": "1",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "786": {
     "name": "Exchanger",
+    "name_zh": "交换机",
     "rarity": "3",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "787": {
     "name": "Core Breach",
+    "name_zh": "核芯破裂",
     "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "788": {
     "name": "Acheron",
+    "name_zh": "冥界之河",
     "rarity": "2",
     "wear_max": 0.83,
     "wear_min": 0.0
   },
   "789": {
     "name": "Nuclear Garden",
+    "name_zh": "核子花园",
     "rarity": "3",
     "wear_max": 0.7,
     "wear_min": 0.0
   },
   "790": {
     "name": "Cold Fusion",
+    "name_zh": "冰核聚变",
     "rarity": "2",
     "wear_max": 0.83,
     "wear_min": 0.0
   },
   "791": {
     "name": "Remote Control",
+    "name_zh": "遥控",
     "rarity": "5",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "792": {
     "name": "Control Panel",
+    "name_zh": "控制台",
     "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "793": {
     "name": "Converter",
+    "name_zh": "变频器",
     "rarity": "2",
     "wear_max": 0.4,
     "wear_min": 0.0
   },
   "794": {
     "name": "Sweeper",
+    "name_zh": "扫频仪",
     "rarity": "1",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "795": {
     "name": "Safety Net",
+    "name_zh": "安全网",
     "rarity": "3",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "796": {
     "name": "Check Engine",
+    "name_zh": "引擎故障灯",
     "rarity": "2",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "797": {
     "name": "Brake Light",
+    "name_zh": "刹车灯",
     "rarity": "3",
     "wear_max": 0.08,
     "wear_min": 0.0
   },
   "798": {
     "name": "Nitro",
+    "name_zh": "氮化处理",
     "rarity": "2",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "799": {
     "name": "High Beam",
+    "name_zh": "远光灯",
     "rarity": "1",
     "wear_max": 0.08,
     "wear_min": 0.0
   },
   "8": {
     "name": "Desert Storm",
+    "name_zh": "沙漠风暴",
     "rarity": "1",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "800": {
     "name": "Lab Rats",
+    "name_zh": "小白鼠",
     "rarity": "4",
     "wear_max": 0.35,
     "wear_min": 0.0
   },
   "801": {
     "name": "Asiimov",
+    "name_zh": "二西莫夫",
     "rarity": "5",
     "wear_max": 0.7,
     "wear_min": 0.05
   },
   "802": {
     "name": "Momentum",
+    "name_zh": "动量",
     "rarity": "5",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "803": {
     "name": "Neo-Noir",
+    "name_zh": "黑色魅影",
     "rarity": "5",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "804": {
     "name": "Modest Threat",
+    "name_zh": "中度威胁",
     "rarity": "3",
     "wear_max": 0.75,
     "wear_min": 0.0
   },
   "805": {
     "name": "Mecha Industries",
+    "name_zh": "机械工业",
     "rarity": "4",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "806": {
     "name": "Scavenger",
+    "name_zh": "净化者",
     "rarity": "4",
     "wear_max": 0.65,
     "wear_min": 0.0
   },
   "807": {
     "name": "Signal",
+    "name_zh": "信号灯",
     "rarity": "4",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "808": {
     "name": "Oxide Blaze",
+    "name_zh": "锈蚀烈焰",
     "rarity": "2",
     "wear_max": 0.85,
     "wear_min": 0.0
   },
   "809": {
     "name": "Wood Fired",
+    "name_zh": "灼木",
     "rarity": "3",
     "wear_max": 0.75,
     "wear_min": 0.0
   },
   "810": {
     "name": "Phosphor",
+    "name_zh": "磷光体",
     "rarity": "5",
     "wear_max": 0.8,
     "wear_min": 0.0
   },
   "811": {
     "name": "Magnesium",
+    "name_zh": "镁元素",
     "rarity": "2",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "812": {
     "name": "Pipe Down",
+    "name_zh": "销声",
     "rarity": "4",
     "wear_max": 0.9,
     "wear_min": 0.0
   },
   "813": {
     "name": "Nevermore",
+    "name_zh": "影魔",
     "rarity": "4",
     "wear_max": 0.4,
     "wear_min": 0.0
   },
   "814": {
     "name": "Black Sand",
+    "name_zh": "黑砂",
     "rarity": "3",
     "wear_max": 0.9,
     "wear_min": 0.0
   },
   "815": {
     "name": "Danger Close",
+    "name_zh": "危险距离",
     "rarity": "3",
     "wear_max": 0.8,
     "wear_min": 0.02
   },
   "816": {
     "name": "Fubar",
+    "name_zh": "破铜烂铁",
     "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.14
   },
   "817": {
     "name": "Flashback",
+    "name_zh": "闪回",
     "rarity": "3",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "818": {
     "name": "Purple DDPAT",
+    "name_zh": "紫色 DDPAT",
     "rarity": "2",
     "wear_max": 0.55,
     "wear_min": 0.0
   },
   "819": {
     "name": "Desert Hydra",
+    "name_zh": "九头金蛇",
     "rarity": "5",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "820": {
     "name": "Music Box",
+    "name_zh": "八音盒",
     "rarity": "3",
     "wear_max": 0.55,
     "wear_min": 0.0
   },
   "821": {
     "name": "Elegant Vines",
+    "name_zh": "雅藤如嫣",
     "rarity": "4",
     "wear_max": 0.37,
     "wear_min": 0.0
   },
   "822": {
     "name": "Navy Sheen",
+    "name_zh": "海军之辉",
     "rarity": "1",
     "wear_max": 0.55,
     "wear_min": 0.0
   },
   "823": {
     "name": "Sand Storm",
+    "name_zh": "夜空沙暴",
     "rarity": "4",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "824": {
     "name": "Drift Wood",
+    "name_zh": "浮木",
     "rarity": "2",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "825": {
     "name": "Drought",
+    "name_zh": "天旱",
     "rarity": "1",
     "wear_max": 0.44,
     "wear_min": 0.0
   },
   "826": {
     "name": "Sienna Damask",
+    "name_zh": "赭色大马士革",
     "rarity": "1",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "827": {
     "name": "Humidor",
+    "name_zh": "雪茄盒",
     "rarity": "3",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "828": {
     "name": "Verdant Growth",
+    "name_zh": "碧绿升藤",
     "rarity": "2",
     "wear_max": 0.47,
     "wear_min": 0.0
   },
   "829": {
     "name": "Anolis",
+    "name_zh": "安乐蜥",
     "rarity": "1",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "83": {
     "name": "Orange DDPAT",
+    "name_zh": "橙黄 DDPAT",
     "rarity": "4",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "830": {
     "name": "Alpine Camo",
+    "name_zh": "阿尔卑斯迷彩",
     "rarity": "2",
     "wear_max": 0.68,
     "wear_min": 0.0
   },
   "831": {
     "name": "Heat Treated",
+    "name_zh": "热处理",
     "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "832": {
     "name": "AXIA",
+    "name_zh": "AXIA",
     "rarity": "4",
     "wear_max": 0.7,
     "wear_min": 0.0
   },
   "834": {
     "name": "Halftone Shift",
+    "name_zh": "半调转换",
     "rarity": "3",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "835": {
     "name": "Crypsis",
+    "name_zh": "保护色",
     "rarity": "3",
     "wear_max": 0.55,
     "wear_min": 0.0
   },
   "836": {
     "name": "Uncharted",
+    "name_zh": "迷踪秘境",
     "rarity": "2",
     "wear_max": 0.75,
     "wear_min": 0.0
   },
   "837": {
     "name": "Angry Mob",
+    "name_zh": "怒氓",
     "rarity": "6",
     "wear_max": 0.7,
     "wear_min": 0.0
   },
   "838": {
     "name": "Atheris",
+    "name_zh": "树蝰",
     "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "839": {
     "name": "Bamboozle",
+    "name_zh": "青竹伪装",
     "rarity": "4",
     "wear_max": 0.8,
     "wear_min": 0.0
   },
   "84": {
     "name": "Pink DDPAT",
+    "name_zh": "粉红 DDPAT",
     "rarity": "3",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "840": {
     "name": "Whitefish",
+    "name_zh": "白鲑鱼",
     "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "841": {
     "name": "Light Rail",
+    "name_zh": "轻轨",
     "rarity": "3",
     "wear_max": 0.9,
     "wear_min": 0.0
   },
   "842": {
     "name": "Akoben",
+    "name_zh": "战吼斑纹",
     "rarity": "3",
     "wear_max": 0.75,
     "wear_min": 0.0
   },
   "843": {
     "name": "Skull Crusher",
+    "name_zh": "头骨粉碎者",
     "rarity": "5",
     "wear_max": 0.8,
     "wear_min": 0.25
   },
   "844": {
     "name": "The Emperor",
+    "name_zh": "皇帝",
     "rarity": "5",
     "wear_max": 0.8,
     "wear_min": 0.0
   },
   "845": {
     "name": "Momentum",
+    "name_zh": "动量",
     "rarity": "5",
     "wear_max": 1.0,
     "wear_min": 0.05
   },
   "846": {
     "name": "Gauss",
+    "name_zh": "高斯",
     "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "847": {
     "name": "Mischief",
+    "name_zh": "恶作剧",
     "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.1
   },
   "848": {
     "name": "Verdigris",
+    "name_zh": "铜绿",
     "rarity": "3",
     "wear_max": 0.7,
     "wear_min": 0.0
   },
   "849": {
     "name": "Off World",
+    "name_zh": "异星世界",
     "rarity": "3",
     "wear_max": 0.75,
     "wear_min": 0.0
   },
   "850": {
     "name": "Incinegator",
+    "name_zh": "焚烬之鳄",
     "rarity": "5",
     "wear_max": 0.65,
     "wear_min": 0.14
   },
   "851": {
     "name": "Moonrise",
+    "name_zh": "城里的月光",
     "rarity": "4",
     "wear_max": 0.4,
     "wear_min": 0.0
   },
   "852": {
     "name": "Doppler",
+    "name_zh": "多普勒",
     "phase": "1",
     "rarity": "4",
     "wear_max": 0.08,
@@ -7096,6 +8275,7 @@
   },
   "853": {
     "name": "Doppler",
+    "name_zh": "多普勒",
     "phase": "2",
     "rarity": "4",
     "wear_max": 0.08,
@@ -7103,6 +8283,7 @@
   },
   "854": {
     "name": "Doppler",
+    "name_zh": "多普勒",
     "phase": "3",
     "rarity": "4",
     "wear_max": 0.08,
@@ -7110,6 +8291,7 @@
   },
   "855": {
     "name": "Doppler",
+    "name_zh": "多普勒",
     "phase": "4",
     "rarity": "4",
     "wear_max": 0.08,
@@ -7117,900 +8299,1050 @@
   },
   "856": {
     "name": "Marble Fade",
+    "name_zh": "渐变大理石",
     "rarity": "5",
     "wear_max": 0.08,
     "wear_min": 0.0
   },
   "857": {
     "name": "Damascus Steel",
+    "name_zh": "大马士革钢",
     "rarity": "4",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "858": {
     "name": "Damascus Steel",
+    "name_zh": "大马士革钢",
     "rarity": "4",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "859": {
     "name": "Emerald Quartz",
+    "name_zh": "翡翠石英",
     "rarity": "3",
     "wear_max": 0.7,
     "wear_min": 0.0
   },
   "860": {
     "name": "Pyre",
+    "name_zh": "熊熊烈焰",
     "rarity": "2",
     "wear_max": 0.55,
     "wear_min": 0.06
   },
   "861": {
     "name": "Barricade",
+    "name_zh": "路障",
     "rarity": "1",
     "wear_max": 0.65,
     "wear_min": 0.0
   },
   "862": {
     "name": "Moss Quartz",
+    "name_zh": "苔藓石英",
     "rarity": "1",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "863": {
     "name": "Night Borre",
+    "name_zh": "暗夜锁链",
     "rarity": "1",
     "wear_max": 0.55,
     "wear_min": 0.0
   },
   "864": {
     "name": "Candy Apple",
+    "name_zh": "红苹果",
     "rarity": "2",
     "wear_max": 0.7,
     "wear_min": 0.0
   },
   "865": {
     "name": "Stone Mosaico",
+    "name_zh": "石砌",
     "rarity": "1",
     "wear_max": 0.5,
     "wear_min": 0.06
   },
   "866": {
     "name": "Canal Spray",
+    "name_zh": "水都泛波",
     "rarity": "1",
     "wear_max": 0.6,
     "wear_min": 0.06
   },
   "867": {
     "name": "Stained Glass",
+    "name_zh": "彩绘玻璃",
     "rarity": "4",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "868": {
     "name": "Sea Calico",
+    "name_zh": "海滨印花",
     "rarity": "4",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "869": {
     "name": "Sundown",
+    "name_zh": "日暮",
     "rarity": "3",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "870": {
     "name": "Jungle Thicket",
+    "name_zh": "灌木丛",
     "rarity": "1",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "871": {
     "name": "Surfwood",
+    "name_zh": "冲浪木",
     "rarity": "1",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "872": {
     "name": "Bamboo Garden",
+    "name_zh": "茂竹之园",
     "rarity": "1",
     "wear_max": 0.55,
     "wear_min": 0.0
   },
   "873": {
     "name": "Seabird",
+    "name_zh": "海鸟",
     "rarity": "1",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "874": {
     "name": "Polysoup",
+    "name_zh": "多边形编辑",
     "rarity": "3",
     "wear_max": 0.64,
     "wear_min": 0.0
   },
   "875": {
     "name": "Spectrogram",
+    "name_zh": "时频谱",
     "rarity": "2",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "877": {
     "name": "Halftone Whorl",
+    "name_zh": "半调轮纹",
     "rarity": "2",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "878": {
     "name": "Coral Halftone",
+    "name_zh": "珊瑚半调",
     "rarity": "1",
     "wear_max": 0.52,
     "wear_min": 0.0
   },
   "879": {
     "name": "Fade",
+    "name_zh": "渐变之色",
     "rarity": "5",
     "wear_max": 0.08,
     "wear_min": 0.0
   },
   "880": {
     "name": "Parched",
+    "name_zh": "旱地之花",
     "rarity": "1",
     "wear_max": 0.49,
     "wear_min": 0.0
   },
   "882": {
     "name": "Halftone Wash",
+    "name_zh": "半调水洗",
     "rarity": "2",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "883": {
     "name": "Wild Berry",
+    "name_zh": "野莓",
     "rarity": "3",
     "wear_max": 0.65,
     "wear_min": 0.0
   },
   "884": {
     "name": "Embargo",
+    "name_zh": "路霸",
     "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "885": {
     "name": "Rat Rod",
+    "name_zh": "复古浪潮",
     "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "886": {
     "name": "Arctic Wolf",
+    "name_zh": "极地孤狼",
     "rarity": "4",
     "wear_max": 0.7,
     "wear_min": 0.0
   },
   "887": {
     "name": "Containment Breach",
+    "name_zh": "冲出重围",
     "rarity": "5",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "888": {
     "name": "Acid Wash",
+    "name_zh": "鼻青脸肿",
     "rarity": "3",
     "wear_max": 0.68,
     "wear_min": 0.0
   },
   "889": {
     "name": "Decimator",
+    "name_zh": "屠杀者",
     "rarity": "5",
     "wear_max": 0.75,
     "wear_min": 0.0
   },
   "890": {
     "name": "Plume",
+    "name_zh": "风卷残云",
     "rarity": "3",
     "wear_max": 0.8,
     "wear_min": 0.0
   },
   "891": {
     "name": "Black Sand",
+    "name_zh": "黑砂",
     "rarity": "3",
     "wear_max": 0.8,
     "wear_min": 0.0
   },
   "892": {
     "name": "Memento",
+    "name_zh": "记忆碎片",
     "rarity": "3",
     "wear_max": 0.8,
     "wear_min": 0.0
   },
   "893": {
     "name": "Neon Ply",
+    "name_zh": "七彩斑斓",
     "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "894": {
     "name": "Obsidian",
+    "name_zh": "黑曜石",
     "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "895": {
     "name": "Balance",
+    "name_zh": "左右开花",
     "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "896": {
     "name": "Torn",
+    "name_zh": "撕起来",
     "rarity": "3",
     "wear_max": 0.45,
     "wear_min": 0.0
   },
   "897": {
     "name": "Colony IV",
+    "name_zh": "四号栖息地",
     "rarity": "5",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "898": {
     "name": "Stalker",
+    "name_zh": "潜行者",
     "rarity": "6",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "899": {
     "name": "Bloodshot",
+    "name_zh": "喋血战士",
     "rarity": "5",
     "wear_max": 0.6,
     "wear_min": 0.14
   },
   "9": {
     "name": "Bengal Tiger",
+    "name_zh": "孟加拉猛虎",
     "rarity": "5",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "90": {
     "name": "Mudder",
+    "name_zh": "泥地杀手",
     "rarity": "1",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "900": {
     "name": "Warbird",
+    "name_zh": "战隼",
     "rarity": "3",
     "wear_max": 0.65,
     "wear_min": 0.05
   },
   "901": {
     "name": "Berry Gel Coat",
+    "name_zh": "浆果胶衣",
     "rarity": "3",
     "wear_max": 0.8,
     "wear_min": 0.0
   },
   "902": {
     "name": "Aztec",
+    "name_zh": "阿兹特克",
     "rarity": "4",
     "wear_max": 0.75,
     "wear_min": 0.0
   },
   "903": {
     "name": "Elite 1.6",
+    "name_zh": "1.6精英",
     "rarity": "3",
     "wear_max": 0.7,
     "wear_min": 0.0
   },
   "904": {
     "name": "Decommissioned",
+    "name_zh": "退役",
     "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "905": {
     "name": "Flash Out",
+    "name_zh": "闪光舞步",
     "rarity": "3",
     "wear_max": 0.7,
     "wear_min": 0.0
   },
   "906": {
     "name": "Buddy",
+    "name_zh": "好兄弟",
     "rarity": "4",
     "wear_max": 0.55,
     "wear_min": 0.0
   },
   "907": {
     "name": "Inferno",
+    "name_zh": "炼狱小镇",
     "rarity": "4",
     "wear_max": 0.68,
     "wear_min": 0.0
   },
   "908": {
     "name": "Classic Crate",
+    "name_zh": "板条箱",
     "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "909": {
     "name": "Popdog",
+    "name_zh": "碰碰狗",
     "rarity": "3",
     "wear_max": 0.8,
     "wear_min": 0.0
   },
   "910": {
     "name": "Hydra",
+    "name_zh": "九头蛇",
     "rarity": "5",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "911": {
     "name": "Nostalgia",
+    "name_zh": "往日行动",
     "rarity": "5",
     "wear_max": 0.57,
     "wear_min": 0.0
   },
   "912": {
     "name": "Crossfade",
+    "name_zh": "交叉渐变",
     "rarity": "2",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "913": {
     "name": "Death by Puppy",
+    "name_zh": "汪之萌杀",
     "rarity": "5",
     "wear_max": 0.4,
     "wear_min": 0.0
   },
   "914": {
     "name": "Assault",
+    "name_zh": "仓库突击",
     "rarity": "3",
     "wear_max": 0.62,
     "wear_min": 0.0
   },
   "915": {
     "name": "Agent",
+    "name_zh": "探员",
     "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "916": {
     "name": "Plastique",
+    "name_zh": "塑胶炸弹",
     "rarity": "4",
     "wear_max": 0.8,
     "wear_min": 0.0
   },
   "917": {
     "name": "Wildfire",
+    "name_zh": "野火",
     "rarity": "5",
     "wear_max": 0.7,
     "wear_min": 0.01
   },
   "918": {
     "name": "Sacrifice",
+    "name_zh": "烈焰天使",
     "rarity": "2",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "919": {
     "name": "Commemoration",
+    "name_zh": "纪念碑",
     "rarity": "6",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "92": {
     "name": "Cyanospatter",
+    "name_zh": "湖蓝涂装",
     "rarity": "2",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "920": {
     "name": "Boroque Sand",
+    "name_zh": "巴洛克之沙",
     "rarity": "1",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "921": {
     "name": "Gold Arabesque",
+    "name_zh": "黄金藤蔓",
     "rarity": "5",
     "wear_max": 0.7,
     "wear_min": 0.0
   },
   "922": {
     "name": "Orange Anolis",
+    "name_zh": "橙红安乐蜥",
     "rarity": "3",
     "wear_max": 0.37,
     "wear_min": 0.0
   },
   "923": {
     "name": "Oxide Oasis",
+    "name_zh": "幻化绿洲",
     "rarity": "5",
     "wear_max": 0.55,
     "wear_min": 0.0
   },
   "924": {
     "name": "Desert Brush",
+    "name_zh": "沙漠伪装",
     "rarity": "1",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "925": {
     "name": "Desert DDPAT",
+    "name_zh": "沙漠 DDPAT",
     "rarity": "1",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "926": {
     "name": "Red DDPAT",
+    "name_zh": "红色 DDPAT",
     "rarity": "3",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "927": {
     "name": "Spalted Wood",
+    "name_zh": "朽木",
     "rarity": "2",
     "wear_max": 0.48,
     "wear_min": 0.0
   },
   "928": {
     "name": "Black & Tan",
+    "name_zh": "潜藏者",
     "rarity": "3",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "929": {
     "name": "Quick Sand",
+    "name_zh": "流沙",
     "rarity": "3",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "93": {
     "name": "Caramel",
+    "name_zh": "色如焦糖",
     "rarity": "1",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "930": {
     "name": "New Roots",
+    "name_zh": "碧藤青翠",
     "rarity": "3",
     "wear_max": 0.55,
     "wear_min": 0.0
   },
   "931": {
     "name": "Old Roots",
+    "name_zh": "残花败藤",
     "rarity": "2",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "932": {
     "name": "Withered Vine",
+    "name_zh": "紫藤老树",
     "rarity": "2",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "933": {
     "name": "Midnight Palm",
+    "name_zh": "夜半棕榈",
     "rarity": "2",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "934": {
     "name": "Bleached",
+    "name_zh": "白骨",
     "rarity": "1",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "935": {
     "name": "Prey",
+    "name_zh": "掠夺者",
     "rarity": "1",
     "wear_max": 0.48,
     "wear_min": 0.0
   },
   "936": {
     "name": "Attack Vector",
+    "name_zh": "攻击向量",
     "rarity": "4",
     "wear_max": 0.55,
     "wear_min": 0.0
   },
   "937": {
     "name": "Slalom",
+    "name_zh": "回转",
     "rarity": "4",
     "wear_max": 0.57,
     "wear_min": 0.0
   },
   "938": {
     "name": "Starcade",
+    "name_zh": "星尘拱廊",
     "rarity": "4",
     "wear_max": 0.75,
     "wear_min": 0.0
   },
   "939": {
     "name": "NV",
+    "name_zh": "NV",
     "rarity": "2",
     "wear_max": 0.47,
     "wear_min": 0.0
   },
   "940": {
     "name": "Astrolabe",
+    "name_zh": "星盘",
     "rarity": "2",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "941": {
     "name": "Phantom Disruptor",
+    "name_zh": "幻影破坏者",
     "rarity": "4",
     "wear_max": 0.65,
     "wear_min": 0.0
   },
   "942": {
     "name": "Tom Cat",
+    "name_zh": "汤姆猫",
     "rarity": "3",
     "wear_max": 0.8,
     "wear_min": 0.0
   },
   "943": {
     "name": "Capillary",
+    "name_zh": "毛细血管",
     "rarity": "2",
     "wear_max": 0.7,
     "wear_min": 0.05
   },
   "944": {
     "name": "Distressed",
+    "name_zh": "做旧手艺",
     "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "945": {
     "name": "Blue Ply",
+    "name_zh": "蓝色层压板",
     "rarity": "2",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "946": {
     "name": "Player Two",
+    "name_zh": "二号玩家",
     "rarity": "5",
     "wear_max": 0.84,
     "wear_min": 0.0
   },
   "947": {
     "name": "Disco Tech",
+    "name_zh": "渐变迪斯科",
     "rarity": "5",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "948": {
     "name": "Justice",
+    "name_zh": "正义",
     "rarity": "5",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "949": {
     "name": "Desert Strike",
+    "name_zh": "沙漠精英",
     "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "95": {
     "name": "Grassland",
+    "name_zh": "工业牧草",
     "rarity": "1",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "950": {
     "name": "Prototype",
+    "name_zh": "原型机",
     "rarity": "3",
     "wear_max": 0.7,
     "wear_min": 0.0
   },
   "951": {
     "name": "Acid Etched",
+    "name_zh": "酸蚀",
     "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "952": {
     "name": "Bone Forged",
+    "name_zh": "骸骨锻造",
     "rarity": "3",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "953": {
     "name": "Apocalypto",
+    "name_zh": "启示录",
     "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "954": {
     "name": "Enforcer",
+    "name_zh": "执行者",
     "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "955": {
     "name": "Darkwing",
+    "name_zh": "黯翼",
     "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "956": {
     "name": "Fever Dream",
+    "name_zh": "浮生如梦",
     "rarity": "4",
     "wear_max": 0.72,
     "wear_min": 0.0
   },
   "957": {
     "name": "Bullet Queen",
+    "name_zh": "子弹皇后",
     "rarity": "5",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "958": {
     "name": "Ultralight",
+    "name_zh": "飞羽",
     "rarity": "3",
     "wear_max": 0.79,
     "wear_min": 0.0
   },
   "959": {
     "name": "Legion of Anubis",
+    "name_zh": "阿努比斯军团",
     "rarity": "5",
     "wear_max": 0.7,
     "wear_min": 0.0
   },
   "96": {
     "name": "Blue Spruce",
+    "name_zh": "蓝色云杉",
     "rarity": "1",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "960": {
     "name": "Gnarled",
+    "name_zh": "盘根错节",
     "rarity": "2",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "961": {
     "name": "Monster Call",
+    "name_zh": "北冥有鱼",
     "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "962": {
     "name": "Printstream",
+    "name_zh": "印花集",
     "rarity": "5",
     "wear_max": 0.8,
     "wear_min": 0.0
   },
   "963": {
     "name": "Vogue",
+    "name_zh": "摩登时代",
     "rarity": "4",
     "wear_max": 0.75,
     "wear_min": 0.0
   },
   "964": {
     "name": "Brother",
+    "name_zh": "兄弟连",
     "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "965": {
     "name": "Allure",
+    "name_zh": "魅惑",
     "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "966": {
     "name": "Ol' Rusty",
+    "name_zh": "锈蚀之刃",
     "rarity": "3",
     "wear_max": 0.7,
     "wear_min": 0.0
   },
   "967": {
     "name": "Mainframe 001",
+    "name_zh": "主机001",
     "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "968": {
     "name": "Cassette",
+    "name_zh": "卡带",
     "rarity": "3",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "969": {
     "name": "Freight",
+    "name_zh": "集装箱",
     "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "970": {
     "name": "Entombed",
+    "name_zh": "埋葬之影",
     "rarity": "5",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "971": {
     "name": "Tooth Fairy",
+    "name_zh": "齿仙",
     "rarity": "4",
     "wear_max": 0.73,
     "wear_min": 0.0
   },
   "972": {
     "name": "Connexion",
+    "name_zh": "凤凰商号",
     "rarity": "4",
     "wear_max": 0.8,
     "wear_min": 0.0
   },
   "973": {
     "name": "Runic",
+    "name_zh": "神秘碑文",
     "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "974": {
     "name": "Kitbash",
+    "name_zh": "猛烈冲锋",
     "rarity": "4",
     "wear_max": 0.8,
     "wear_min": 0.0
   },
   "975": {
     "name": "Exoskeleton",
+    "name_zh": "亡灵之主",
     "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "976": {
     "name": "Vendetta",
+    "name_zh": "世仇",
     "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "977": {
     "name": "Cocoa Rampage",
+    "name_zh": "大怪兽 RUSH",
     "rarity": "3",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "978": {
     "name": "Dezastre",
+    "name_zh": "灾难",
     "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "979": {
     "name": "Fairy Tale",
+    "name_zh": "童话城堡",
     "rarity": "5",
     "wear_max": 0.9,
     "wear_min": 0.02
   },
   "98": {
     "name": "Ultraviolet",
+    "name_zh": "致命紫罗兰",
     "rarity": "3",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "980": {
     "name": "Digital Mesh",
+    "name_zh": "血腥迷彩",
     "rarity": "3",
     "wear_max": 0.8,
     "wear_min": 0.0
   },
   "981": {
     "name": "Vandal",
+    "name_zh": "破坏者",
     "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "982": {
     "name": "Contaminant",
+    "name_zh": "污染物",
     "rarity": "3",
     "wear_max": 0.7,
     "wear_min": 0.0
   },
   "983": {
     "name": "Deep Relief",
+    "name_zh": "等高线",
     "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "984": {
     "name": "Printstream",
+    "name_zh": "印花集",
     "rarity": "5",
     "wear_max": 0.8,
     "wear_min": 0.0
   },
   "985": {
     "name": "Cyber Security",
+    "name_zh": "赛博",
     "rarity": "4",
     "wear_max": 0.98,
     "wear_min": 0.0
   },
   "986": {
     "name": "Condition Zero",
+    "name_zh": "零点行动",
     "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "987": {
     "name": "Clear Polymer",
+    "name_zh": "一见青心",
     "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "988": {
     "name": "Neo-Noir",
+    "name_zh": "黑色魅影",
     "rarity": "5",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "989": {
     "name": "Parallax",
+    "name_zh": "抖枪",
     "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "99": {
     "name": "Sand Dune",
+    "name_zh": "沙丘之黄",
     "rarity": "1",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "990": {
     "name": "Gold Bismuth",
+    "name_zh": "金铋辉煌",
     "rarity": "4",
     "wear_max": 0.7,
     "wear_min": 0.0
   },
   "991": {
     "name": "Monster Mashup",
+    "name_zh": "小绿怪",
     "rarity": "4",
     "wear_max": 0.7,
     "wear_min": 0.0
   },
   "992": {
     "name": "The Bronze",
+    "name_zh": "古铜密码",
     "rarity": "1",
     "wear_max": 0.3,
     "wear_min": 0.0
   },
   "993": {
     "name": "Global Offensive",
+    "name_zh": "全球攻势",
     "rarity": "2",
     "wear_max": 0.7,
     "wear_min": 0.0
   },
   "994": {
     "name": "Charter",
+    "name_zh": "旧宪章",
     "rarity": "1",
     "wear_max": 0.65,
     "wear_min": 0.0
   },
   "995": {
     "name": "Surveillance",
+    "name_zh": "搜索",
     "rarity": "1",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "996": {
     "name": "Threat Detected",
+    "name_zh": "侦测",
     "rarity": "3",
     "wear_max": 0.65,
     "wear_min": 0.0
   },
   "997": {
     "name": "Dispatch",
+    "name_zh": "绝命密电",
     "rarity": "2",
     "wear_max": 0.65,
     "wear_min": 0.0
   },
   "998": {
     "name": "Switch Board",
+    "name_zh": "暗网总机",
     "rarity": "2",
     "wear_max": 0.65,
     "wear_min": 0.0
   },
   "999": {
     "name": "Prime Conspiracy",
+    "name_zh": "幕后主谋",
     "rarity": "4",
     "wear_max": 0.55,
     "wear_min": 0.0

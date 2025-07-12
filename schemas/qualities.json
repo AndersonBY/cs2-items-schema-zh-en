@@ -1,15 +1,54 @@
 {
-  "0": "Normal",
-  "1": "Genuine",
-  "10": "Completed",
-  "12": "Souvenir",
-  "13": "Highlight",
-  "2": "Vintage",
-  "3": "\u2605",
-  "4": "Unique",
-  "5": "Community",
-  "6": "Valve",
-  "7": "Prototype",
-  "8": "Customized",
-  "9": "StatTrak\u2122"
+  "0": {
+    "name": "Normal",
+    "name_zh": "普通"
+  },
+  "1": {
+    "name": "Genuine",
+    "name_zh": "纯正"
+  },
+  "10": {
+    "name": "Completed",
+    "name_zh": "已完成"
+  },
+  "12": {
+    "name": "Souvenir",
+    "name_zh": "纪念品"
+  },
+  "13": {
+    "name": "Highlight",
+    "name_zh": "高光时刻"
+  },
+  "2": {
+    "name": "Vintage",
+    "name_zh": "传承"
+  },
+  "3": {
+    "name": "★",
+    "name_zh": "★"
+  },
+  "4": {
+    "name": "Unique",
+    "name_zh": "独特"
+  },
+  "5": {
+    "name": "Community",
+    "name_zh": "社区"
+  },
+  "6": {
+    "name": "Valve",
+    "name_zh": "Valve"
+  },
+  "7": {
+    "name": "Prototype",
+    "name_zh": "原型"
+  },
+  "8": {
+    "name": "Customized",
+    "name_zh": "自定义"
+  },
+  "9": {
+    "name": "StatTrak™",
+    "name_zh": "StatTrak™"
+  }
 }

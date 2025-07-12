@@ -10,6 +10,7 @@ class FieldsCollector:
 
     items_game: typings.ITEMS_GAME
     csgo_english: typings.CSGO_ENGLISH
+    csgo_schinese: typings.CSGO_SCHINESE
     phases_mapping: dict[str, str]
 
     _types_mapping: dict[str, str] = None
@@ -20,12 +21,10 @@ class FieldsCollector:
         qualities = {}
         for quality_key, quality_data in self.items_game["qualities"].items():
             try:
-                # in csgo_english titled as rarities :)
-                # qualities[quality_data["value"]] = {
-                #     "name": self.csgo_english[quality_key],
-                #     "key": quality_key,
-                # }
-                qualities[quality_data["value"]] = self.csgo_english[quality_key]
+                qualities[quality_data["value"]] = {
+                    "name": self.csgo_english[quality_key],
+                    "name_zh": self.csgo_schinese.get(quality_key, self.csgo_english[quality_key]),
+                }
                 self._qualities_mapping[quality_key] = quality_data["value"]
             except KeyError:  # skip qualities that don't have name
                 pass
@@ -88,6 +87,7 @@ class FieldsCollector:
                 paint = {
                     # "key": paint_data["name"],
                     "name": self.csgo_english[paint_data["description_tag"][1:]],
+                    "name_zh": self.csgo_schinese.get(paint_data["description_tag"][1:], self.csgo_english[paint_data["description_tag"][1:]]),
                     "wear_min": float(paint_data.get("wear_remap_min", 0.06)),
                     "wear_max": float(paint_data.get("wear_remap_max", 0.8)),
                 }
@@ -113,12 +113,15 @@ class FieldsCollector:
             try:
                 rarity = {
                     "weapon": self.csgo_english[rarity_data["loc_key_weapon"]],
+                    "weapon_zh": self.csgo_schinese.get(rarity_data["loc_key_weapon"], self.csgo_english[rarity_data["loc_key_weapon"]]),
                     "nonweapon": self.csgo_english[rarity_data["loc_key"]],
+                    "nonweapon_zh": self.csgo_schinese.get(rarity_data["loc_key"], self.csgo_english[rarity_data["loc_key"]]),
                     "color": self.items_game["colors"][rarity_data["color"]]["hex_color"],
                     # "key": rarity_key,
                 }
                 if character_rarity := self.csgo_english.get(rarity_data["loc_key_character"]):
                     rarity["character"] = character_rarity
+                    rarity["character_zh"] = self.csgo_schinese.get(rarity_data["loc_key_character"], character_rarity)
 
                 rarities[rarity_data["value"]] = rarity
                 self._rarities_mapping[rarity_key] = rarity_data["value"]
@@ -143,15 +146,23 @@ class FieldsCollector:
     def _parse_tints(self):
         tints = {}
         for tint_data in self.items_game["graffiti_tints"].values():
-            tints[tint_data["id"]] = self.csgo_english["Attrib_SprayTintValue_" + tint_data["id"]]
+            tint_key = "Attrib_SprayTintValue_" + tint_data["id"]
+            tints[tint_data["id"]] = {
+                "name": self.csgo_english[tint_key],
+                "name_zh": self.csgo_schinese.get(tint_key, self.csgo_english[tint_key]),
+            }
 
         return tints
 
-    def _parse_music_defs(self) -> dict[str, str]:
+    def _parse_music_defs(self) -> dict[str, dict[str, str]]:
         music_defs = {}
         for music_index, music_kit_data in self.items_game["music_definitions"].items():
             try:
-                music_defs[music_index] = self.csgo_english[music_kit_data["loc_name"][1:]]
+                music_key = music_kit_data["loc_name"][1:]
+                music_defs[music_index] = {
+                    "name": self.csgo_english[music_key],
+                    "name_zh": self.csgo_schinese.get(music_key, self.csgo_english[music_key]),
+                }
             except KeyError:
                 pass
 

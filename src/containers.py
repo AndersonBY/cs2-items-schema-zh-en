@@ -1,5 +1,6 @@
 import re
 from dataclasses import dataclass
+from typing import Any
 
 from . import typings
 
@@ -12,6 +13,7 @@ class ContainersCollector:
 
     items_game: typings.ITEMS_GAME
     csgo_english: typings.CSGO_ENGLISH
+    csgo_schinese: typings.CSGO_SCHINESE
 
     def _find_item_indexes(self, item_name: str) -> str:
         # performance? No, thanks
@@ -20,9 +22,9 @@ class ContainersCollector:
             if type_data["name"] == def_name:
                 for paint_index, paint_data in self.items_game["paint_kits"].items():
                     if paint_data["name"] == paint_name:
-                        return "[" + paint_index + "]" + defindex
+                        return f"[{paint_index}]{defindex}"
 
-    def _check_case_prefab(self, data: dict[str, ...]) -> bool:
+    def _check_case_prefab(self, data: dict[str, Any]) -> bool:
         # look for weapon_case_base prefab walking to top
         if "prefab" in data:
             if data["prefab"] == "weapon_case_base":

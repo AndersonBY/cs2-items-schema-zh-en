@@ -9,6 +9,7 @@ class StickerKitsCollector:
 
     items_game: typings.ITEMS_GAME
     csgo_english: typings.CSGO_ENGLISH
+    csgo_schinese: typings.CSGO_SCHINESE
 
     containers: dict[str, dict]
 
@@ -28,8 +29,10 @@ class StickerKitsCollector:
         sticker_kit_data: dict[str, str]
         for sticker_kit_index, sticker_kit_data in self.items_game["sticker_kits"].items():
             try:
+                sticker_kit_name_key = sticker_kit_data["item_name"][1:]
                 sticker_kit = {
-                    "name": self.csgo_english[sticker_kit_data["item_name"][1:]],
+                    "name": self.csgo_english[sticker_kit_name_key],
+                    "name_zh": self.csgo_schinese.get(sticker_kit_name_key, self.csgo_english[sticker_kit_name_key]),
                 }
 
             except KeyError:

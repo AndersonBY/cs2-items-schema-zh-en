@@ -1,48 +1,70 @@
 {
   "0": {
     "character": "Default",
+    "character_zh": "默认",
     "color": "#ded6cc",
     "nonweapon": "Default",
-    "weapon": "Stock"
+    "nonweapon_zh": "默认",
+    "weapon": "Stock",
+    "weapon_zh": "基础"
   },
   "1": {
     "color": "#b0c3d9",
     "nonweapon": "Base Grade",
-    "weapon": "Consumer Grade"
+    "nonweapon_zh": "普通级",
+    "weapon": "Consumer Grade",
+    "weapon_zh": "消费级"
   },
   "2": {
     "color": "#5e98d9",
     "nonweapon": "Medium Grade",
-    "weapon": "Industrial Grade"
+    "nonweapon_zh": "中级",
+    "weapon": "Industrial Grade",
+    "weapon_zh": "工业级"
   },
   "3": {
     "character": "Distinguished",
+    "character_zh": "高级",
     "color": "#4b69ff",
     "nonweapon": "High Grade",
-    "weapon": "Mil-Spec Grade"
+    "nonweapon_zh": "高级",
+    "weapon": "Mil-Spec Grade",
+    "weapon_zh": "军规级"
   },
   "4": {
     "character": "Exceptional",
+    "character_zh": "卓越",
     "color": "#8847ff",
     "nonweapon": "Remarkable",
-    "weapon": "Restricted"
+    "nonweapon_zh": "卓越",
+    "weapon": "Restricted",
+    "weapon_zh": "受限"
   },
   "5": {
     "character": "Superior",
+    "character_zh": "非凡",
     "color": "#d32ce6",
     "nonweapon": "Exotic",
-    "weapon": "Classified"
+    "nonweapon_zh": "奇异",
+    "weapon": "Classified",
+    "weapon_zh": "保密"
   },
   "6": {
     "character": "Master",
+    "character_zh": "大师",
     "color": "#eb4b4b",
     "nonweapon": "Extraordinary",
-    "weapon": "Covert"
+    "nonweapon_zh": "非凡",
+    "weapon": "Covert",
+    "weapon_zh": "隐秘"
   },
   "7": {
     "character": "Contraband",
+    "character_zh": "违禁",
     "color": "#e4ae39",
     "nonweapon": "Contraband",
-    "weapon": "Contraband"
+    "nonweapon_zh": "违禁",
+    "weapon": "Contraband",
+    "weapon_zh": "违禁"
   }
 }

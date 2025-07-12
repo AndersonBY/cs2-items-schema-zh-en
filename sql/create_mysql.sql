@@ -16,6 +16,7 @@ CREATE TABLE origins (
 CREATE TABLE qualities (
 	id SMALLINT NOT NULL, 
 	name VARCHAR(16), 
+	name_zh VARCHAR(32), 
 	PRIMARY KEY (id)
 )
 
@@ -30,6 +31,7 @@ CREATE TABLE phases (
 CREATE TABLE tints (
 	id SMALLINT NOT NULL, 
 	name VARCHAR(16), 
+	name_zh VARCHAR(32), 
 	PRIMARY KEY (id)
 )
 
@@ -37,6 +39,7 @@ CREATE TABLE tints (
 CREATE TABLE musics (
 	id SMALLINT NOT NULL, 
 	name VARCHAR(16), 
+	name_zh VARCHAR(32), 
 	PRIMARY KEY (id)
 )
 
@@ -44,9 +47,12 @@ CREATE TABLE musics (
 CREATE TABLE rarities (
 	id SMALLINT NOT NULL, 
 	`character` VARCHAR(16), 
+	character_zh VARCHAR(32), 
 	color VARCHAR(16) NOT NULL, 
 	nonweapon VARCHAR(16) NOT NULL, 
+	nonweapon_zh VARCHAR(32), 
 	weapon VARCHAR(16) NOT NULL, 
+	weapon_zh VARCHAR(32), 
 	PRIMARY KEY (id)
 )
 
@@ -75,6 +81,7 @@ CREATE TABLE definitions (
 CREATE TABLE paints (
 	paintindex SMALLINT NOT NULL, 
 	name VARCHAR(60) NOT NULL, 
+	name_zh VARCHAR(120), 
 	wear_min FLOAT NOT NULL, 
 	wear_max FLOAT NOT NULL, 
 	rarity SMALLINT NOT NULL, 
@@ -88,6 +95,7 @@ CREATE TABLE paints (
 CREATE TABLE sticker_kits (
 	id SMALLINT NOT NULL, 
 	name VARCHAR(60) NOT NULL, 
+	name_zh VARCHAR(120), 
 	rarity SMALLINT, 
 	PRIMARY KEY (id), 
 	FOREIGN KEY(rarity) REFERENCES rarities (id)
