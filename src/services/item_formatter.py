@@ -4,8 +4,20 @@ CS2 Items Formatter Service
 """
 
 import json
+import re
 from dataclasses import asdict, dataclass
 from pathlib import Path
+
+
+def slugify(text: str) -> str:
+    if not text:
+        return ""
+
+    text = text.lower().replace(" ", "-").replace("_", "-")
+    clean_text = re.sub(r"[^a-zA-Z0-9-]", "", text)
+    clean_text = re.sub(r"-+", "-", clean_text).strip("-")
+
+    return clean_text
 
 
 @dataclass
@@ -110,7 +122,7 @@ class ItemFormatterService:
             item_type = self._get_item_type(def_data.get("type", "0"))
             item_name = self._get_item_name(paint_id, def_id)
             if item_type == "weapon":
-                slug_name = f"{item_name.lower().replace(' ', '_')}_{paint_name.lower().replace(' ', '_')}"
+                slug_name = f"{slugify(item_name)}-{paint_id}"
 
                 name = {
                     "zh-CN": f"{def_data.get('name_zh', f'Weapon_{def_id}')} | {paint_name_zh}",
@@ -150,7 +162,7 @@ class ItemFormatterService:
             "en-US": sticker_data.get("description_english", ""),
         }
 
-        slug_name = name["en-US"].lower().replace(" ", "_").replace("|", "").replace("(", "").replace(")", "")
+        slug_name = slugify(name["en-US"])
 
         return CS2Item(
             slug_name=slug_name,
@@ -182,7 +194,7 @@ class ItemFormatterService:
 
         name = {"zh-CN": music_name_zh, "en-US": music_name}
 
-        slug_name = f"music_kit_{music_name.lower().replace(' ', '_').replace(',', '').replace('-', '_')}"
+        slug_name = f"music-kit-{slugify(music_name)}"
 
         return CS2Item(
             slug_name=slug_name,
@@ -209,7 +221,7 @@ class ItemFormatterService:
             "en-US": item_name,
         }
 
-        slug_name = item_name.lower().replace(" ", "_").replace("-", "_")
+        slug_name = slugify(item_name)
 
         # 如果是Agent类型，设置agent_name
         agent_name = self._get_default_description()
@@ -252,7 +264,7 @@ class ItemFormatterService:
             "en-US": container_name,
         }
 
-        slug_name = container_name.lower().replace(" ", "_").replace("-", "_")
+        slug_name = slugify(container_name)
 
         return CS2Item(
             slug_name=slug_name,
